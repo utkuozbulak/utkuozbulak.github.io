@@ -3,7 +3,7 @@ title: "Impact of Adversarial Examples on Deep Learning Models for Biomedical Im
 collection: publications
 date: 2019-10-01
 permalink: 19-miccai
-venue: '22nd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Shenzhen, China <br /> Main track, Accepted'
+venue: 'The 22nd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Shenzhen, China <br /> Main track, Accepted'
 ---
 **Utku Ozbulak**, Arnout Van Messem, Wesley De Neve <br /> [Download paper](https://blank.org/) <br /> [Download code](https://blank.org/)
 
