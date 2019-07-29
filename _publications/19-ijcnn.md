@@ -3,7 +3,7 @@ title: "Not All Adversarial Examples Require a Complex Defense: Identifying Over
 collection: publications
 date: 2019-01-01
 permalink: 19-ijcnn
-venue: 'International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary <br /> Main track, Oral presentation'
+venue: 'The International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary <br /> Main track, Oral presentation'
 ---
 **Utku Ozbulak**, Arnout Van Messem, Wesley De Neve <br /> [Download paper](https://blank.org/) <br /> [Download presentation](https://blank.org/)
 
