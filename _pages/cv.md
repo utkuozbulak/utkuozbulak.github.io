@@ -17,6 +17,8 @@ Education
 * **MSc. in Data Science**, *University of Southampton* <br />Southampton, United Kingdom &#124; Graduated with Distinction in 2017
 * **Bsc. in Computer Engineering**, *Yasar University*<br />Izmir, Turkey &#124; Graduated with 3.04/4 GPA in 2014
 
+<br />
+
 Work experience
 ======
 * **Researcher and Teaching Assistant**, Ghent University Global Campus <br />Incheon, South Korea &#124; Period: 09/2017 - Ongoing
@@ -27,28 +29,34 @@ Work experience
   * Bosch Siemens Hausgeräte
   * Flormar Cosmetics
 
+<br />
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<br />
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<br />
 
 Recent Projects and Activities
 ======
 * Attended and presented my work in International Computer Vision Summer School (ICVSS), organized by University of Catania in Sicily, Italy
 * Attended and presented my work in the PhD Summer School of Optimization in Image Analysis, organized by Denmark Technical University in Sandbjerg Gods, Denmark
 * Obtained 1st place in 2017 University College London data science competition
-* GitHub repository on the visualization of CNNs: 
-* GitHub repository on the adversarial examples of CNNs: 
-* GitHub repository on tutorial for PyTorch custom datasets:
+* GitHub repository on the visualization of CNNs: [Repository link](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
+* GitHub repository on the adversarial examples of CNNs: [Repository link](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)
+* GitHub repository on tutorial for PyTorch custom datasets: [Repository link](https://github.com/utkuozbulak/pytorch-custom-dataset-examples)
 
+<br />
 
 Certifications
 ======
@@ -57,6 +65,8 @@ Certifications
 * *MAPR DEV 301* - Developing Hadoop Applications
 * *MongoDB M101P* - MongoDB for Python Developers
 * *MongoDB M102* - MongoDB for DBAs
+
+<br />
 
 Talks
 ======
