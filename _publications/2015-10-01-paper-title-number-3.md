@@ -1,5 +1,5 @@
 ---
-title: "Impact of Adversarial Examples on Deep Learning Models for\\Biomedical Image Segmentation"
+title: "Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation"
 collection: publications
 date: 2019-10-01
 permalink: https://blank.org/
