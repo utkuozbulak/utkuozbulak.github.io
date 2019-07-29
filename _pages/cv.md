@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+**Education**
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* *Ph.D in Computer Science Engineering*, Ghent University, Belgium | Ongoing (Expected graduation: 2021)
+* *MSc. in Data Science*, University of Southampton, United Kingdom | Graduated with Distinction
+* *Bsc. in Computer Engineering*, Yasar University, Turkey | Graduated with 3.04/4 GPA
 
 Work experience
 ======
