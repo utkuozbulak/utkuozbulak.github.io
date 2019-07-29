@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Education**
+Education
 ======
 * **Ph.D in Computer Science Engineering**, *Ghent University* <br /> Ghent, Belgium &#124; Ongoing (Expected graduation: 2021)
 * **MSc. in Data Science**, *University of Southampton* <br /> Southampton, United Kingdom &#124; Graduated with Distinction in 2017
