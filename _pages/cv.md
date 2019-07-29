@@ -11,13 +11,13 @@ redirect_from:
 
 **Education**
 ======
-* **Ph.D in Computer Science Engineering**, *Ghent University*, Belgium - Ongoing (Expected graduation: 2021)
-* **MSc. in Data Science**, *University of Southampton*, United Kingdom - Graduated with Distinction
-* **Bsc. in Computer Engineering**, *Yasar University*, Turkey - Graduated with 3.04/4 GPA
+* **Ph.D in Computer Science Engineering**, *Ghent University*, Belgium &#124; Ongoing (Expected graduation: 2021)
+* **MSc. in Data Science**, *University of Southampton*, United Kingdom &#124; Graduated with Distinction in 2017
+* **Bsc. in Computer Engineering**, *Yasar University*, Turkey &#124; Graduated with 3.04/4 GPA in 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* **SAP Business Intelligence Consultant**, Acron Consulting - Istanbul, Turkey. Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
