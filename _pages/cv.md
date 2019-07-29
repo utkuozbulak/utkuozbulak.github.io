@@ -17,15 +17,14 @@ Education
 
 Work experience
 ======
-* **SAP Business Intelligence Consultant**, *Acron Consulting* <br />Istanbul, Turkey &#124; Period: 07/2014 - 08/2016
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Researcher and Teaching Assistant**, Ghent University Global Campus <br />Incheon, South Korea &#124; Period: 09/2017 - Ongoing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* **SAP Business Intelligence Consultant**, *Acron Consulting* <br />Istanbul, Turkey &#124; Period: 07/2014 - 08/2016  <br /> 	__Notable Clients__
+  * The Coca Cola Company
+  * Turkish Airlines
+  * Bosch Siemens Hausgeräte
+  * Flormar Cosmetics
   
 Skills
 ======
