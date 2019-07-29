@@ -18,5 +18,6 @@ In terms of research, I am generally interested in:
 * Out-of-distribution detection
 
 A complete list of my publications can be found [here](https://utkuozbulak.github.io/publications/).
+
 A number of GitHub repositories I have put online can be found [here](https://github.com/utkuozbulak).
 
