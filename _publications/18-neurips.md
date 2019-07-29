@@ -3,7 +3,7 @@ title: "How the Softmax Output is Misleading for Evaluating the Strength of Adve
 collection: publications
 date: 2018-01-01
 permalink: 18-neurips
-venue: '32nd Conference on Neural Information Processing Systems (NeurIPS), Montréal, Canada <br /> Workshop on Security in Machine Learning (SECML), Poster presentation'
+venue: 'The 32nd Conference on Neural Information Processing Systems (NeurIPS), Montréal, Canada <br /> Workshop on Security in Machine Learning (SECML), Poster presentation'
 ---
 **Utku Ozbulak**, Wesley De Neve, Arnout Van Messem  <br /> <span style="color:red">[Download paper](https://arxiv.org/abs/1811.08577) </span> <br /> [Download poster](http://academicpages.github.io/files/paper2.pdf)
 
