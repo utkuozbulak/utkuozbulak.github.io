@@ -11,9 +11,9 @@ redirect_from:
 
 **Education**
 ======
-* *Ph.D in Computer Science Engineering*, Ghent University, Belgium - Ongoing (Expected graduation: 2021)
-* *MSc. in Data Science*, University of Southampton, United Kingdom - Graduated with Distinction
-* *Bsc. in Computer Engineering*, Yasar University, Turkey - Graduated with 3.04/4 GPA
+* **Ph.D in Computer Science Engineering**, *Ghent University*, Belgium - Ongoing (Expected graduation: 2021)
+* **MSc. in Data Science**, *University of Southampton*, United Kingdom - Graduated with Distinction
+* **Bsc. in Computer Engineering**, *Yasar University*, Turkey - Graduated with 3.04/4 GPA
 
 Work experience
 ======
