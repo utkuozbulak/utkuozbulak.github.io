@@ -1,11 +1,11 @@
 ---
-title: "PhD Progress Presentation at IDLab, Ghent University"
+title: "SAP HANA Training for Acron Consulting"
 collection: talks
-type: "Research Presentation"
+type: "Training"
 permalink: /talks/talk-1
-venue: "Ghent University"
-date: 2018-01-01
-location: "Ghent, Belgium"
+venue: "Acron Consulting"
+date: 2015-07-01
+location: "Istanbul, Turkey"
 ---
 
-Topic: Adversarial Examples in Machine Learning
+Topic: SAP HANA In-memory Appliance training for Acron Consulting Business Intelligence Team
