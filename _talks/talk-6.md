@@ -1,5 +1,5 @@
 ---
-title: "Poster Presentation at PhD Summer School, Organized by DTU and DIKU"
+title: "Presentation at PhD Summer School on Optimization in Image Analysis"
 collection: talks
 type: "Poster Presentation"
 permalink: /talks/talk-6

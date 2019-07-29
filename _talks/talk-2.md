@@ -8,4 +8,4 @@ date: 2016-02-01
 location: "Istanbul, Turkey"
 ---
 
-Topic: SAP HANA In-memory Appliance training for Bosch Siemens Hausgeräte Business Intelligence Team
+Topic: SAP HANA In-memory Appliance training for Bosch Siemens Hausgeräte, Business Intelligence Team

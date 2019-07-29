@@ -1,9 +1,9 @@
 ---
-title: "Oral Presentation at International Joint Conference on Neural Networks (IJCNN)"
+title: "Presentation at International Joint Conference on Neural Networks (IJCNN)"
 collection: talks
-type: "Poster Presentation"
+type: "Oral Presentation"
 permalink: /talks/talk-8
-venue: "International Joint Conference on Neural Networks, Budapest, Hungary"
+venue: "International Joint Conference on Neural Networks"
 date: 2019-07-15
 location: "Budapest, Hungary"
 ---
