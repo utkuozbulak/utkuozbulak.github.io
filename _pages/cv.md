@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<br />
 Education
 ======
 * **Ph.D in Computer Science Engineering**, *Ghent University* <br />Ghent, Belgium &#124; Ongoing (Expected graduation: 2021)
@@ -19,8 +19,7 @@ Work experience
 ======
 * **Researcher and Teaching Assistant**, Ghent University Global Campus <br />Incheon, South Korea &#124; Period: 09/2017 - Ongoing
 
-
-* **SAP Business Intelligence Consultant**, *Acron Consulting* <br />Istanbul, Turkey &#124; Period: 07/2014 - 08/2016  <br /> 	__Notable Clients__
+* **SAP Business Intelligence Consultant**, *Acron Consulting* <br />Istanbul, Turkey &#124; Period: 07/2014 - 08/2016  <br /> 	__Notable Clients:__
   * The Coca Cola Company
   * Turkish Airlines
   * Bosch Siemens Hausgeräte
@@ -53,6 +52,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
