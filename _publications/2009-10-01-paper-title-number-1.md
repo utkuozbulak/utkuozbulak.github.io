@@ -5,8 +5,6 @@ date: 2018-01-01
 permalink: https://arxiv.org/abs/1811.08577
 venue: '32nd Conference on Neural Information Processing Systems (NeurIPS 2018), Montréal, Canada <br /> Workshop on Security in Machine Learning (SECML)'
 ---
-**Utku Ozbulak**, Wesley De Neve, Arnout Van Messem
-
-Paper: [download](https://arxiv.org/abs/1811.08577)
+**Utku Ozbulak**, Wesley De Neve, Arnout Van Messem  <br /> Paper: [download](https://arxiv.org/abs/1811.08577)
 
 Poster: [download](http://academicpages.github.io/files/paper2.pdf)
