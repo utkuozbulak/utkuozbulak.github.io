@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Computer Science Engineering**, *Ghent University* <br />Ghent, Belgium &#124; Ongoing (Expected graduation: 2021)
-* **MSc. in Data Science**, *University of Southampton* <br />Southampton, United Kingdom &#124; Graduated with Distinction in 2017
+* **Ph.D in Computer Science Engineering**, *Ghent University* <br />Ghent, Belgium &#124; 2017 - Ongoing (Expected graduation: 2021)<br /> Research topic: *Adversarial examples in machine learning*
+* **MSc. in Data Science**, *University of Southampton* <br />Southampton, United Kingdom &#124; Graduated with Distinction in 2017 <br /> Thesis: *Analysis of Deep Convolutional Neural Network Robustness Against Image Distortion Operations*
 * **Bsc. in Computer Engineering**, *Yasar University*<br />Izmir, Turkey &#124; Graduated with 3.04/4 GPA in 2014
 
 <br />
