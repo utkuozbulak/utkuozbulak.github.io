@@ -5,7 +5,7 @@ date: 2019-01-01
 permalink: 19-ijcnn
 venue: 'The International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary <br /> Main track, Oral presentation'
 ---
-**Utku Ozbulak**, Arnout Van Messem, Wesley De Neve <br /> [Download paper](https://blank.org/) <br /> [Download presentation](https://blank.org/)
+**Utku Ozbulak**, Arnout Van Messem, Wesley De Neve <br /> [Download paper](https://arxiv.org/abs/1907.12744) <br />
 
 **Abstract**
 
