@@ -1,5 +1,5 @@
 ---
-title: "Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation"
+title: "Perturbation Analysis of Gradient-based Adversarial Attacks"
 collection: publications
 date: 2020-6-01
 permalink: 20-prl
