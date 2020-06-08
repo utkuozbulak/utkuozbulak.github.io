@@ -3,7 +3,7 @@ title: "Perturbation Analysis of Gradient-based Adversarial Attacks"
 collection: publications
 date: 2020-6-01
 permalink: 20-prl
-venue: 'Pattern Recognition Letters, 2020, Elsevier.'
+venue: 'Pattern Recognition Letters, Elsevier.'
 ---
 **Utku Ozbulak**, Wesley De Neve, Arnout Van Messem <br /> [Download paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865520301641)
 
