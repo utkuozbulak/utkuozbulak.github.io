@@ -3,7 +3,7 @@ title: "Selection of Source Images Heavily Influences the Effectiveness of Adver
 collection: publications
 date: 2021-06-15
 permalink: 21-advdata
-venue: 'British Machine Vision Conference <br /> Main track, Oral presentation'
+venue: '2021 British Machine Vision Conference (BMVC) <br /> Main track, oral presentation'
 ---
 **Utku Ozbulak**, Esla Timothy Anzaku, Arnout Van Messem, Wesley De Neve <br /> [Download paper](https://arxiv.org/abs/2106.07141)
 

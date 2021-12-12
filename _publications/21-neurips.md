@@ -3,7 +3,7 @@ title: "Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassi
 collection: publications
 date: 2021-10-15
 permalink: 21-neurips
-venue: '2021 Neural Information Processing Systems (NeurIPS 2021), Workshop on ImageNet: Past,Present, and Future <br />   Poster presentation'
+venue: '2021 Conference on Neural Information Processing Systems (NeurIPS) <br /> Workshop on ImageNet: Past,Present, and Future, poster presentation'
 ---
 **Utku Ozbulak**, Maura Pintor, Arnout Van Messem, Wesley De Neve <br /> [Download paper](https://arxiv.org/abs/2111.11056)
 
