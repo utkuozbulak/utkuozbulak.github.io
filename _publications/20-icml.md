@@ -3,7 +3,7 @@ title: "Regional Image Perturbation Reduces Lp Norms of Adversarial Examples Whi
 collection: publications
 date: 2020-7-01
 permalink: 20-icml
-venue: '2020 International Conference on Machine Learning (ICML), Uncertainty & Robustness in Deep Learning (UDL) <br />   Poster presentation'
+venue: '2020 International Conference on Machine Learning (ICML), Workshop on Uncertainty & Robustness in Deep Learning (UDL) <br />   Poster presentation'
 ---
 **Utku Ozbulak**, Jonathan Peck, Wesley De Neve, Bart Goossens, Yvan Saeys, Arnout Van Messem <br /> [Download paper](https://arxiv.org/abs/2007.03198) <br /> [Download code](https://github.com/utkuozbulak/regional-adversarial-perturbation)
 
