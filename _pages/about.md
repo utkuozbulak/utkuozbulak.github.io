@@ -10,10 +10,9 @@ redirect_from:
 
 <div style="text-align: justify"> 
 I am a fourth-year PhD student at Ghent University of Belgium, working under Professor Wesley De Neve and Professor Van Messem. Due to my teaching duties, I am mostly located in the South Korean campus of Ghent University. I will receive my doctoral degree on January 2022. During my PhD, I tacked the problem of trustable AI, analyzing weaknesses of deep learning models against negative adversarial examples.
-
-
-My most recent works include (1) a sanity check to adversarial attack evaluation in context of misclassification classes and the selection of source images, (2) adversarial attacks on segmentation models, and (3) plausable defenses against adversarial examples. 
-
+<br />
+My most recent works include (1) sanity checks to adversarial attack evaluation in the context of misclassification classes and selection of source images, (2) adversarial attacks on segmentation models, and (3) plausable defenses against adversarial examples. 
+<br />
 I obtained my MSc. Data Science degree from University of Southampton (UK) in 2017 and BSc. Computer Engineering degree from Yasar University (Turkey) in 2014. In between MSc. and BSc. I worked as an SAP Business Intelligence Consultant for two years, visiting various companies and solving their BI needs.
 </div>
 
