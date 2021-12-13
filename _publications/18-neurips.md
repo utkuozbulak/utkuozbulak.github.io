@@ -5,7 +5,7 @@ date: 2018-01-01
 permalink: 18-neurips
 venue: '2018 Conference on Neural Information Processing Systems (NeurIPS) <br /> Workshop on Security in Machine Learning (SECML), poster presentation'
 ---
-**Utku Ozbulak**, Wesley De Neve, Arnout Van Messem  <br /> <span style="color:red">[Download paper](https://arxiv.org/abs/1811.08577) </span>
+**Utku Ozbulak**, Wesley De Neve, Arnout Van Messem  <br /> <span style="color:red">[Link to paper](https://arxiv.org/abs/1811.08577) </span>
 
 **Abstract**
 
