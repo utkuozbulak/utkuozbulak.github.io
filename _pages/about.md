@@ -21,7 +21,7 @@ I obtained my MSc. Data Science degree from University of Southampton (UK) in 20
 <br />
 In terms of research, I am generally interested in:
 
-* Trustable AI
+* Trustworthy AI
 * Adversarial examples (properties, attacks, and defenses)
 * Real-world applications (attacks) of adversarial examples
 * Explainable AI
