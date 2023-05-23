@@ -72,6 +72,8 @@ Here is a brief overview of my recent activities:
   * <span style="font-size:12px">Bosch Siemens Hausgerate</span>
   * <span style="font-size:12px">Flormar Cosmetics</span>
 
+------
+
 (2012 - 2014) **BSc. in Computer Engineering**, Yasar University, Turkey
 
 
