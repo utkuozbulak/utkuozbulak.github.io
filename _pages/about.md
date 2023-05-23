@@ -19,9 +19,13 @@ Here is an overview of my recent activities:
 (2017 - 2022) **PhD in Computer Science**, Ghent University, Belgium <br /> *Research focus:* trustworthy and explainable AI, adversarial examples (properties, attacks, and defenses) 
   
   *Other activities*:
+  * Authored [github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
+  * Authored [github.com/utkuozbulak/pytorch-custom-datasets](https://github.com/utkuozbulak/pytorch-custom-datasets)
+  * Authored [github.com/utkuozbulak/pytorch-cnn-adversarial-attacks](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)
+  * Authored [github.com/utkuozbulak/adaptive-segmentation-mask-attack](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)
   
    *Publications:*
-  * <span style="font-size:12px">Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes, Neurips - Workshop on ImageNet: Past,Present, and Future</span>
+  * <span style="font-size:12px">Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />Neurips - Workshop on ImageNet: Past,Present, and Future</span>
   * <span style="font-size:12px">Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks, BMVC, Oral</span>
   * <span style="font-size:12px">Investigating the significance of adversarial attacks and their relation to interpretability for radar-based human activity recognition systems, Computer Vision and Image Understanding</span>
   * <span style="font-size:12px">Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability, *ICML - UDL Workshop*</span>
