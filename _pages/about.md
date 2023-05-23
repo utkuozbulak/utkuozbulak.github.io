@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify"> 
-Currently working as a postdoctoral researcher at the Korean Campus of Ghent University, where I am engaged in research on two distinct topics: (1) image-based self-supervised learning, particularly with vision transformers, and (2) the exploration of genomics and mutagenesis using machine learning.
+Currently working as a postdoctoral researcher at the Korean Campus of Ghent University, where I am engaged in research on two distinct topics: (1) image-based self-supervised learning, particularly with vision transformers, and (2) bioinformatics and particularly mutagenesis using machine learning.
 </div>
 
 ------
@@ -21,7 +21,7 @@ Here is a brief overview of my recent activities:
   *Research focus:*
 
   * <span style="font-size:12px">Image-based self-supervised learning and vision transformers (<span style="color:orange">SSL</span>)</span>
-  * <span style="font-size:12px">Genomics and mutagenesis (<span style="color:green">Mutagenesis</span>)</span>
+  * <span style="font-size:12px">Bioinformatics, genomics, and mutagenesis (<span style="color:green">Mutagenesis</span>)</span>
   
   *Publications:*
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
