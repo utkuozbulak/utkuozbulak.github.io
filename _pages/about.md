@@ -14,28 +14,30 @@ Currently working as a postdoctoral researcher at the Korean Campus of Ghent Uni
 Here is an overview of my recent activities:
 <font size=”2”>
 
-
-(2022 - Current) **PhD in Computer Science**, Ghent University
+(2022 - Current) **Postdoctoral fellow**, Ghent University Global Campus, South Korea
   
-(2017 - 2022) **PhD in Computer Science**, Ghent University
+(2017 - 2022) **PhD in Computer Science**, Ghent University, Belgium <br /> __Research focus:__ trustworthy and explainable AI, adversarial examples (properties, attacks, and defenses) 
   
-  Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability, ICML - UDL Workshop
-  Perturbation Analysis of Gradient-based Adversarial Attacks, Pattern Recognition Letters
-  * Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation, MICCAI, Poster
-  * Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding , IJCNN, Oral
-  * How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples, NeurIPS - SecML Workshop
+   __Publications:__
   
-(2016 - 2017) **MSc. in Data Science**, University of Southampton
+  * Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability, *ICML - UDL Workshop*
+  * Perturbation Analysis of Gradient-based Adversarial Attacks, *Pattern Recognition Letters*
+  * Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation, *MICCAI, Poster*
+  * Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding, *IJCNN, Oral*
+  * How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples, *NeurIPS - SecML Workshop*
   
-(2014 - 2016) **SAP Business Intelligence Consultant**, Acron Consulting <br /> __Notable clients:__
+(2016 - 2017) **MSc. in Data Science**, University of Southampton, UK
+  
+(2014 - 2016) **SAP Business Intelligence Consultant**, Acron Consulting, Turkey <br /> __Notable clients:__
   * The Coca Cola Company
   * Turkish Airlines
   * Bosch Siemens Hausgeräte
   * Flormar Cosmetics
 
+(2012 - 2014) **BSc. in Computer Engineering**, University of Southampton, UK
+  
 </font>
 
 </div>
 
-I am in <span style="font-family:Papyrus; font-size:4em;">Let's see what happens if we change here.</span>
 
