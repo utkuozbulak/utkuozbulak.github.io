@@ -28,6 +28,9 @@ Here is a brief overview of my recent activities:
   * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
   * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />*2023, NeurIPS - LMRL Workshop*</span>
  
+ 
+------
+
 (2017 - 2022) **PhD in Computer Science**, Ghent University, Belgium
 
   *Research focus:*
@@ -52,9 +55,14 @@ Here is a brief overview of my recent activities:
   * <span style="font-size:12px">[github.com/utkuozbulak/pytorch-cnn-adversarial-attacks](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)</span>
   * <span style="font-size:12px">[github.com/utkuozbulak/imagenet-adversarial-image-evaluation](https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation)</span>
   * <span style="font-size:12px">[github.com/utkuozbulak/regional-adversarial-perturbation](https://github.com/utkuozbulak/regional-adversarial-perturbation)</span>
-  
+
+
+------
+
 (2016 - 2017) **MSc. in Data Science**, University of Southampton, UK
-  
+
+------
+
 (2014 - 2016) **SAP Business Intelligence Consultant**, Acron Consulting, Turkey
 
 *Notable clients:*
