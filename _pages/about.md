@@ -9,25 +9,33 @@ redirect_from:
 ---
 
 <div style="text-align: justify"> 
-I am a fourth-year PhD student at Ghent University of Belgium, working under Professor Wesley De Neve and Professor Van Messem. Due to my teaching duties, I am mostly located in the South Korean campus of Ghent University. I will receive my doctoral degree on January 2022. During my PhD, I tacked the problem of trustable AI, analyzing weaknesses of deep learning models against negative adversarial examples.
-<br />
-<br />
-My most recent works include (1) sanity checks to adversarial attack evaluation in the context of misclassification classes and selection of source images, (2) adversarial attacks on segmentation models, and (3) plausable defenses against adversarial examples. 
-<br />
-<br />
-I obtained my MSc. Data Science degree from University of Southampton (UK) in 2017 and BSc. Computer Engineering degree from Yasar University (Turkey) in 2014. In between MSc. and BSc. I worked as an SAP Business Intelligence Consultant for two years, visiting various companies and solving their BI needs.
+Currently working as a postdoctoral researcher at the Korean Campus of Ghent University, where I am engaged in research on two distinct topics: (1) image-based self-supervised learning, particularly with vision transformers, and (2) the exploration of a combination of machine learning and mutagenesis in human DNA.
+  
+Here is an overview of my recent activities:
+<font size=”2”>
+
+
+(2022 - Current) **PhD in Computer Science**, Ghent University
+  
+(2017 - 2022) **PhD in Computer Science**, Ghent University
+  
+  Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability, ICML - UDL Workshop
+  Perturbation Analysis of Gradient-based Adversarial Attacks, Pattern Recognition Letters
+  * Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation, MICCAI, Poster
+  * Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding , IJCNN, Oral
+  * How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples, NeurIPS - SecML Workshop
+  
+(2016 - 2017) **MSc. in Data Science**, University of Southampton
+  
+(2014 - 2016) **SAP Business Intelligence Consultant**, Acron Consulting <br /> __Notable clients:__
+  * The Coca Cola Company
+  * Turkish Airlines
+  * Bosch Siemens Hausgeräte
+  * Flormar Cosmetics
+
+</font>
+
 </div>
 
-<br />
-In terms of research, I am generally interested in:
+I am in <span style="font-family:Papyrus; font-size:4em;">Let's see what happens if we change here.</span>
 
-* Trustworthy AI
-* Adversarial examples (properties, attacks, and defenses)
-* Real-world applications (attacks) of adversarial examples
-* Explainable AI
-* Out-of-distribution detection
-* Robustness of deep learning models 
-
-A complete list of my publications can be found [here](https://utkuozbulak.github.io/publications/).
-
-A number of GitHub repositories I have put online can be found [here](https://github.com/utkuozbulak).
