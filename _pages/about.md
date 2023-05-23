@@ -21,7 +21,7 @@ Here is an overview of my recent activities:
 <span style="font-size:12px">Image-based self-supervised learning (<span style="color:orange">SSL</span>), genomics and mutagenesis (<span style="color:green">Mutagenesis</span>)</span>
   
   *Publications:*
-  * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />2023, Transactions on Machine Learning</span>
+  * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />2023, Transactions on Machine Learning Research</span>
   * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />2023, Bioinformatics, Oxford Press</span>
   * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />2023, Neurips - LMRL Workshop</span>
  
@@ -52,7 +52,10 @@ Here is an overview of my recent activities:
   * <span style="font-size:12px">Authored [github.com/utkuozbulak/facial-expression-recognition](https://github.com/utkuozbulak/facial-expression-recognition)</span>
   * <span style="font-size:12px">Authored [github.com/utkuozbulak/unsupervised-learning-document-clustering](https://github.com/utkuozbulak/unsupervised-learning-document-clustering)</span>
   
-(2014 - 2016) **SAP Business Intelligence Consultant**, Acron Consulting, Turkey <br /> *Notable clients:*
+(2014 - 2016) **SAP Business Intelligence Consultant**, Acron Consulting, Turkey
+
+*Notable clients:*
+
   * <span style="font-size:12px">The Coca Cola Company</span>
   * <span style="font-size:12px">Turkish Airlines</span>
   * <span style="font-size:12px">Bosch Siemens Hausgerate</span>
