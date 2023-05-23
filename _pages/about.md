@@ -20,11 +20,14 @@ Here is an overview of my recent activities:
   
    __Publications:__
   
+  * Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes, Neurips - Workshop on ImageNet: Past,Present, and Future
+  * Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks, BMVC, Oral
+  * Investigating the significance of adversarial attacks and their relation to interpretability for radar-based human activity recognition systems, Computer Vision and Image Understanding
   * Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability, *ICML - UDL Workshop*
   * Perturbation Analysis of Gradient-based Adversarial Attacks, *Pattern Recognition Letters*
   * Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation, *MICCAI, Poster*
-  * <span style="color:green;font-weight:700;font-size:5px"> Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding, *IJCNN, Oral* </span>
-  * How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples, *NeurIPS - SecML Workshop*
+  * <span style="font-size:20px"> Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding, *IJCNN, Oral* </span>
+  * <span style="font-size:25px">How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples, *NeurIPS - SecML Workshop* </span>
   
 (2016 - 2017) **MSc. in Data Science**, University of Southampton, UK
   
