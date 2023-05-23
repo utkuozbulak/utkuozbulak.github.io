@@ -19,22 +19,24 @@ Here is an overview of my recent activities:
 (2017 - 2022) **PhD in Computer Science**, Ghent University, Belgium <br /> *Research focus:* trustworthy and explainable AI, adversarial examples (properties, attacks, and defenses) 
   
   *Other activities*:
-  * Authored [github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
-  * Authored [github.com/utkuozbulak/pytorch-custom-datasets](https://github.com/utkuozbulak/pytorch-custom-datasets)
-  * Authored [github.com/utkuozbulak/pytorch-cnn-adversarial-attacks](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)
-  * Authored [github.com/utkuozbulak/adaptive-segmentation-mask-attack](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)
+  * <span style="font-size:12px">Authored [github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)</span>
+  * <span style="font-size:12px">Authored [github.com/utkuozbulak/pytorch-custom-datasets](https://github.com/utkuozbulak/pytorch-custom-datasets)</span>
+  * <span style="font-size:12px">Authored [github.com/utkuozbulak/pytorch-cnn-adversarial-attacks](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)</span>
+  * <span style="font-size:12px">Authored [github.com/utkuozbulak/adaptive-segmentation-mask-attack](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)</span>
   
    *Publications:*
-  * <span style="font-size:12px">Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />Neurips - Workshop on ImageNet: Past,Present, and Future</span>
-  * <span style="font-size:12px">Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks, BMVC, Oral</span>
-  * <span style="font-size:12px">Investigating the significance of adversarial attacks and their relation to interpretability for radar-based human activity recognition systems, Computer Vision and Image Understanding</span>
-  * <span style="font-size:12px">Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability, *ICML - UDL Workshop*</span>
-  * <span style="font-size:12px">Perturbation Analysis of Gradient-based Adversarial Attacks, *Pattern Recognition Letters*</span>
-  * <span style="font-size:12px">Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation, *MICCAI, Poster*</span>
-  * <span style="font-size:12px">Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding, *IJCNN, Oral* </span>
-  * <span style="font-size:12px">How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples, *NeurIPS - SecML Workshop* </span>
+  * <span style="font-size:12px">Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />Neurips - Workshop on ImageNet: Past, Present, and Future</span>
+  * <span style="font-size:12px">Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks<br />BMVC, oral presentation</span>
+  * <span style="font-size:12px">Investigating the significance of adversarial attacks and their relation to interpretability for radar-based human activity recognition systems<br />*Computer Vision and Image Understanding, Elsevier*</span>
+  * <span style="font-size:12px">Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability<br />*ICML - UDL Workshop*</span>
+  * <span style="font-size:12px">Perturbation Analysis of Gradient-based Adversarial Attacks<br />*Pattern Recognition Letters, Elsevier*</span>
+  * <span style="font-size:12px">Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation<br />*MICCAI, poster presentation*</span>
+  * <span style="font-size:12px">Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding<br />*IJCNN, oral presentation* </span>
+  * <span style="font-size:12px">How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples<br />*NeurIPS - SecML Workshop* </span>
   
 (2016 - 2017) **MSc. in Data Science**, University of Southampton, UK
+  * <span style="font-size:12px">Authored [github.com/utkuozbulak/facial-expression-recognition](https://github.com/utkuozbulak/facial-expression-recognition)</span>
+  * <span style="font-size:12px">Authored [github.com/utkuozbulak/unsupervised-learning-document-clustering](https://github.com/utkuozbulak/unsupervised-learning-document-clustering)</span>
   
 (2014 - 2016) **SAP Business Intelligence Consultant**, Acron Consulting, Turkey <br /> *Notable clients:*
   * The Coca Cola Company
