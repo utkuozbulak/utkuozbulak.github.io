@@ -18,19 +18,20 @@ Here is an overview of my recent activities:
   
  
   *Publications:*
-  * <span style="font-size:12px">(SSL) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />2023, Transactions on Machine Learning</span>
-  * <span style="font-size:12px">(Mut) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />2023, Bioinformatics, Oxford Press</span>
-  * <span style="font-size:12px">(Mut) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />Neurips - LMRL Workshop</span>
+  * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />2023, Transactions on Machine Learning</span>
+  * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />2023, Bioinformatics, Oxford Press</span>
+  * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />Neurips - LMRL Workshop</span>
  
 (2017 - 2022) **PhD in Computer Science**, Ghent University, Belgium
 
-  *Research focus:* trustworthy and explainable AI, adversarial examples (properties, attacks, and defenses) 
+  *Research focus: 
+  Trustworthy and explainable AI, adversarial examples (properties, attacks, and defenses) 
   
   *Publications:*
-  * <span style="font-size:12px">Prevalence of adversarial examples in neural networks: attacks, defenses, and opportunities<br />2022, Ghent University, PhD thesis</span>
-  * <span style="font-size:12px">Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />2022, Neurips - Workshop on ImageNet: Past, Present, and Future</span>
-  * <span style="font-size:12px">Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks<br />2021, BMVC, oral presentation</span>
-  * <span style="font-size:12px">Investigating the Significance of Adversarial Attacks and Their Relation to Interpretability for Radar-based Human Activity Recognition Systems<br />*2021, Computer Vision and Image Understanding, Elsevier*</span>
+  * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Prevalence of adversarial examples in neural networks: attacks, defenses, and opportunities<br />2022, Ghent University, PhD thesis</span>
+  * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />2022, Neurips - Workshop on ImageNet: Past, Present, and Future</span>
+  * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks<br />2021, BMVC, oral presentation</span>
+  * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Investigating the Significance of Adversarial Attacks and Their Relation to Interpretability for Radar-based Human Activity Recognition Systems<br />*2021, Computer Vision and Image Understanding, Elsevier*</span>
   * <span style="font-size:12px">Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability<br />*2020, ICML - UDL Workshop*</span>
   * <span style="font-size:12px">Perturbation Analysis of Gradient-based Adversarial Attacks<br />*2020, Pattern Recognition Letters, Elsevier*</span>
   * <span style="font-size:12px">Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation<br />*2019, MICCAI, poster presentation*</span>
