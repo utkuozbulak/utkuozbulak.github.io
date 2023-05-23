@@ -20,8 +20,8 @@ Here is a brief overview of my recent activities:
 
   *Research focus:*
 
-  * <span style="font-size:12px">Image-based self-supervised learning (<span style="color:orange">SSL</span>)
-  * Genomics and mutagenesis (<span style="color:green">Mutagenesis</span>)</span>
+  * <span style="font-size:12px">Image-based self-supervised learning (<span style="color:orange">SSL</span>)</span>
+  * <span style="font-size:12px">Genomics and mutagenesis (<span style="color:green">Mutagenesis</span>)</span>
   
   *Publications:*
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
