@@ -23,7 +23,7 @@ Here is an overview of my recent activities:
   *Publications:*
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />2023, Transactions on Machine Learning Research</span>
   * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />2023, Bioinformatics, Oxford Press</span>
-  * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />2023, Neurips - LMRL Workshop</span>
+  * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />2023, NeurIPS - LMRL Workshop</span>
  
 (2017 - 2022) **PhD in Computer Science**, Ghent University, Belgium
 
