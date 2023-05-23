@@ -14,9 +14,15 @@ Currently working as a postdoctoral researcher at the Korean Campus of Ghent Uni
 
 Here is an overview of my recent activities:
 
-(2022 - Current) **Postdoctoral fellow**, Ghent University Global Campus, South Korea
+(2022 - Current) **Postdoctoral fellow**, Ghent University Global Campus, South Korea *Research focus:* image-based self-supervised learning, genomics and mutagenesis
   
-(2017 - 2022) **PhD in Computer Science**, Ghent University, Belgium <br /> *Research focus:* trustworthy and explainable AI, adversarial examples (properties, attacks, and defenses) 
+ 
+  *Publications:*
+  * <span style="font-size:12px">Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />Neurips - Workshop on ImageNet: Past, Present, and Future</span>
+ 
+(2017 - 2022) **PhD in Computer Science**, Ghent University, Belgium
+
+  *Research focus:* trustworthy and explainable AI, adversarial examples (properties, attacks, and defenses) 
   
   *Other activities*:
   * <span style="font-size:12px">Authored [github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)</span>
@@ -25,14 +31,16 @@ Here is an overview of my recent activities:
   * <span style="font-size:12px">Authored [github.com/utkuozbulak/adaptive-segmentation-mask-attack](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)</span>
   
    *Publications:*
-  * <span style="font-size:12px">Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />Neurips - Workshop on ImageNet: Past, Present, and Future</span>
-  * <span style="font-size:12px">Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks<br />BMVC, oral presentation</span>
-  * <span style="font-size:12px">Investigating the significance of adversarial attacks and their relation to interpretability for radar-based human activity recognition systems<br />*Computer Vision and Image Understanding, Elsevier*</span>
-  * <span style="font-size:12px">Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability<br />*ICML - UDL Workshop*</span>
-  * <span style="font-size:12px">Perturbation Analysis of Gradient-based Adversarial Attacks<br />*Pattern Recognition Letters, Elsevier*</span>
-  * <span style="font-size:12px">Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation<br />*MICCAI, poster presentation*</span>
-  * <span style="font-size:12px">Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding<br />*IJCNN, oral presentation* </span>
-  * <span style="font-size:12px">How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples<br />*NeurIPS - SecML Workshop* </span>
+   * <span style="font-size:12px">Prevalence of adversarial examples in neural networks: attacks, defenses, and opportunities<br />2022, Ghent University, PhD thesis</span>
+   
+  * <span style="font-size:12px">Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />2022, Neurips - Workshop on ImageNet: Past, Present, and Future</span>
+  * <span style="font-size:12px">Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks<br />2021, BMVC, oral presentation</span>
+  * <span style="font-size:12px">Investigating the Significance of Adversarial Attacks and Their Relation to Interpretability for Radar-based Human Activity Recognition Systems<br />*2021, Computer Vision and Image Understanding, Elsevier*</span>
+  * <span style="font-size:12px">Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability<br />*2020, ICML - UDL Workshop*</span>
+  * <span style="font-size:12px">Perturbation Analysis of Gradient-based Adversarial Attacks<br />*2020, Pattern Recognition Letters, Elsevier*</span>
+  * <span style="font-size:12px">Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation<br />*2019, MICCAI, poster presentation*</span>
+  * <span style="font-size:12px">Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding<br />*2019, IJCNN, oral presentation* </span>
+  * <span style="font-size:12px">(2019) How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples<br />*2018, NeurIPS - SecML Workshop* </span>
   
 (2016 - 2017) **MSc. in Data Science**, University of Southampton, UK
   * <span style="font-size:12px">Authored [github.com/utkuozbulak/facial-expression-recognition](https://github.com/utkuozbulak/facial-expression-recognition)</span>
