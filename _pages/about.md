@@ -20,7 +20,7 @@ Here is a brief overview of my recent activities:
 
   *Research focus:*
 
-  * <span style="font-size:12px">Image-based self-supervised learning (<span style="color:orange">SSL</span>)</span>
+  * <span style="font-size:12px">Image-based self-supervised learning and vision transformers (<span style="color:orange">SSL</span>)</span>
   * <span style="font-size:12px">Genomics and mutagenesis (<span style="color:green">Mutagenesis</span>)</span>
   
   *Publications:*
