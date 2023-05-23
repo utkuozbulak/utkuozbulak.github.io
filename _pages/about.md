@@ -14,9 +14,11 @@ Currently working as a postdoctoral researcher at the Korean Campus of Ghent Uni
 
 Here is an overview of my recent activities:
 
-(2022 - Current) **Postdoctoral fellow**, Ghent University Global Campus, South Korea *Research focus:* image-based self-supervised learning, genomics and mutagenesis
+(2022 - Current) **Postdoctoral fellow**, Ghent University Global Campus, South Korea
+
+*Research focus:* 
+Image-based self-supervised learning (<span style="color:orange">SSL</span>), genomics and mutagenesis (<span style="color:green">Mutagenesis</span>)
   
- 
   *Publications:*
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />2023, Transactions on Machine Learning</span>
   * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />2023, Bioinformatics, Oxford Press</span>
@@ -25,7 +27,7 @@ Here is an overview of my recent activities:
 (2017 - 2022) **PhD in Computer Science**, Ghent University, Belgium
 
   *Research focus:*
-  Trustworthy and explainable AI, adversarial examples (properties, attacks, and defenses) 
+  Trustworthy and explainable AI, adversarial attacks and defenses (<span style="color:indigo">Adversarial</span>)
   
   *Publications:*
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Prevalence of adversarial examples in neural networks: attacks, defenses, and opportunities<br />2022, Ghent University, PhD thesis</span>
