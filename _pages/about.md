@@ -10,7 +10,8 @@ redirect_from:
 
 <div style="text-align: justify"> 
 Currently working as a postdoctoral researcher at the Korean Campus of Ghent University, where I am engaged in research on two distinct topics: (1) image-based self-supervised learning, particularly with vision transformers, and (2) the exploration of a combination of machine learning and mutagenesis in human DNA.
-  
+</div>
+
 Here is an overview of my recent activities:
 
 (2022 - Current) **Postdoctoral fellow**, Ghent University Global Campus, South Korea
@@ -34,6 +35,6 @@ Here is an overview of my recent activities:
   * Flormar Cosmetics
 
 (2012 - 2014) **BSc. in Computer Engineering**, University of Southampton, UK
-</div>
+
 
 
