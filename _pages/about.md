@@ -46,17 +46,17 @@ Here is a brief overview of my recent activities:
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples<br />*2018, NeurIPS - SecML Workshop* </span>
   
   *Repositories*:
-  * <span style="font-size:12px">Authored [github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)</span>
-  * <span style="font-size:12px">Authored [github.com/utkuozbulak/pytorch-custom-datasets](https://github.com/utkuozbulak/pytorch-custom-datasets)</span>
-  * <span style="font-size:12px">Authored [github.com/utkuozbulak/pytorch-cnn-adversarial-attacks](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)</span>
-  * <span style="font-size:12px">Authored [github.com/utkuozbulak/adaptive-segmentation-mask-attack](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)</span>
+  * <span style="font-size:12px">[github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)</span>
+  * <span style="font-size:12px">[github.com/utkuozbulak/pytorch-custom-datasets](https://github.com/utkuozbulak/pytorch-custom-datasets)</span>
+  * <span style="font-size:12px">[github.com/utkuozbulak/pytorch-cnn-adversarial-attacks](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)</span>
+  * <span style="font-size:12px">[github.com/utkuozbulak/adaptive-segmentation-mask-attack](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)</span>
   
 (2016 - 2017) **MSc. in Data Science**, University of Southampton, UK
 
   *Repositories*:
   
-  * <span style="font-size:12px">Authored [github.com/utkuozbulak/facial-expression-recognition](https://github.com/utkuozbulak/facial-expression-recognition)</span>
-  * <span style="font-size:12px">Authored [github.com/utkuozbulak/unsupervised-learning-document-clustering](https://github.com/utkuozbulak/unsupervised-learning-document-clustering)</span>
+  * <span style="font-size:12px">[github.com/utkuozbulak/facial-expression-recognition](https://github.com/utkuozbulak/facial-expression-recognition)</span>
+  * <span style="font-size:12px">[github.com/utkuozbulak/unsupervised-learning-document-clustering](https://github.com/utkuozbulak/unsupervised-learning-document-clustering)</span>
   
 (2014 - 2016) **SAP Business Intelligence Consultant**, Acron Consulting, Turkey
 
