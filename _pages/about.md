@@ -12,9 +12,9 @@ redirect_from:
 Currently working as a postdoctoral researcher at the Korean Campus of Ghent University, where I am engaged in research on two distinct topics: (1) image-based self-supervised learning, particularly with vision transformers, and (2) bioinformatics and particularly mutagenesis using machine learning.
 </div>
 
-------
-
 Here is a brief overview of my recent activities:
+
+------
 
 2022 - Current: **Postdoctoral fellow**, Ghent University Global Campus, South Korea
 
@@ -38,7 +38,8 @@ Here is a brief overview of my recent activities:
 
   <span style="font-size:14px">*Research focus:*</span>
   
-  * <span style="font-size:12px">Trustworthy and explainable AI (<span style="color:cyan">XAI</span>), adversarial attacks and defenses (<span style="color:indigo">Adversarial</span>) </span>
+  * <span style="font-size:12px">Trustworthy and explainable AI (<span style="color:cyan">XAI</span>) </span>
+  * <span style="font-size:12px"> Adversarial examples: attacks, defenses, and properties (<span style="color:indigo">Adversarial</span>) </span>
   
   <span style="font-size:14px">*Publications:*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Prevalence of Adversarial Examples in Neural Networks: Attacks, Defenses, and Opportunities<br />*2022, Ghent University, PhD thesis*</span>
