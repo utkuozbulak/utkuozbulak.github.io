@@ -18,12 +18,12 @@ Here is a brief overview of my recent activities:
 
 (2022 - Current) **Postdoctoral fellow**, Ghent University Global Campus, South Korea
 
-  *Research focus:*
+  <span style="font-size:14px">*Research focus:*</span>
 
   * <span style="font-size:12px">Image-based self-supervised learning and vision transformers (<span style="color:orange">SSL</span>)</span>
   * <span style="font-size:12px">Bioinformatics, genomics, and mutagenesis (<span style="color:green">Mutagenesis</span>)</span>
   
-  *Publications:*
+  <span style="font-size:14px">*Publications:*</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
   * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
   * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />*2023, NeurIPS - LMRL Workshop*</span>
@@ -31,13 +31,13 @@ Here is a brief overview of my recent activities:
  
 ------
 
-(2017 - 2022) **PhD in Computer Science**, Ghent University, Belgium
+2017 - 2022 **PhD in Computer Science**, Ghent University, Belgium
 
-  *Research focus:*
+  <span style="font-size:14px">*Research focus:*</span>
   
   * <span style="font-size:12px">Trustworthy and explainable AI, adversarial attacks and defenses (<span style="color:indigo">Adversarial</span>) </span>
   
-  *Publications:*
+  <span style="font-size:14px">*Publications:*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Prevalence of Adversarial Examples in Neural Networks: Attacks, Defenses, and Opportunities<br />*2022, Ghent University, PhD thesis*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />*2022, NeurIPS - Workshop on ImageNet: Past, Present, and Future*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks<br />*2021, BMVC, oral presentation*</span>
@@ -48,7 +48,7 @@ Here is a brief overview of my recent activities:
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding<br />*2019, IJCNN, oral presentation* </span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples<br />*2018, NeurIPS - SecML Workshop* </span>
   
-  *Repositories*:  
+  <span style="font-size:14px">*Repositories*:</span>
   * <span style="font-size:12px">[github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)</span>
   * <span style="font-size:12px">[github.com/utkuozbulak/pytorch-custom-datasets](https://github.com/utkuozbulak/pytorch-custom-datasets)</span>
   * <span style="font-size:12px">[github.com/utkuozbulak/adaptive-segmentation-mask-attack](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)</span>
@@ -59,13 +59,13 @@ Here is a brief overview of my recent activities:
 
 ------
 
-(2016 - 2017) **MSc. in Data Science**, University of Southampton, UK
+2016 - 2017 **MSc. in Data Science**, University of Southampton, UK
 
 ------
 
-(2014 - 2016) **SAP Business Intelligence Consultant**, Acron Consulting, Turkey
+2014 - 2016 **SAP Business Intelligence Consultant**, Acron Consulting, Turkey
 
-*Notable clients:*
+<span style="font-size:14px">*Notable clients:*</span>
 
   * <span style="font-size:12px">The Coca Cola Company</span>
   * <span style="font-size:12px">Turkish Airlines</span>
@@ -74,7 +74,7 @@ Here is a brief overview of my recent activities:
 
 ------
 
-(2012 - 2014) **BSc. in Computer Engineering**, Yasar University, Turkey
+2012 - 2014 **BSc. in Computer Engineering**, Yasar University, Turkey
 
 
 
