@@ -16,7 +16,7 @@ Currently working as a postdoctoral researcher at the Korean Campus of Ghent Uni
 
 Here is a brief overview of my recent activities:
 
-(2022 - Current) **Postdoctoral fellow**, Ghent University Global Campus, South Korea
+2022 - Current: **Postdoctoral fellow**, Ghent University Global Campus, South Korea
 
   <span style="font-size:14px">*Research focus:*</span>
 
@@ -31,7 +31,7 @@ Here is a brief overview of my recent activities:
  
 ------
 
-2017 - 2022 **PhD in Computer Science**, Ghent University, Belgium
+2017 - 2022: **PhD in Computer Science**, Ghent University, Belgium
 
   <span style="font-size:14px">*Research focus:*</span>
   
@@ -59,11 +59,11 @@ Here is a brief overview of my recent activities:
 
 ------
 
-2016 - 2017 **MSc. in Data Science**, University of Southampton, UK
+2016 - 2017: **MSc. in Data Science**, University of Southampton, UK
 
 ------
 
-2014 - 2016 **SAP Business Intelligence Consultant**, Acron Consulting, Turkey
+2014 - 2016: **SAP Business Intelligence Consultant**, Acron Consulting, Turkey
 
 <span style="font-size:14px">*Notable clients:*</span>
 
@@ -74,7 +74,7 @@ Here is a brief overview of my recent activities:
 
 ------
 
-2012 - 2014 **BSc. in Computer Engineering**, Yasar University, Turkey
+2012 - 2014: **BSc. in Computer Engineering**, Yasar University, Turkey
 
 
 
