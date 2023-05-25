@@ -27,8 +27,9 @@ Here is a brief overview of my recent activities:
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
   * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
   * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />*2023, NeurIPS - LMRL Workshop*</span>
-  * 
+  
    <span style="font-size:14px">*Repositories*:</span>
+
   * <span style="font-size:12px">(<span style="color:green">Mutagenesis</span>) [github.com/utkuozbulak/mutate-and-observe](https://github.com/utkuozbulak/mutate-and-observe)</span>
  
 ------
@@ -56,7 +57,7 @@ Here is a brief overview of my recent activities:
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) [github.com/utkuozbulak/pytorch-cnn-adversarial-attacks](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) [github.com/utkuozbulak/imagenet-adversarial-image-evaluation](https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation)</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) [github.com/utkuozbulak/regional-adversarial-perturbation](https://github.com/utkuozbulak/regional-adversarial-perturbation)</span>
-  * <span style="font-size:12px">[github.com/utkuozbulak/pytorch-custom-datasets](https://github.com/utkuozbulak/pytorch-custom-datasets)</span>
+  * <span style="font-size:12px">(Other) [github.com/utkuozbulak/pytorch-custom-datasets](https://github.com/utkuozbulak/pytorch-custom-datasets)</span>
 
 
 ------
