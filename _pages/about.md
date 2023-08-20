@@ -31,7 +31,7 @@ Here is a brief overview of my recent activities:
   
    <span style="font-size:14px">*Repositories*:</span>
 
-  * <span style="font-size:12px">(<span style="color:green">Bio</span>) [github.com/utkuozbulak/mutate-and-observe](https://github.com/utkuozbulak/mutate-and-observe)</span>
+  * <span style="font-size:12px">(<span style="color:blue">Bio</span>) [github.com/utkuozbulak/mutate-and-observe](https://github.com/utkuozbulak/mutate-and-observe)</span>
  
 ------
 
