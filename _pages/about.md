@@ -20,13 +20,14 @@ Here is a brief overview of my recent activities:
 
   <span style="font-size:14px">*Research focus:*</span>
 
-  * <span style="font-size:12px">Image-based self-supervised learning and vision transformers (<span style="color:orange">SSL</span>)</span>
-  * <span style="font-size:12px">Bioinformatics, genomics, and mutagenesis (<span style="color:green">Bioinformatics</span>)</span>
+  * <span style="font-size:12px">Trustworthy and explainable AI (<span style="color:maroon">XAI</span>) </span>
+  * <span style="font-size:12px">Image-based self-supervised learning (<span style="color:orange">SSL</span>)</span>
+  * <span style="font-size:12px">Bioinformatics (<span style="color:green">Bio</span>)</span>
   
   <span style="font-size:14px">*Publications:*</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
-  * <span style="font-size:12px">(<span style="color:green">Bioinformatics</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
-  * <span style="font-size:12px">(<span style="color:green">Bioinformatics</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />*2023, NeurIPS - LMRL Workshop*</span>
+  * <span style="font-size:12px">(<span style="color:green">Bio</span>-<span style="color:maroon">XAI</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
+  * <span style="font-size:12px">(<span style="color:green">Bio</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />*2023, NeurIPS - LMRL Workshop*</span>
   
    <span style="font-size:14px">*Repositories*:</span>
 
@@ -38,7 +39,6 @@ Here is a brief overview of my recent activities:
 
   <span style="font-size:14px">*Research focus:*</span>
   
-  * <span style="font-size:12px">Trustworthy and explainable AI (<span style="color:cyan">XAI</span>) </span>
   * <span style="font-size:12px"> Adversarial examples: attacks, defenses, and properties (<span style="color:indigo">Adversarial</span>) </span>
   
   <span style="font-size:14px">*Publications:*</span>
