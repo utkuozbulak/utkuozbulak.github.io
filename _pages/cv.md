@@ -13,7 +13,7 @@ redirect_from:
 
 Slides:
 
-https://docs.google.com/presentation/d/1zvJJsKH7NTCOseKYG4kzHFhQOWaSEoKZkkT3SeXGTCc/edit?usp=sharing
+https://docs.google.com/presentation/d/1PmyHsXjEdk212J_leZ6MZOVkf_5Ct1SZDMCKpmkXePQ/edit?usp=sharing
 
 
 Education
