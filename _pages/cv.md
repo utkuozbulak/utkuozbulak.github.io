@@ -11,6 +11,11 @@ redirect_from:
 
 <br />
 
+Slides:
+
+https://docs.google.com/presentation/d/1zvJJsKH7NTCOseKYG4kzHFhQOWaSEoKZkkT3SeXGTCc/edit?usp=sharing
+
+
 Education
 ======
 * **Ph.D in Computer Science Engineering**, *Ghent University* <br />Ghent, Belgium &#124; 2017 - Ongoing (Expected graduation: 2021)<br /> Research topic: *Adversarial examples in machine learning*
