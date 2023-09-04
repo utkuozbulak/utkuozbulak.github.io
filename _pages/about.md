@@ -26,7 +26,7 @@ Here is a brief overview of my recent activities:
   
   <span style="font-size:14px">*Publications:*</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
-  * <span style="font-size:12px">(<span style="color:blue">Bio</span> BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants<br />*2023, Arxiv*</span>
+  * <span style="font-size:12px">(<span style="color:blue">Bio</span>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants<br />*2023, Arxiv*</span>
   * <span style="font-size:12px">(<span style="color:blue">Bio</span>-<span style="color:green">XAI</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
   * <span style="font-size:12px">(<span style="color:blue">Bio</span>-<span style="color:green">XAI</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />*2023, NeurIPS - LMRL Workshop*</span>
   
