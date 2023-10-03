@@ -9,26 +9,31 @@ redirect_from:
 ---
 
 <div style="text-align: justify"> 
-Currently working as a postdoctoral researcher at the Korean Campus of Ghent University, where I am engaged in research on two distinct topics: (1) image-based self-supervised learning, particularly with vision transformers, and (2) bioinformatics and particularly mutagenesis using machine learning.
+Currently working as a Research Professor at the Korean Campus of Ghent University, where I am engaged in research on two distinct topics: (1) image-based self-supervised learning, particularly with vision transformers, and (2) explainable AI, often in the context of biomedical imaging.
 </div>
 
 Here is a brief overview of my recent activities:
 
 ------
 
-2022 - Current: **Postdoctoral fellow**, Ghent University Global Campus, South Korea
+2023 - Current: **Research Professor**, Ghent University Global Campus, South Korea
 
   <span style="font-size:14px">*Research focus:*</span>
 
   * <span style="font-size:12px">Trustworthy and explainable AI (<span style="color:green">XAI</span>) </span>
+  * <span style="font-size:12px">Biomedical imaging (<span style="color:maroon">B.img</span>) </span>
+
+2022 - 2023: **Postdoctoral Fellow**, Ghent University Global Campus, South Korea
+
+  <span style="font-size:14px">*Research focus:*</span>
+  * <span style="font-size:12px">Bioinformatics (<span style="color:blue">B.inf</span>)</span>
   * <span style="font-size:12px">Image-based self-supervised learning (<span style="color:orange">SSL</span>)</span>
-  * <span style="font-size:12px">Bioinformatics (<span style="color:blue">Bio</span>)</span>
   
   <span style="font-size:14px">*Publications:*</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
-  * <span style="font-size:12px">(<span style="color:blue">Bio</span>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants<br />*2023, Arxiv*</span>
-  * <span style="font-size:12px">(<span style="color:blue">Bio</span>-<span style="color:green">XAI</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
-  * <span style="font-size:12px">(<span style="color:blue">Bio</span>-<span style="color:green">XAI</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />*2023, NeurIPS - LMRL Workshop*</span>
+  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants<br />*2023, Arxiv*</span>
+  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>-<span style="color:green">XAI</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
+  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>-<span style="color:green">XAI</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />*2023, NeurIPS - LMRL Workshop*</span>
   
    <span style="font-size:14px">*Repositories*:</span>
 
