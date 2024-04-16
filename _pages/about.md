@@ -12,7 +12,7 @@ redirect_from:
 Currently working as a Research Professor at the Korean Campus of Ghent University, where I am engaged in research on two distinct topics: (1) image-based self-supervised learning, particularly with vision transformers, and (2) explainable AI, often in the context of biomedical imaging.
 </div>
 
-Here is a brief overview of my career:
+Here is a brief overview of my career as well as current and past research focus:
 
 ------
   <span style="font-size:14px">*Current research focus:*</span>
@@ -31,7 +31,7 @@ Here is a brief overview of my career:
 2023 - Current: **Research Professor**, Ghent University Global Campus, South Korea
 
   <span style="font-size:14px">*Publications:*</span>
-  * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br />*2024, IJCNN*</span>
+  * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br />*2024, IEEE IJCNN*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
 
   
@@ -59,7 +59,7 @@ Here is a brief overview of my career:
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability<br />*2020, ICML - UDL Workshop*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Perturbation Analysis of Gradient-based Adversarial Attacks<br />*2020, Pattern Recognition Letters, Elsevier*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation<br />*2019, MICCAI, poster presentation*</span>
-  * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding<br />*2019, IJCNN, oral presentation* </span>
+  * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding<br />*2019, IEEE IJCNN, oral presentation* </span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples<br />*2018, NeurIPS - SecML Workshop* </span>
   
   <span style="font-size:14px">*Repositories*:</span>
