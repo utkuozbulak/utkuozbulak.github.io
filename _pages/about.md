@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 <div style="text-align: justify"> 
-Currently working as a Research Professor at the Korean Campus of Ghent University, where I am engaged in research on two distinct topics: (1) image-based self-supervised learning, particularly with vision transformers, and (2) explainable AI, often in the context of biomedical imaging.
+Currently, I work as a Research Professor at the Korean Campus of Ghent University, mainly focusing on two areas: (1) image-based self-supervised learning, especially with vision transformers, and (2) explainable AI, frequently applied to biomedical imaging.
+
 </div>
 
-Here's a brief overview of my career, as well as current and past research focus:
-
+Here's a brief overview of my career, along with my current and past research focus:
 ------
   <span style="font-size:14px">*Current research focus:*</span>
 
