@@ -14,6 +14,7 @@ Currently, I work as a Research Professor at the Korean Campus of Ghent Universi
 </div>
 
 Here's a brief overview of my career, along with my current and past research focus:
+
 ------
   <span style="font-size:14px">*Current research focus:*</span>
 
