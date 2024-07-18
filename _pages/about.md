@@ -31,21 +31,21 @@ Here's a brief overview of my career, along with my current and past research fo
 
 2023 - Current: **Research Professor**, Ghent University Global Campus, South Korea
 
-  <span style="font-size:14px">*Senior author Publications:*</span>
+  <span style="font-size:14px">*Senior author publications:*</span>
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br />*2024, MICCAI - MOVI Workshop*</span>
   * <span style="font-size:12px">(<span style="color:green">XAI</span>)-<span style="color:orange">SSL</span>) Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br />*2024, MICCAI - iMIMIC Workshop*</span>
   * <span style="font-size:12px">(<span style="color:green">XAI</span>)-<span style="color:orange">SSL</span>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
 
   
   
-  <span style="font-size:14px">*First author Publications:*</span>
+  <span style="font-size:14px">*First author publications:*</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br />*2024, IEEE IJCNN*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
 
   
 2022 - 2023: **Postdoctoral Fellow**, Ghent University Global Campus, South Korea
   
-  <span style="font-size:14px">*First author Publications:*</span>
+  <span style="font-size:14px">*First author publications:*</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants<br />*2023, Arxiv*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>-<span style="color:green">XAI</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
@@ -59,7 +59,7 @@ Here's a brief overview of my career, along with my current and past research fo
 
 2017 - 2022: **PhD in Computer Science**, Ghent University, Belgium
   
-  <span style="font-size:14px">*First author Publications:*</span>
+  <span style="font-size:14px">*First author publications:*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Prevalence of Adversarial Examples in Neural Networks: Attacks, Defenses, and Opportunities<br />*2022, Ghent University, PhD thesis*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>-<span style="color:green">XAI</span>) Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />*2022, NeurIPS - Workshop on ImageNet: Past, Present, and Future*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks<br />*2021, BMVC, oral presentation*</span>
