@@ -32,7 +32,7 @@ Here's a brief overview of my career, as well as current and past research focus
 
   <span style="font-size:14px">*Senior author Publications:*</span>
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br />*2024, MICCAI - MOVI Workshop*</span>
-    * <span style="font-size:12px">(<span style="color:green">XAI</span>)-<span style="color:orange">SSL</span>) Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br />*2024, MICCAI - iMIMIC Workshop*</span>
+  * <span style="font-size:12px">(<span style="color:green">XAI</span>)-<span style="color:orange">SSL</span>) Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br />*2024, MICCAI - iMIMIC Workshop*</span>
   * <span style="font-size:12px">(<span style="color:green">XAI</span>)-<span style="color:orange">SSL</span>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
 
   
