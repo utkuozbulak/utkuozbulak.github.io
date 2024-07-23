@@ -31,19 +31,19 @@ Here's a brief overview of my career, along with my current and past research fo
   * <span style="font-size:12px">(<span style="color:green">XAI</span>) Trustworthy and explainable AI</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Image-based self-supervised learning</span>
   
-  <span style="font-size:14px">**Senior author publications**</span>
+  <span style="font-size:14px">*Senior author publications*</span>
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br />*2024, MICCAI - MOVI Workshop*</span>
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Exploring Patient Data Requirements in Training Effective AI Models for MRI-based Breast Cancer Classification <br />*2024, MICCAI - Deep Breath Workshop*</span>
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>-<span style="color:green">XAI</span>-<span style="color:orange">SSL</span>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br />*2024, MICCAI - iMIMIC Workshop*</span>
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>-<span style="color:green">XAI</span>-<span style="color:orange">SSL</span>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
   
-  <span style="font-size:14px">**First author publications**</span>
+  <span style="font-size:14px">*First author publications*</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br />*2024, IEEE IJCNN, oral presentation*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
   
 2022 - 2023: **Postdoctoral Fellow**, Ghent University Global Campus, South Korea
   
-  <span style="font-size:14px">**First author publications**</span>
+  <span style="font-size:14px">*First author publications*</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants<br />*2023, Arxiv*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>-<span style="color:green">XAI</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
@@ -58,10 +58,10 @@ Here's a brief overview of my career, along with my current and past research fo
 2017 - 2022: **PhD in Computer Science**, Ghent University, Belgium
 
   
-  <span style="font-size:14px">*Research focus:*</span>
+  <span style="font-size:14px">*Research focus*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Adversarial examples: attacks, defenses, and properties</span>
   
-  <span style="font-size:14px">**First author publications**</span>
+  <span style="font-size:14px">*First author publications*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Prevalence of Adversarial Examples in Neural Networks: Attacks, Defenses, and Opportunities<br />*2022, Ghent University, PhD thesis*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>-<span style="color:green">XAI</span>) Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />*2022, NeurIPS - Workshop on ImageNet: Past, Present, and Future*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks<br />*2021, BMVC, oral presentation*</span>
@@ -72,7 +72,7 @@ Here's a brief overview of my career, along with my current and past research fo
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding<br />*2019, IEEE IJCNN, oral presentation* </span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples<br />*2018, NeurIPS - SecML Workshop* </span>
   
-  <span style="font-size:14px">*Repositories*:</span>
+  <span style="font-size:14px">*Repositories*</span>
   * <span style="font-size:12px">(<span style="color:green">XAI</span>) [github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) [github.com/utkuozbulak/adaptive-segmentation-mask-attack](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) [github.com/utkuozbulak/pytorch-cnn-adversarial-attacks](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)</span>
@@ -89,7 +89,7 @@ Here's a brief overview of my career, along with my current and past research fo
 
 2014 - 2016: **SAP Business Intelligence Consultant**, Acron Consulting, Turkey
 
-<span style="font-size:14px">*Notable clients:*</span>
+<span style="font-size:14px">*Notable clients*</span>
 
   * <span style="font-size:12px">The Coca Cola Company</span>
   * <span style="font-size:12px">Turkish Airlines</span>
