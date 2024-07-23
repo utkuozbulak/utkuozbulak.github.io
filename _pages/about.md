@@ -34,8 +34,8 @@ Here's a brief overview of my career, along with my current and past research fo
   <span style="font-size:14px">**Senior author publications**</span>
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br />*2024, MICCAI - MOVI Workshop*</span>
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Exploring Patient Data Requirements in Training Effective AI Models for MRI-based Breast Cancer Classification <br />*2024, MICCAI - Deep Breath Workshop*</span>
-  * <span style="font-size:12px">(<span style="color:maroon">B.img</span>--<span style="color:green">XAI</span>-<span style="color:orange">SSL</span>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br />*2024, MICCAI - iMIMIC Workshop*</span>
-  * <span style="font-size:12px">(<span style="color:maroon">B.img</span>--<span style="color:green">XAI</span>-<span style="color:orange">SSL</span>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
+  * <span style="font-size:12px">(<span style="color:maroon">B.img</span>-<span style="color:green">XAI</span>-<span style="color:orange">SSL</span>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br />*2024, MICCAI - iMIMIC Workshop*</span>
+  * <span style="font-size:12px">(<span style="color:maroon">B.img</span>-<span style="color:green">XAI</span>-<span style="color:orange">SSL</span>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
   
   <span style="font-size:14px">**First author publications**</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br />*2024, IEEE IJCNN, oral presentation*</span>
