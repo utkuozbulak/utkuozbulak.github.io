@@ -24,8 +24,8 @@ Here's a brief overview of my career, along with my current and past research fo
 ------
 
 2023 - Current: **Research Professor**, Ghent University Global Campus, South Korea
-  <span style="font-size:14px">*Research focus:*</span>
 
+  <span style="font-size:14px">*Research focus*</span>
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Biomedical imaging</span>
   * <span style="font-size:12px">(<span style="color:green">XAI</span>) Trustworthy and explainable AI</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Image-based self-supervised learning</span>
@@ -42,8 +42,7 @@ Here's a brief overview of my career, along with my current and past research fo
   
 2022 - 2023: **Postdoctoral Fellow**, Ghent University Global Campus, South Korea
   
-  <span style="font-size:14px">*Research focus:*</span>
-
+  <span style="font-size:14px">*Research focus*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Bioinformatics</span>
   
   <span style="font-size:14px">**First author publications**</span>
