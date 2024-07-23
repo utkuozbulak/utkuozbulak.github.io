@@ -38,7 +38,7 @@ Here's a brief overview of my career, along with my current and past research fo
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>--<span style="color:green">XAI</span>-<span style="color:orange">SSL</span>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
   
   <span style="font-size:14px">**First author publications**</span>
-  * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br />*2024, IEEE IJCNN*</span>
+  * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br />*2024, IEEE IJCNN, oral presentation*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
   
 2022 - 2023: **Postdoctoral Fellow**, Ghent University Global Campus, South Korea
