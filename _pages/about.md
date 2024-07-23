@@ -27,6 +27,7 @@ Here's a brief overview of my career, along with my current and past research fo
 
   <span style="font-size:14px">*Research focus*</span>
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Biomedical imaging</span>
+  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Bioinformatics</span>
   * <span style="font-size:12px">(<span style="color:green">XAI</span>) Trustworthy and explainable AI</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Image-based self-supervised learning</span>
   
@@ -41,9 +42,6 @@ Here's a brief overview of my career, along with my current and past research fo
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
   
 2022 - 2023: **Postdoctoral Fellow**, Ghent University Global Campus, South Korea
-  
-  <span style="font-size:14px">*Research focus*</span>
-  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Bioinformatics</span>
   
   <span style="font-size:14px">**First author publications**</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
