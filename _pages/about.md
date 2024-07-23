@@ -16,21 +16,20 @@ Currently, I work as a Research Professor at the Korean Campus of Ghent Universi
 Here's a brief overview of my career, along with my current and past research focus:
 
 ------
-  <span style="font-size:14px">*Current research focus:*</span>
 
-  * <span style="font-size:12px">Biomedical imaging (<span style="color:maroon">B.img</span>) </span>
-  * <span style="font-size:12px">Trustworthy and explainable AI (<span style="color:green">XAI</span>) </span>
-  * <span style="font-size:12px">Image-based self-supervised learning (<span style="color:orange">SSL</span>)</span>
 
   <span style="font-size:14px">*Past research expertise:*</span>
 
-  * <span style="font-size:12px">Bioinformatics (<span style="color:blue">B.inf</span>)</span>
-  * <span style="font-size:12px">Adversarial examples: attacks, defenses, and properties (<span style="color:indigo">Adversarial</span>) </span>
   
 ------
 
 2023 - Current: **Research Professor**, Ghent University Global Campus, South Korea
+  <span style="font-size:14px">*Research focus:*</span>
 
+  * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Biomedical imaging</span>
+  * <span style="font-size:12px">(<span style="color:green">XAI</span>) Trustworthy and explainable AI</span>
+  * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Image-based self-supervised learning</span>
+  
   <span style="font-size:14px">*Senior author publications:*</span>
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br />*2024, MICCAI - MOVI Workshop*</span>
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Exploring Patient Data Requirements in Training Effective AI Models for MRI-based Breast Cancer Classification <br />*2024, MICCAI - Deep Breath Workshop*</span>
@@ -42,6 +41,10 @@ Here's a brief overview of my career, along with my current and past research fo
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
   
 2022 - 2023: **Postdoctoral Fellow**, Ghent University Global Campus, South Korea
+  
+  <span style="font-size:14px">*Research focus:*</span>
+
+  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Bioinformatics</span>
   
   <span style="font-size:14px">*First author publications:*</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
@@ -56,6 +59,10 @@ Here's a brief overview of my career, along with my current and past research fo
 ------
 
 2017 - 2022: **PhD in Computer Science**, Ghent University, Belgium
+
+  
+  <span style="font-size:14px">*Research focus:*</span>
+  * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Adversarial examples: attacks, defenses, and properties</span>
   
   <span style="font-size:14px">*First author publications:*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Prevalence of Adversarial Examples in Neural Networks: Attacks, Defenses, and Opportunities<br />*2022, Ghent University, PhD thesis*</span>
