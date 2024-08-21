@@ -84,6 +84,8 @@ Here's a brief overview of my career, along with my current and past research fo
 
 2015 - 2016: **SAP Business Intelligence Consultant**, The Coca Cola Company, Turkey
 
+------
+
 2014 - 2015: **SAP Business Intelligence Consultant**, Turkish Airlines, Turkey
 
 ------
