@@ -81,14 +81,10 @@ Here's a brief overview of my career, along with my current and past research fo
 
 ------
 
-2014 - 2016: **SAP Business Intelligence Consultant**, Acron Consulting, Turkey
 
-<span style="font-size:14px">*Notable clients*</span>
+2015 - 2016: **SAP Business Intelligence Consultant**, The Coca Cola Company, Turkey
 
-  * <span style="font-size:12px">The Coca Cola Company</span>
-  * <span style="font-size:12px">Turkish Airlines</span>
-  * <span style="font-size:12px">Bosch Siemens Hausgerate</span>
-  * <span style="font-size:12px">Flormar Cosmetics</span>
+2014 - 2015: **SAP Business Intelligence Consultant**, Turkish Airlines, Turkey
 
 ------
 
