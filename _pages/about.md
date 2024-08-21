@@ -20,10 +20,8 @@ Here's a brief overview of my career, along with my current and past research fo
 2023 - Current: **Research Professor**, Ghent University Global Campus, South Korea
 
   <span style="font-size:14px">*Research focus*</span>
-  * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Biomedical imaging</span>
-  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Bioinformatics</span>
-  * <span style="font-size:12px">(<span style="color:green">XAI</span>) Trustworthy and explainable AI</span>
-  * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Image-based self-supervised learning</span>
+  * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Biomedical imaging</span>       <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Bioinformatics</span>
+  * <span style="font-size:12px">(<span style="color:green">XAI</span>) Trustworthy and explainable AI</span>       <span style="font-size:12px">(<span style="color:orange">SSL</span>) Image-based self-supervised learning</span>
   
   <span style="font-size:14px">*Senior author publications*</span>
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br />*2024, MICCAI - MOVI Workshop*</span>
