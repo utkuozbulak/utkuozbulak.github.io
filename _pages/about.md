@@ -13,7 +13,7 @@ I am a Research Professor at Ghent University Global Campus, where my research s
 <br><br>
 I am particularly interested in developing AI-driven solutions that enhance clinical decision-making, improve interpretability, and ensure reliability in real-world medical and biomedical settings.
 </div>
-<br><br>
+<br>
 Here’s a brief overview of my career, including my current and past research focus, as well as my publications:
 
 ------
