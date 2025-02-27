@@ -15,8 +15,8 @@ I am particularly interested in developing AI-driven solutions that enhance clin
 <br>
 </div>
 
-Here's a brief overview of my career, along with my current and past research focus:
-  
+Here’s a brief overview of my career, including my current and past research focus, as well as my publications:
+
 ------
 
 2023 - Current: **Research Professor**, Ghent University Global Campus, South Korea
