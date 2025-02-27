@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 <div style="text-align: justify"> 
-Currently, I work as a Research Professor at the Korean Campus of Ghent University, mainly focusing on two areas: (1) image-based self-supervised learning, especially with vision transformers, and (2) explainable AI, frequently applied to biomedical imaging.
+I am a Research Professor at Ghent University Global Campus, where my research spans several key areas at the intersection of artificial intelligence and medical applications. My work focuses on (1) medical and biomedical imaging, (2) surgical video understanding, (3) self-supervised learning, and (4) trustworthy and explainable AI.
+<br>
+I am particularly interested in developing AI-driven solutions that enhance clinical decision-making, improve interpretability, and ensure reliability in real-world medical and biomedical settings.
 
 </div>
 
