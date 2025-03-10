@@ -42,7 +42,7 @@ Here’s a brief overview of my career, including my current and past research f
 
 
   <span style="font-size:14px">*Research focus*</span>
-  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Bioinformatics</span>
+  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Bioinformatics and genomics</span>
   
   <span style="font-size:14px">*First author publications*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
