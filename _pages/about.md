@@ -27,8 +27,8 @@ Here’s a brief overview of my career, including my current and past research f
     
   <span style="font-size:14px">*First author publications*</span>
   
-  * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br />*2025, Arxiv preprint*</span>
-  * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation <br />*2025, Arxiv preprint*</span>
+  * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br />*2025, Arxiv*</span>
+  * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation <br />*2025, Arxiv*</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br />*2024, IEEE IJCNN, oral presentation*</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
 
@@ -48,7 +48,7 @@ Here’s a brief overview of my career, including my current and past research f
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>-<span style="color:green">XAI</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>-<span style="color:green">XAI</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />*2023, NeurIPS - LMRL Workshop*</span>
-  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants<br />*2023, Arxiv preprint*</span>
+  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants<br />*2023, Arxiv*</span>
   
    <span style="font-size:14px">*Repositories*:</span>
 
@@ -65,7 +65,8 @@ Here’s a brief overview of my career, including my current and past research f
   <span style="font-size:14px">*First author publications*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Prevalence of Adversarial Examples in Neural Networks: Attacks, Defenses, and Opportunities<br />*2022, Ghent University, PhD thesis*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>-<span style="color:green">XAI</span>) Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />*2022, NeurIPS - Workshop on ImageNet: Past, Present, and Future*</span>
-  * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks<br />*2021, BMVC, oral presentation*</span>
+    * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>-<span style="color:green">XAI</span>) Exact Feature Collisions in Neural Networks<br />*2022, Arxiv*</span>
+  * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks<br />*2021, BMVC, oral presentation*</span>  
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>-<span style="color:green">XAI</span>) Investigating the Significance of Adversarial Attacks and Their Relation to Interpretability for Radar-based Human Activity Recognition Systems<br />*2021, Computer Vision and Image Understanding, Elsevier*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability<br />*2020, ICML - UDL Workshop*</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) Perturbation Analysis of Gradient-based Adversarial Attacks<br />*2020, Pattern Recognition Letters, Elsevier*</span>
