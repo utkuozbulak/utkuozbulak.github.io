@@ -37,7 +37,6 @@ Here’s a brief overview of my career, including my current and past research f
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation <br />*2025, Arxiv preprint*</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br />*2024, IEEE IJCNN, oral presentation*</span>
-  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
   
 2022 - 2023: **Postdoctoral Fellow**, Ghent University Global Campus, South Korea
 
@@ -46,9 +45,10 @@ Here’s a brief overview of my career, including my current and past research f
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Bioinformatics</span>
   
   <span style="font-size:14px">*First author publications*</span>
-  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants<br />*2023, Arxiv*</span>
+  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>-<span style="color:green">XAI</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>-<span style="color:green">XAI</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />*2023, NeurIPS - LMRL Workshop*</span>
+  * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants<br />*2023, Arxiv preprint*</span>
   
    <span style="font-size:14px">*Repositories*:</span>
 
