@@ -35,8 +35,8 @@ Here’s a brief overview of my career, including my current and past research f
   
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br />*2025, Arxiv preprint*</span>
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation <br />*2025, Arxiv preprint*</span>
-  * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br />*2024, IEEE IJCNN, oral presentation*</span>
+  * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
   
 2022 - 2023: **Postdoctoral Fellow**, Ghent University Global Campus, South Korea
 
