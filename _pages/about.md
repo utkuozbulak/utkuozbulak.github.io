@@ -21,7 +21,7 @@ Here’s a brief overview of my career, including my current and past research f
 2023 - Current: **Research Professor**, Ghent University Global Campus, South Korea
 
   <span style="font-size:14px">*Research focus*</span>
-  * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Biomedical imaging</span>
+  * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Medical and biomedical imaging</span>
   * <span style="font-size:12px">(<span style="color:green">XAI</span>) Trustworthy and explainable AI</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Image-based self-supervised learning</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Bioinformatics</span>
@@ -33,6 +33,9 @@ Here’s a brief overview of my career, including my current and past research f
   * <span style="font-size:12px">(<span style="color:maroon">B.img</span>-<span style="color:green">XAI</span>-<span style="color:orange">SSL</span>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
   
   <span style="font-size:14px">*First author publications*</span>
+  
+  * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br />*2025, Arxiv preprint</span>
+    * <span style="font-size:12px">(<span style="color:maroon">B.img</span>) Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation <br />*2025, Arxiv preprint</span>
   * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br />*2024, IEEE IJCNN, oral presentation*</span>
   * <span style="font-size:12px">(<span style="color:blue">B.inf</span>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
   
