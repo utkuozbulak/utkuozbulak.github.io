@@ -79,7 +79,7 @@ Here’s a brief overview of my career, including my current and past research f
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) [github.com/utkuozbulak/adaptive-segmentation-mask-attack](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) [github.com/utkuozbulak/pytorch-cnn-adversarial-attacks](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)</span>
   * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) [github.com/utkuozbulak/imagenet-adversarial-image-evaluation](https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation)</span>
-  * <span style="font-size:12px">(<span style="color:indigo">Adversarial</span>) [github.com/utkuozbulak/regional-adversarial-perturbation](https://github.com/utkuozbulak/regional-adversarial-perturbation)</span>
+  * <span style="font-size:12px">(<span style="color:FireBrick">Adversarial</span>) [github.com/utkuozbulak/regional-adversarial-perturbation](https://github.com/utkuozbulak/regional-adversarial-perturbation)</span>
   * <span style="font-size:12px">(Other) [github.com/utkuozbulak/pytorch-custom-datasets](https://github.com/utkuozbulak/pytorch-custom-datasets)</span>
 
 
