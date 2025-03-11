@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify"> 
-I am a Research Professor at Ghent University Global Campus, where my research spans several key areas at the intersection of artificial intelligence and medical applications. My current work focuses on (1) <span style="color:blue">medical and biomedical imaging</span>, (2) self-supervised learning, and (3) trustworthy and explainable AI.
+I am a Research Professor at Ghent University Global Campus, where my research spans several key areas at the intersection of artificial intelligence and medical applications. My current work focuses on <span style="color:blue">medical and biomedical imaging</span>, <span style="color:green">trustworthy and explainable AI</span>, and <span style="color:orange">self-supervised learning</span>.
 <br><br>
 My interests lie in developing AI-driven solutions that enhance clinical decision-making, improve interpretability, and ensure reliability in real-world medical and biomedical settings.
 </div>
