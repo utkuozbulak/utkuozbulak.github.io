@@ -42,17 +42,17 @@ Here’s a brief overview of my career, including my current and past research f
 
 
   <span style="font-size:14px">*Research focus*</span>
-  * <span style="font-size:12px">(<span style="color:FireBrick">B.inf</span>) Bioinformatics and genomics</span>
+  * <span style="font-size:12px">(<span style="color:FireBrick">Gen</span>) Bioinformatics and genomics</span>
   
   <span style="font-size:14px">*First author publications*</span>
-  * <span style="font-size:12px">(<span style="color:FireBrick">B.inf</span>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
-  * <span style="font-size:12px">(<span style="color:FireBrick">B.inf</span>-<span style="color:green">XAI</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
-  * <span style="font-size:12px">(<span style="color:FireBrick">B.inf</span>-<span style="color:green">XAI</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />*2023, NeurIPS - LMRL Workshop*</span>
-  * <span style="font-size:12px">(<span style="color:FireBrick">B.inf</span>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants<br />*2023, Arxiv*</span>
+  * <span style="font-size:12px">(<span style="color:FireBrick">Gen</span>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
+  * <span style="font-size:12px">(<span style="color:FireBrick">Gen</span>-<span style="color:green">XAI</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
+  * <span style="font-size:12px">(<span style="color:FireBrick">Gen</span>-<span style="color:green">XAI</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />*2023, NeurIPS - LMRL Workshop*</span>
+  * <span style="font-size:12px">(<span style="color:FireBrick">Gen</span>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants<br />*2023, Arxiv*</span>
   
    <span style="font-size:14px">*Repositories*</span>
 
-  * <span style="font-size:12px">(<span style="color:FireBrick">B.inf</span>) [github.com/utkuozbulak/mutate-and-observe](https://github.com/utkuozbulak/mutate-and-observe)</span>
+  * <span style="font-size:12px">(<span style="color:FireBrick">Gen</span>) [github.com/utkuozbulak/mutate-and-observe](https://github.com/utkuozbulak/mutate-and-observe)</span>
  
 ------
 
