@@ -39,7 +39,7 @@ Here’s a brief overview of my career, including my current and past research f
   * <span style="font-size:12px">(<span style="color:blue">Med</span>-<span style="color:green">XAI</span>-<span style="color:orange">SSL</span>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
 
   <span style="font-size:14px">*Repositories*</span>
-  * <span style="font-size:12px">(Other) [https://github.com/utkuozbulak/pytorch-simple-diffusion](https://github.com/utkuozbulak/pytorch-simple-diffusion)</span>
+  * <span style="font-size:12px">(Other) [github.com/utkuozbulak/pytorch-simple-diffusion](https://github.com/utkuozbulak/pytorch-simple-diffusion)</span>
   
 2022 - 2023: **Postdoctoral Fellow**, Ghent University Global Campus, South Korea
 
