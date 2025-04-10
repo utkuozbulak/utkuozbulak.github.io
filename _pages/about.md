@@ -22,15 +22,15 @@ Here’s a brief overview of my career, including my current and past research f
 
   <span style="font-size:14px">*Research focus*</span>
   * <span style="font-size:12px">(<strong>Med</strong>) Medical and biomedical imaging</span>
-  * <span style="font-size:12px">(<span style="color:green">XAI</span>) Trustworthy and explainable AI</span>
-  * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Image-based self-supervised learning</span>
+  * <span style="font-size:12px">(<strong>XAI</strong>) Trustworthy and explainable AI</span>
+  * <span style="font-size:12px">(<strong>SSL</strong>) Image-based self-supervised learning</span>
     
   <span style="font-size:14px">*First author publications*</span>
   
   * <span style="font-size:12px">(<strong>Med</strong>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br />*2025, Arxiv*</span>
   * <span style="font-size:12px">(<strong>Med</strong>) Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation <br />*2025, Arxiv*</span>
-  * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br />*2024, IEEE IJCNN, oral presentation*</span>
-  * <span style="font-size:12px">(<span style="color:orange">SSL</span>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
+  * <span style="font-size:12px">(<strong>SSL</strong>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br />*2024, IEEE IJCNN, oral presentation*</span>
+  * <span style="font-size:12px">(<strong>SSL</strong>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
 
   <span style="font-size:14px">*Last and corresponding author publications*</span>
   * <span style="font-size:12px">(<strong>Med</strong>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br />*2024, MICCAI - MOVI Workshop*</span>
@@ -63,26 +63,26 @@ Here’s a brief overview of my career, including my current and past research f
 
   
   <span style="font-size:14px">*Research focus*</span>
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>) AI security and safety involving adversarial examples</span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>) AI security and safety involving adversarial examples</span>
   
   <span style="font-size:14px">*First author publications*</span>
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>) Prevalence of Adversarial Examples in Neural Networks: Attacks, Defenses, and Opportunities<br />*2022, Ghent University, PhD thesis*</span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>) Prevalence of Adversarial Examples in Neural Networks: Attacks, Defenses, and Opportunities<br />*2022, Ghent University, PhD thesis*</span>
   * <span style="font-size:12px">(<span style="color:indigo">AISec</span>-<span style="color:green">XAI</span>) Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />*2022, NeurIPS - Workshop on ImageNet: Past, Present, and Future*</span>
   * <span style="font-size:12px">(<span style="color:indigo">AISec</span>-<span style="color:green">XAI</span>) Exact Feature Collisions in Neural Networks<br />*2022, Arxiv*</span>
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>) Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks<br />*2021, BMVC, oral presentation*</span>  
+  * <span style="font-size:12px">(<strong>SecureAI</strong>) Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks<br />*2021, BMVC, oral presentation*</span>  
   * <span style="font-size:12px">(<span style="color:indigo">AISec</span>-<span style="color:green">XAI</span>) Investigating the Significance of Adversarial Attacks and Their Relation to Interpretability for Radar-based Human Activity Recognition Systems<br />*2021, Computer Vision and Image Understanding, Elsevier*</span>
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>) Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability<br />*2020, ICML - UDL Workshop*</span>
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>) Perturbation Analysis of Gradient-based Adversarial Attacks<br />*2020, Pattern Recognition Letters, Elsevier*</span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>) Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability<br />*2020, ICML - UDL Workshop*</span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>) Perturbation Analysis of Gradient-based Adversarial Attacks<br />*2020, Pattern Recognition Letters, Elsevier*</span>
   * <span style="font-size:12px">(<span style="color:indigo">AISec</span>-<span style="color:blue">Med</span>) Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation<br />*2019, MICCAI, poster presentation*</span>
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>) Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding<br />*2019, IEEE IJCNN, oral presentation* </span>
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>) How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples<br />*2018, NeurIPS - SecML Workshop* </span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>) Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding<br />*2019, IEEE IJCNN, oral presentation* </span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>) How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples<br />*2018, NeurIPS - SecML Workshop* </span>
   
   <span style="font-size:14px">*Repositories*</span>
-  * <span style="font-size:12px">(<span style="color:green">XAI</span>) [github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)</span>
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>) [github.com/utkuozbulak/adaptive-segmentation-mask-attack](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)</span>
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>) [github.com/utkuozbulak/pytorch-cnn-adversarial-attacks](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)</span>
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>) [github.com/utkuozbulak/imagenet-adversarial-image-evaluation](https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation)</span>
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>) [github.com/utkuozbulak/regional-adversarial-perturbation](https://github.com/utkuozbulak/regional-adversarial-perturbation)</span>
+  * <span style="font-size:12px">(<strong>XAI</strong>) [github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)</span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>) [github.com/utkuozbulak/adaptive-segmentation-mask-attack](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)</span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>) [github.com/utkuozbulak/pytorch-cnn-adversarial-attacks](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)</span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>) [github.com/utkuozbulak/imagenet-adversarial-image-evaluation](https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation)</span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>) [github.com/utkuozbulak/regional-adversarial-perturbation](https://github.com/utkuozbulak/regional-adversarial-perturbation)</span>
   * <span style="font-size:12px">(Other) [github.com/utkuozbulak/pytorch-custom-datasets](https://github.com/utkuozbulak/pytorch-custom-datasets)</span>
 
 
