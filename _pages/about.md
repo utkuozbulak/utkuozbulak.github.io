@@ -35,8 +35,8 @@ Here’s a brief overview of my career, including my current and past research f
   <span style="font-size:14px">*Last and corresponding author publications*</span>
   * <span style="font-size:12px">(<strong>Med</strong>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br />*2024, MICCAI - MOVI Workshop*</span>
   * <span style="font-size:12px">(<strong>Med</strong>) Exploring Patient Data Requirements in Training Effective AI Models for MRI-based Breast Cancer Classification <br />*2024, MICCAI - Deep Breath Workshop*</span>
-  * <span style="font-size:12px">(<span style="color:blue">Med</span>-<span style="color:green">XAI</span>-<span style="color:orange">SSL</span>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br />*2024, MICCAI - iMIMIC Workshop*</span>
-  * <span style="font-size:12px">(<span style="color:blue">Med</span>-<span style="color:green">XAI</span>-<span style="color:orange">SSL</span>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
+  * <span style="font-size:12px">(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br />*2024, MICCAI - iMIMIC Workshop*</span>
+  * <span style="font-size:12px">(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
 
   <span style="font-size:14px">*Repositories*</span>
   * <span style="font-size:12px">(Other) [github.com/utkuozbulak/pytorch-simple-diffusion](https://github.com/utkuozbulak/pytorch-simple-diffusion)</span>
@@ -45,17 +45,17 @@ Here’s a brief overview of my career, including my current and past research f
 
 
   <span style="font-size:14px">*Research focus*</span>
-  * <span style="font-size:12px">(<span style="color:FireBrick">Gen</span>) Bioinformatics and genomics</span>
+  * <span style="font-size:12px">(<strong>Bio</strong>) Bioinformatics and genomics</span>
   
   <span style="font-size:14px">*First author publications*</span>
-  * <span style="font-size:12px">(<span style="color:FireBrick">Gen</span>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
-  * <span style="font-size:12px">(<span style="color:FireBrick">Gen</span>-<span style="color:green">XAI</span>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
-  * <span style="font-size:12px">(<span style="color:FireBrick">Gen</span>-<span style="color:green">XAI</span>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />*2023, NeurIPS - LMRL Workshop*</span>
-  * <span style="font-size:12px">(<span style="color:FireBrick">Gen</span>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants<br />*2023, Arxiv*</span>
+  * <span style="font-size:12px">(<strong>Bio</strong>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
+  * <span style="font-size:12px">(<strong>Bio</strong>-<strong>XAI</strong>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation<br />*2023, Bioinformatics, Oxford Press*</span>
+  * <span style="font-size:12px">(<strong>Bio</strong>-<strong>XAI</strong>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data<br />*2023, NeurIPS - LMRL Workshop*</span>
+  * <span style="font-size:12px">(<strong>Bio</strong>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants<br />*2023, Arxiv*</span>
   
    <span style="font-size:14px">*Repositories*</span>
 
-  * <span style="font-size:12px">(<span style="color:FireBrick">Gen</span>) [github.com/utkuozbulak/mutate-and-observe](https://github.com/utkuozbulak/mutate-and-observe)</span>
+  * <span style="font-size:12px">(<strong>Bio</strong>) [github.com/utkuozbulak/mutate-and-observe](https://github.com/utkuozbulak/mutate-and-observe)</span>
  
 ------
 
@@ -67,13 +67,13 @@ Here’s a brief overview of my career, including my current and past research f
   
   <span style="font-size:14px">*First author publications*</span>
   * <span style="font-size:12px">(<strong>SecureAI</strong>) Prevalence of Adversarial Examples in Neural Networks: Attacks, Defenses, and Opportunities<br />*2022, Ghent University, PhD thesis*</span>
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>-<span style="color:green">XAI</span>) Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />*2022, NeurIPS - Workshop on ImageNet: Past, Present, and Future*</span>
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>-<span style="color:green">XAI</span>) Exact Feature Collisions in Neural Networks<br />*2022, Arxiv*</span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>-<strong>XAI</strong>) Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes<br />*2022, NeurIPS - Workshop on ImageNet: Past, Present, and Future*</span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>-<strong>XAI</strong>) Exact Feature Collisions in Neural Networks<br />*2022, Arxiv*</span>
   * <span style="font-size:12px">(<strong>SecureAI</strong>) Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks<br />*2021, BMVC, oral presentation*</span>  
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>-<span style="color:green">XAI</span>) Investigating the Significance of Adversarial Attacks and Their Relation to Interpretability for Radar-based Human Activity Recognition Systems<br />*2021, Computer Vision and Image Understanding, Elsevier*</span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>-<strong>XAI</strong>) Investigating the Significance of Adversarial Attacks and Their Relation to Interpretability for Radar-based Human Activity Recognition Systems<br />*2021, Computer Vision and Image Understanding, Elsevier*</span>
   * <span style="font-size:12px">(<strong>SecureAI</strong>) Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability<br />*2020, ICML - UDL Workshop*</span>
   * <span style="font-size:12px">(<strong>SecureAI</strong>) Perturbation Analysis of Gradient-based Adversarial Attacks<br />*2020, Pattern Recognition Letters, Elsevier*</span>
-  * <span style="font-size:12px">(<span style="color:indigo">AISec</span>-<span style="color:blue">Med</span>) Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation<br />*2019, MICCAI, poster presentation*</span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>-<strong>Med</strong>) Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation<br />*2019, MICCAI, poster presentation*</span>
   * <span style="font-size:12px">(<strong>SecureAI</strong>) Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding<br />*2019, IEEE IJCNN, oral presentation* </span>
   * <span style="font-size:12px">(<strong>SecureAI</strong>) How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples<br />*2018, NeurIPS - SecML Workshop* </span>
   
