@@ -88,7 +88,7 @@ Here’s a brief overview of my career, including my current and past research f
 
 ------
 
-2016 - 2017: **MSc. in Data Science**, University of Southampton, UK
+2016 - 2017: **MSc in Data Science**, University of Southampton, UK
 
 ------
 
@@ -101,7 +101,7 @@ Here’s a brief overview of my career, including my current and past research f
 
 ------
 
-2012 - 2014: **BSc. in Computer Engineering**, Yasar University, Turkey
+2012 - 2014: **BSc in Computer Engineering**, Yasar University, Turkey
 
 
 
