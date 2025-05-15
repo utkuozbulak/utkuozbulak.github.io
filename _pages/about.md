@@ -26,7 +26,7 @@ Here’s a brief overview of my career, including my current and past research f
   * <span style="font-size:12px">(<strong>SSL</strong>) Image-based self-supervised learning</span>
 
   <span style="font-size:14px">*Last and corresponding author publications*</span>
-  * <span style="font-size:12px">(<strong>Med</strong>) SpurBreast: A Curated Dataset for Investigating Spurious Correlations in Real-world Breast MRI Classification <br />*2025, MICCAI - Main track early accept*</span>
+  * <span style="font-size:12px">(<strong>Med</strong>) SpurBreast: A Curated Dataset for Investigating Spurious Correlations in Real-world Breast MRI Classification <br />*2025, MICCAI - Main Track - Early Accept*</span>
   * <span style="font-size:12px">(<strong>Med</strong>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br />*2024, MICCAI - MOVI Workshop*</span>
   * <span style="font-size:12px">(<strong>Med</strong>) Exploring Patient Data Requirements in Training Effective AI Models for MRI-based Breast Cancer Classification <br />*2024, MICCAI - Deep Breath Workshop*</span>
   * <span style="font-size:12px">(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br />*2024, MICCAI - iMIMIC Workshop*</span>
