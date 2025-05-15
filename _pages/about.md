@@ -24,19 +24,21 @@ Here’s a brief overview of my career, including my current and past research f
   * <span style="font-size:12px">(<strong>Med</strong>) Medical and biomedical imaging</span>
   * <span style="font-size:12px">(<strong>XAI</strong>) Trustworthy and explainable AI</span>
   * <span style="font-size:12px">(<strong>SSL</strong>) Image-based self-supervised learning</span>
-    
-  <span style="font-size:14px">*First author publications*</span>
+
+  <span style="font-size:14px">*Last and corresponding author publications*</span>
+  * <span style="font-size:12px">(<strong>Med</strong>) SpurBreast: A Curated Dataset for Investigating Spurious Correlations in Real-world Breast MRI Classification <br />*2025, MICCAI - Main track early accept*</span>
+  * <span style="font-size:12px">(<strong>Med</strong>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br />*2024, MICCAI - MOVI Workshop*</span>
+  * <span style="font-size:12px">(<strong>Med</strong>) Exploring Patient Data Requirements in Training Effective AI Models for MRI-based Breast Cancer Classification <br />*2024, MICCAI - Deep Breath Workshop*</span>
+  * <span style="font-size:12px">(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br />*2024, MICCAI - iMIMIC Workshop*</span>
+  * <span style="font-size:12px">(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
   
+  <span style="font-size:14px">*First author publications*</span>
   * <span style="font-size:12px">(<strong>Med</strong>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br />*2025, Arxiv*</span>
   * <span style="font-size:12px">(<strong>Med</strong>) Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation <br />*2025, Arxiv*</span>
   * <span style="font-size:12px">(<strong>SSL</strong>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br />*2024, IEEE IJCNN, oral presentation*</span>
   * <span style="font-size:12px">(<strong>SSL</strong>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training<br />*2023, Transactions on Machine Learning Research*</span>
 
-  <span style="font-size:14px">*Last and corresponding author publications*</span>
-  * <span style="font-size:12px">(<strong>Med</strong>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br />*2024, MICCAI - MOVI Workshop*</span>
-  * <span style="font-size:12px">(<strong>Med</strong>) Exploring Patient Data Requirements in Training Effective AI Models for MRI-based Breast Cancer Classification <br />*2024, MICCAI - Deep Breath Workshop*</span>
-  * <span style="font-size:12px">(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br />*2024, MICCAI - iMIMIC Workshop*</span>
-  * <span style="font-size:12px">(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
+
 
   <span style="font-size:14px">*Repositories*</span>
   * <span style="font-size:12px">(Other) [github.com/utkuozbulak/pytorch-simple-diffusion](https://github.com/utkuozbulak/pytorch-simple-diffusion)</span>
