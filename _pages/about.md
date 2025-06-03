@@ -22,6 +22,7 @@ Here’s a brief overview of my career, including my current and past research f
 <ul style="list-style-type: none; padding-left: 0;">
   <li><a href="#education">Education</a></li>
   <li><a href="#work">Work Experience</a></li>
+  <li><a href="#collab">Ongoing Collaborations</a></li>
   <li><a href="#research">Research Expertise</a></li>
   <li><a href="#publications">Publications</a></li>
   <li><a href="#repositories">Repositories</a></li>
@@ -30,7 +31,7 @@ Here’s a brief overview of my career, including my current and past research f
 
 ------
 
-<h2 id="publications">Education</h2>
+<h2 id="education">Education</h2>
 
 2016 - 2017: **PhD in Computer Science**, Ghent University, Belgium
 
@@ -40,7 +41,7 @@ Here’s a brief overview of my career, including my current and past research f
 
 ------
 
-<h2 id="publications">Work Experience</h2>
+<h2 id="work">Work Experience</h2>
 
 2023 - Current: **Research Professor**, Ghent University Global Campus, South Korea
 
@@ -51,10 +52,10 @@ Here’s a brief overview of my career, including my current and past research f
 2015 - 2016: **SAP Business Intelligence Consultant**, The Coca Cola Company, Turkey
 
 2014 - 2015: **SAP Business Intelligence Consultant**, Turkish Airlines, Turkey
-
+  
 ------
 
-<h2 id="publications">Research Expertise</h2>
+<h2 id="research">Research Expertise</h2>
 
   * <span style="font-size:12px">(<strong>Med</strong>) Medical and biomedical imaging</span>
   * <span style="font-size:12px">(<strong>XAI</strong>) Trustworthy and explainable AI</span>
@@ -95,7 +96,7 @@ Here’s a brief overview of my career, including my current and past research f
   * <span style="font-size:12px">(<strong>SecureAI</strong>) Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding<br />*2019, IEEE IJCNN, oral presentation* </span>
   * <span style="font-size:12px">(<strong>SecureAI</strong>) How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples<br />*2018, NeurIPS - SecML Workshop* </span>
 
-<h2 id="publications">Repositories</h2>
+<h2 id="repositories">Repositories</h2>
 
   * <span style="font-size:12px">(<strong>Bio</strong>) [github.com/utkuozbulak/mutate-and-observe](https://github.com/utkuozbulak/mutate-and-observe)</span>
   * <span style="font-size:12px">(Other) [github.com/utkuozbulak/pytorch-simple-diffusion](https://github.com/utkuozbulak/pytorch-simple-diffusion)</span>
