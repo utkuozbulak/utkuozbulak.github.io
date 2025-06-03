@@ -64,7 +64,7 @@ Here’s a brief overview of my career, including my current and past research f
 
 <h2 id="publications">Publications</h2>
 
-  <span style="font-size:14px">*Last / Corresponding Author Publications*</span>
+<span style="font-size:14px"><strong>Last / Corresponding Author Publications</strong></span>
   
 <div style="font-size:12px">
   <p>(<strong>Med</strong>) SpurBreast: A Curated Dataset for Investigating Spurious Correlations in Real-world Breast MRI Classification <br><em>2025, MICCAI - Main Track - Early Accept</em></p>
@@ -78,7 +78,7 @@ Here’s a brief overview of my career, including my current and past research f
   <p>(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br><em>2024, MICCAI - MLMI Workshop</em></p>
 </div>
 
-  <span style="font-size:14px">*First Author Publications*</span>
+  <span style="font-size:14px"><strong>*First Author Publications*</strong></span>
 <div style="font-size:12px">
   <p>(<strong>Med</strong>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br><em>2025, Arxiv</em></p>
   
