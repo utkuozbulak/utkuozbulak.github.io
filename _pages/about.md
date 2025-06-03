@@ -18,13 +18,14 @@ Here’s a brief overview of my career, including my current and past research f
 <h2 id="education">Summary</h2>
 
 <div style="font-size:12px">
-  <p><strong>Highest Education:</strong> PhD in Computer Science, Ghent University</p>
+  <p><strong>Highest Education:</strong> PhD in Computer Science, Ghent University, Belgium</p>
   <p><strong>Current Position:</strong> Research Professor at Ghent University Global Campus (South Korea)</p>
   <p><strong>Primary Research Expertise:</strong> AI, Machine Learning, Computer Vision, Medical and Biomedical Imaging</p>
   <p><strong>Research Output:</strong> 14 First-author Papers, 5 Last-author Papers in Top-tier Venues</p>
   <p><strong>Repositories:</strong> 9,440 GitHub Stars and 1,684 Forks</p>
 </div>
 
+<!--
 <h2>Jump To:</h2>
 <ul style="list-style-type: none; padding-left: 0;">
   <li><a href="#education">Education</a></li>
@@ -33,6 +34,7 @@ Here’s a brief overview of my career, including my current and past research f
   <li><a href="#publications">Publications</a></li> 
   <li><a href="#repositories">Repositories</a></li>
 </ul>
+-->
 
 <h2 id="education">Education</h2>
 
