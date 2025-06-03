@@ -17,13 +17,13 @@ Here’s a brief overview of my career, including my current and past research f
 
 <h2 id="education">Summary</h2>
 
-<ul>
-  <li><span style="font-size:12px"><strong>Highest Education:</strong> PhD in Computer Science, Ghent University</span></li>
-  <li><span style="font-size:12px"><strong>Current Position:</strong> Research Professor at Ghent University Global Campus (Korea)</span></li>
-  <li><span style="font-size:12px"><strong>Primary Research Expertise:</strong> AI, Machine Learning, Computer Vision, Medical and Biomedical Imaging</span></li>
-  <li><span style="font-size:12px"><strong>Research Output:</strong> 14 First-author Papers, 5 Last-author Papers in Top-tier Venues</span></li>
-  <li><span style="font-size:12px"><strong>Repositories:</strong> 9,440 GitHub Stars and 1,684 Forks</span></li>
-</ul>
+<div style="font-size:12px">
+  <p><strong>Highest Education:</strong> PhD in Computer Science, Ghent University</p>
+  <p><strong>Current Position:</strong> Research Professor at Ghent University Global Campus (South Korea)</p>
+  <p><strong>Primary Research Expertise:</strong> AI, Machine Learning, Computer Vision, Medical and Biomedical Imaging</p>
+  <p><strong>Research Output:</strong> 14 First-author Papers, 5 Last-author Papers in Top-tier Venues</p>
+  <p><strong>Repositories:</strong> 9,440 GitHub Stars and 1,684 Forks</p>
+</div>
 
 <h2>Jump To:</h2>
 <ul style="list-style-type: none; padding-left: 0;">
@@ -54,11 +54,13 @@ Here’s a brief overview of my career, including my current and past research f
 
 <h2 id="research">Research Expertise</h2>
 
-  * <span style="font-size:12px">(<strong>Med</strong>) Medical and biomedical imaging</span>
-  * <span style="font-size:12px">(<strong>XAI</strong>) Trustworthy and explainable AI</span>
-  * <span style="font-size:12px">(<strong>SecureAI</strong>) AI security and safety</span>
-  * <span style="font-size:12px">(<strong>Bio</strong>) Bioinformatics and genomics</span>
-  * <span style="font-size:12px">(<strong>SSL</strong>) Image-based self-supervised learning</span>
+<div style="font-size:12px">
+  <p>(<strong>Med</strong>) Medical and biomedical imaging</p>
+  <p>(<strong>XAI</strong>) Trustworthy and explainable AI</p>
+  <p>(<strong>SecureAI</strong>) AI security and safety</p>
+  <p>(<strong>Bio</strong>) Bioinformatics and genomics</p>
+  <p>(<strong>SSL</strong>) Image-based self-supervised learning</p>
+</div>
 
 <h2 id="publications">Publications</h2>
 
