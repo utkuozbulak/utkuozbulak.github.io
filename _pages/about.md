@@ -23,7 +23,7 @@ Here’s a brief overview of my career, including my current and past research f
   <li><a href="#education">Education</a></li>
   <li><a href="#work">Work Experience</a></li>
   <li><a href="#research">Research Expertise</a></li>
-  <li><a href="#publications">Publications</a></li> - 
+  <li><a href="#publications">Publications</a></li> 
   <li><a href="#repositories">Repositories</a></li>
 </ul>
 
