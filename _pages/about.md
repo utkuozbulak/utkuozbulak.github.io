@@ -81,8 +81,7 @@ Here’s a brief overview of my career, including my current and past research f
 </div>
 
   <span style="font-size:14px"><strong>*First Author <u>Journal</u> Publications*</strong></span>
-
-  <span style="font-size:14px"><u>Journal Publications</u></span>
+  
 <div style="font-size:12px">
     
   <p>(<strong>Bio</strong>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data <br><em>2024, BMC Bioinformatics, Q1 SCIE</em></p>
@@ -119,7 +118,8 @@ Here’s a brief overview of my career, including my current and past research f
 </div>
 
 
-  <span style="font-size:14px"><u>Other Publications</u></span>
+  <span style="font-size:14px"><strong>*First Author <u>Other Publications</u>*</strong></span>
+  
 <div style="font-size:12px">
   <p>(<strong>Med</strong>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br><em>2025, Arxiv</em></p>
   
