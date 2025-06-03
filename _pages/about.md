@@ -13,7 +13,7 @@ I am currently working as a Research Professor at Ghent University Global Campus
 My interests lie in developing AI-driven solutions that enhance clinical decision-making, improve interpretability, and ensure reliability in real-world medical and biomedical settings. These days, I'm working on surgical video understanding with video object segmentation models such as SAM2, AI-assisted characterization of sub-visible particles in biopharmaceuticals (classification, clustering, and segmentation), and other topics involving spurious correlations, robust predictions, and interpretable AI. If you're working on cool projects within my areas of interest that I can contribute to, feel free to reach out!
 </div>
 <br>
-Here’s a brief overview of my career, including my current and past research focus, as well as my publications.
+Here's a brief overview of my career, including education, work history, research focus (past and present), publications, and repositories.
 
 <h2 id="education">Summary</h2>
 
