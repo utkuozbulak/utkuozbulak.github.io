@@ -16,7 +16,7 @@ I am currently working as a Research Professor at Ghent University Global Campus
 My interests lie in developing AI-driven solutions that enhance clinical decision-making, improve interpretability, and ensure reliability in real-world medical and biomedical settings. These days, I'm working on surgical video understanding with video object segmentation models such as SAM2 and AI-assisted characterization of sub-visible particles in biopharmaceuticals (classification, clustering, and segmentation). If you're working on cool projects within my areas of interest that I can contribute to, feel free to reach out!
 </div>
 <br>
-Here’s a brief overview of my career, including my current and past research focus, as well as my publications:
+Here’s a brief overview of my career, including my current and past research focus, as well as my publications.
 
 <h3>Jump to section:</h3>
 <ul style="list-style-type: none; padding-left: 0;">
@@ -92,11 +92,11 @@ Here’s a brief overview of my career, including my current and past research f
   * <span style="font-size:12px">(<strong>Bio</strong>) [github.com/utkuozbulak/mutate-and-observe](https://github.com/utkuozbulak/mutate-and-observe)</span>
   * <span style="font-size:12px">(Other) [github.com/utkuozbulak/pytorch-simple-diffusion](https://github.com/utkuozbulak/pytorch-simple-diffusion)</span>
   * <span style="font-size:12px">(<strong>XAI</strong>) [github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)</span>
+  * <span style="font-size:12px">(Other) [github.com/utkuozbulak/pytorch-custom-datasets](https://github.com/utkuozbulak/pytorch-custom-datasets)</span>
   * <span style="font-size:12px">(<strong>SecureAI</strong>) [github.com/utkuozbulak/adaptive-segmentation-mask-attack](https://github.com/utkuozbulak/adaptive-segmentation-mask-attack)</span>
   * <span style="font-size:12px">(<strong>SecureAI</strong>) [github.com/utkuozbulak/pytorch-cnn-adversarial-attacks](https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks)</span>
   * <span style="font-size:12px">(<strong>SecureAI</strong>) [github.com/utkuozbulak/imagenet-adversarial-image-evaluation](https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation)</span>
   * <span style="font-size:12px">(<strong>SecureAI</strong>) [github.com/utkuozbulak/regional-adversarial-perturbation](https://github.com/utkuozbulak/regional-adversarial-perturbation)</span>
-  * <span style="font-size:12px">(Other) [github.com/utkuozbulak/pytorch-custom-datasets](https://github.com/utkuozbulak/pytorch-custom-datasets)</span>
 
 
 
