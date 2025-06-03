@@ -36,23 +36,21 @@ Here’s a brief overview of my career, including my current and past research f
 
 <h2 id="education">Education</h2>
 
-2017 - 2022: **PhD in Computer Science**, Ghent University, Belgium
-
-2016 - 2017: **MSc in Data Science**, University of Southampton, United Kingdom
-
-2012 - 2014: **BSc in Computer Engineering**, Yasar University, Turkey
+<div style="font-size:12px">
+  2017 - 2022: <strong>PhD in Computer Science</strong>, Ghent University, Belgium<br><br>
+  2016 - 2017: <strong>MSc in Data Science</strong>, University of Southampton, United Kingdom<br><br>
+  2012 - 2014: <strong>BSc in Computer Engineering</strong>, Yasar University, Turkey
+</div>
 
 <h2 id="work">Work Experience</h2>
 
-2023 - Current: **Research Professor**, Ghent University Global Campus, South Korea
-
-2022 - 2023: **Postdoctoral Fellow**, Ghent University Global Campus, South Korea
-
-2017 - 2022: **AI Researcher**, Ghent University Global Campus, South Korea
-
-2015 - 2016: **SAP Business Intelligence Consultant**, The Coca Cola Company, Turkey
-
-2014 - 2015: **SAP Business Intelligence Consultant**, Turkish Airlines, Turkey
+<div style="font-size:12px">
+  2023 - Current: <strong>Research Professor</strong>, Ghent University Global Campus, South Korea<br><br>
+  2022 - 2023: <strong>Postdoctoral Fellow</strong>, Ghent University Global Campus, South Korea<br><br>
+  2017 - 2022: <strong>AI Researcher</strong>, Ghent University Global Campus, South Korea<br><br>
+  2015 - 2016: <strong>SAP Business Intelligence Consultant</strong>, The Coca Cola Company, Turkey<br><br>
+  2014 - 2015: <strong>SAP Business Intelligence Consultant</strong>, Turkish Airlines, Turkey
+</div>
 
 <h2 id="research">Research Expertise</h2>
 
