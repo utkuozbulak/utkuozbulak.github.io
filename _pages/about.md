@@ -66,7 +66,7 @@ Here’s a brief overview of my career, including my current and past research f
 
 <h2 id="publications">Publications</h2>
 
-  <span style="font-size:14px">*Last and corresponding author publications*</span>
+  <span style="font-size:14px">*Last / Corresponding Author Publications*</span>
   
   * <span style="font-size:12px">(<strong>Med</strong>) SpurBreast: A Curated Dataset for Investigating Spurious Correlations in Real-world Breast MRI Classification <br />*2025, MICCAI - Main Track - Early Accept*</span>
   * <span style="font-size:12px">(<strong>Med</strong>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br />*2024, MICCAI - MOVI Workshop*</span>
@@ -74,7 +74,7 @@ Here’s a brief overview of my career, including my current and past research f
   * <span style="font-size:12px">(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br />*2024, MICCAI - iMIMIC Workshop*</span>
   * <span style="font-size:12px">(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
 
-  <span style="font-size:14px">*First author publications*</span>
+  <span style="font-size:14px">*First Author Publications</span>
 
   * <span style="font-size:12px">(<strong>Med</strong>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br />*2025, Arxiv*</span>
   * <span style="font-size:12px">(<strong>Med</strong>) Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation <br />*2025, Arxiv*</span>
