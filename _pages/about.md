@@ -28,9 +28,6 @@ Here’s a brief overview of my career, including my current and past research f
   <li><a href="#repositories">Repositories</a></li>
 </ul>
 
-
-------
-
 <h2 id="education">Education</h2>
 
 2016 - 2017: **PhD in Computer Science**, Ghent University, Belgium
@@ -38,8 +35,6 @@ Here’s a brief overview of my career, including my current and past research f
 2016 - 2017: **MSc in Data Science**, University of Southampton, United Kingdom
 
 2012 - 2014: **BSc in Computer Engineering**, Yasar University, Turkey
-
-------
 
 <h2 id="work">Work Experience</h2>
 
@@ -52,8 +47,6 @@ Here’s a brief overview of my career, including my current and past research f
 2015 - 2016: **SAP Business Intelligence Consultant**, The Coca Cola Company, Turkey
 
 2014 - 2015: **SAP Business Intelligence Consultant**, Turkish Airlines, Turkey
-  
-------
 
 <h2 id="research">Research Expertise</h2>
 
@@ -62,8 +55,6 @@ Here’s a brief overview of my career, including my current and past research f
   * <span style="font-size:12px">(<strong>SecureAI</strong>) AI security and safety</span>
   * <span style="font-size:12px">(<strong>Bio</strong>) Bioinformatics and genomics</span>
   * <span style="font-size:12px">(<strong>SSL</strong>) Image-based self-supervised learning</span>
-
-------
 
 <h2 id="publications">Publications</h2>
 
