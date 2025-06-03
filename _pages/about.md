@@ -80,7 +80,7 @@ Here’s a brief overview of my career, including my current and past research f
   <p>(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br><em>2024, MICCAI - MLMI Workshop</em></p>
 </div>
 
-  <span style="font-size:14px"><strong>*First Author <u>Journal</u> Publications*</strong></span>
+  <span style="font-size:14px"><strong>First Author <u>Journal</u> Publications</strong></span>
   
 <div style="font-size:12px">
     
@@ -94,7 +94,7 @@ Here’s a brief overview of my career, including my current and past research f
   
 </div>
 
-  <span style="font-size:14px"><strong>*First Author <u>Conference Proceedings</u>*</strong></span>
+  <span style="font-size:14px"><strong>First Author <u>Conference Proceedings</u></strong></span>
   
 <div style="font-size:12px">
 
@@ -118,7 +118,7 @@ Here’s a brief overview of my career, including my current and past research f
 </div>
 
 
-  <span style="font-size:14px"><strong>*First Author <u>Other Publications</u>*</strong></span>
+  <span style="font-size:14px"><strong>First Author <u>Other Publications</u></strong></span>
   
 <div style="font-size:12px">
   <p>(<strong>Med</strong>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br><em>2025, Arxiv</em></p>
