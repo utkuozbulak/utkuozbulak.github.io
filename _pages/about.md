@@ -82,7 +82,7 @@ Here’s a brief overview of my career, including my current and past research f
 
   <span style="font-size:14px"><strong>*First Author Publications*</strong></span>
 
-  <span style="font-size:14px">Journal Publications</strong></span>
+  <span style="font-size:14px"><u>Journal Publications</u></span>
 <div style="font-size:12px">
     
   <p>(<strong>Bio</strong>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data <br><em>2024, BMC Bioinformatics</em></p>
@@ -94,8 +94,8 @@ Here’s a brief overview of my career, including my current and past research f
   <p>(<strong>SecureAI</strong>-<strong>XAI</strong>) Investigating the Significance of Adversarial Attacks and Their Relation to Interpretability for Radar-based Human Activity Recognition Systems <br><em>2021, Computer Vision and Image Understanding, Elsevier</em></p>
   
 </div>
+  <span style="font-size:14px"><u>Conference Proceedings</u></span>
   
-  <span style="font-size:14px">Conference Proceedings</strong></span>
 <div style="font-size:12px">
 
   <p>(<strong>SSL</strong>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br><em>2024, IEEE IJCNN, oral presentation</em></p>
@@ -118,7 +118,7 @@ Here’s a brief overview of my career, including my current and past research f
 </div>
 
 
-  <span style="font-size:14px">Other Publications</strong></span>
+  <span style="font-size:14px"><u>Other Publications</u></span>
 <div style="font-size:12px">
   <p>(<strong>Med</strong>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br><em>2025, Arxiv</em></p>
   
