@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<p> UNDER CONSTRUCTION RIGHT NOW!</p>
+
 <div style="text-align: justify"> 
 I am currently working as a Research Professor at Ghent University Global Campus, where my research spans several key areas at the intersection of artificial intelligence and medical applications. My current work focuses on medical and biomedical imaging, trustworthy and explainable AI, and self-supervised learning.
 <br><br>
