@@ -22,7 +22,6 @@ Here’s a brief overview of my career, including my current and past research f
 <ul style="list-style-type: none; padding-left: 0;">
   <li><a href="#education">Education</a></li>
   <li><a href="#work">Work Experience</a></li>
-  <li><a href="#collab">Ongoing Collaborations</a></li>
   <li><a href="#research">Research Expertise</a></li>
   <li><a href="#publications">Publications</a></li>
   <li><a href="#repositories">Repositories</a></li>
@@ -66,7 +65,7 @@ Here’s a brief overview of my career, including my current and past research f
   * <span style="font-size:12px">(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br />*2024, MICCAI - iMIMIC Workshop*</span>
   * <span style="font-size:12px">(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
 
-  <span style="font-size:14px">*First Author Publications</span>
+  <span style="font-size:14px">*First Author Publications*</span>
 
   * <span style="font-size:12px">(<strong>Med</strong>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br />*2025, Arxiv*</span>
   * <span style="font-size:12px">(<strong>Med</strong>) Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation <br />*2025, Arxiv*</span>
