@@ -66,11 +66,17 @@ Here’s a brief overview of my career, including my current and past research f
 
   <span style="font-size:14px">*Last / Corresponding Author Publications*</span>
   
-  * <span style="font-size:12px">(<strong>Med</strong>) SpurBreast: A Curated Dataset for Investigating Spurious Correlations in Real-world Breast MRI Classification <br />*2025, MICCAI - Main Track - Early Accept*</span>
-  * <span style="font-size:12px">(<strong>Med</strong>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br />*2024, MICCAI - MOVI Workshop*</span>
-  * <span style="font-size:12px">(<strong>Med</strong>) Exploring Patient Data Requirements in Training Effective AI Models for MRI-based Breast Cancer Classification <br />*2024, MICCAI - Deep Breath Workshop*</span>
-  * <span style="font-size:12px">(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br />*2024, MICCAI - iMIMIC Workshop*</span>
-  * <span style="font-size:12px">(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br />*2024, MICCAI - MLMI Workshop*</span>
+<div style="font-size:12px">
+  <p>(<strong>Med</strong>) SpurBreast: A Curated Dataset for Investigating Spurious Correlations in Real-world Breast MRI Classification <br><em>2025, MICCAI - Main Track - Early Accept</em></p>
+  
+  <p>(<strong>Med</strong>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br><em>2024, MICCAI - MOVI Workshop</em></p>
+  
+  <p>(<strong>Med</strong>) Exploring Patient Data Requirements in Training Effective AI Models for MRI-based Breast Cancer Classification <br><em>2024, MICCAI - Deep Breath Workshop</em></p>
+  
+  <p>(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br><em>2024, MICCAI - iMIMIC Workshop</em></p>
+  
+  <p>(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br><em>2024, MICCAI - MLMI Workshop</em></p>
+</div>
 
   <span style="font-size:14px">*First Author Publications*</span>
 
