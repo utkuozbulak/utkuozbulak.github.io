@@ -16,18 +16,24 @@ My interests lie in developing AI-driven solutions that enhance clinical decisio
 <br>
 Here’s a brief overview of my career, including my current and past research focus, as well as my publications:
 
-<p><a href="#education">Education</a></p>
-<p><a href="#work">Work Experience</a></p>
-<p><a href="#research">Research Expertise</a></p>
-<p><a href="#publications">Publications</a></p>
-<p><a href="#repositories">Repositories</a></p>
+<a href="#education">Education</a>
+
+<a href="#work">Work Experience</a></p>
+
+<a href="#research">Research Expertise</a>
+
+<a href="#publications">Publications</a>
+
+<a href="#repositories">Repositories</a>
 
 ------
 
 <h2 id="publications">Education</h2>
 
 2016 - 2017: **PhD in Computer Science**, Ghent University, Belgium
+
 2016 - 2017: **MSc in Data Science**, University of Southampton, United Kingdom
+
 2012 - 2014: **BSc in Computer Engineering**, Yasar University, Turkey
 
 ------
@@ -35,9 +41,13 @@ Here’s a brief overview of my career, including my current and past research f
 <h2 id="publications">Work Experience</h2>
 
 2023 - Current: **Research Professor**, Ghent University Global Campus, South Korea
+
 2022 - 2023: **Postdoctoral Fellow**, Ghent University Global Campus, South Korea
+
 2017 - 2022: **AI Researcher**, Ghent University Global Campus, South Korea
+
 2015 - 2016: **SAP Business Intelligence Consultant**, The Coca Cola Company, Turkey
+
 2014 - 2015: **SAP Business Intelligence Consultant**, Turkish Airlines, Turkey
 
 ------
