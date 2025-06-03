@@ -88,14 +88,15 @@ Here’s a brief overview of my career, including my current and past research f
 
 <h2 id="repositories">Repositories</h2>
 
-<ul id="repo-list">
-  <li>
-    (<strong>Bio</strong>) 
-    <a href="https://github.com/utkuozbulak/mutate-and-observe" target="_blank">
-      mutate-and-observe
-    </a>
-    <span class="github-stats" data-repo="utkuozbulak/mutate-and-observe"></span>
-  </li>
+<ul id="repo-list" style="font-size:10px">
+  <li>(<strong>Bio</strong>) <a href="https://github.com/utkuozbulak/mutate-and-observe" target="_blank">mutate-and-observe</a> <span class="github-stats" data-repo="utkuozbulak/mutate-and-observe"></span></li>
+  <li>(Other) <a href="https://github.com/utkuozbulak/pytorch-simple-diffusion" target="_blank">pytorch-simple-diffusion</a> <span class="github-stats" data-repo="utkuozbulak/pytorch-simple-diffusion"></span></li>
+  <li>(<strong>XAI</strong>) <a href="https://github.com/utkuozbulak/pytorch-cnn-visualizations" target="_blank">pytorch-cnn-visualizations</a> <span class="github-stats" data-repo="utkuozbulak/pytorch-cnn-visualizations"></span></li>
+  <li>(Other) <a href="https://github.com/utkuozbulak/pytorch-custom-datasets" target="_blank">pytorch-custom-datasets</a> <span class="github-stats" data-repo="utkuozbulak/pytorch-custom-datasets"></span></li>
+  <li>(<strong>SecureAI</strong>) <a href="https://github.com/utkuozbulak/adaptive-segmentation-mask-attack" target="_blank">adaptive-segmentation-mask-attack</a> <span class="github-stats" data-repo="utkuozbulak/adaptive-segmentation-mask-attack"></span></li>
+  <li>(<strong>SecureAI</strong>) <a href="https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks" target="_blank">pytorch-cnn-adversarial-attacks</a> <span class="github-stats" data-repo="utkuozbulak/pytorch-cnn-adversarial-attacks"></span></li>
+  <li>(<strong>SecureAI</strong>) <a href="https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation" target="_blank">imagenet-adversarial-image-evaluation</a> <span class="github-stats" data-repo="utkuozbulak/imagenet-adversarial-image-evaluation"></span></li>
+  <li>(<strong>SecureAI</strong>) <a href="https://github.com/utkuozbulak/regional-adversarial-perturbation" target="_blank">regional-adversarial-perturbation</a> <span class="github-stats" data-repo="utkuozbulak/regional-adversarial-perturbation"></span></li>
 </ul>
 
   * <span style="font-size:12px">(<strong>Bio</strong>) [github.com/utkuozbulak/mutate-and-observe](https://github.com/utkuozbulak/mutate-and-observe)</span>
@@ -120,7 +121,7 @@ Here’s a brief overview of my career, including my current and past research f
       const repo = el.dataset.repo;
       const data = await fetchRepoStats(repo);
       if (data) {
-        el.innerHTML = `⭐ ${data.stargazers_count} | 🍴 ${data.forks_count}`;
+        el.innerHTML = `Stars: ${data.stargazers_count} | Forks: ${data.forks_count}`;
       }
     }
   }
