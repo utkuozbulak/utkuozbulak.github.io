@@ -18,15 +18,15 @@ My interests lie in developing AI-driven solutions that enhance clinical decisio
 <br>
 Here’s a brief overview of my career, including my current and past research focus, as well as my publications:
 
-<a href="#education">Education</a>
+<h3>Jump to section:</h3>
+<ul style="list-style-type: none; padding-left: 0;">
+  <li><a href="#education">Education</a></li>
+  <li><a href="#work">Work Experience</a></li>
+  <li><a href="#research">Research Expertise</a></li>
+  <li><a href="#publications">Publications</a></li>
+  <li><a href="#repositories">Repositories</a></li>
+</ul>
 
-<a href="#work">Work Experience</a>
-
-<a href="#research">Research Expertise</a>
-
-<a href="#publications">Publications</a>
-
-<a href="#repositories">Repositories</a>
 
 ------
 
