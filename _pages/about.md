@@ -88,6 +88,16 @@ Here’s a brief overview of my career, including my current and past research f
 
 <h2 id="repositories">Repositories</h2>
 
+<ul id="repo-list">
+  <li>
+    (<strong>Bio</strong>) 
+    <a href="https://github.com/utkuozbulak/mutate-and-observe" target="_blank">
+      mutate-and-observe
+    </a>
+    <span class="github-stats" data-repo="utkuozbulak/mutate-and-observe"></span>
+  </li>
+</ul>
+
   * <span style="font-size:12px">(<strong>Bio</strong>) [github.com/utkuozbulak/mutate-and-observe](https://github.com/utkuozbulak/mutate-and-observe)</span>
   * <span style="font-size:12px">(Other) [github.com/utkuozbulak/pytorch-simple-diffusion](https://github.com/utkuozbulak/pytorch-simple-diffusion)</span>
   * <span style="font-size:12px">(<strong>XAI</strong>) [github.com/utkuozbulak/pytorch-cnn-visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations)</span>
@@ -97,6 +107,26 @@ Here’s a brief overview of my career, including my current and past research f
   * <span style="font-size:12px">(<strong>SecureAI</strong>) [github.com/utkuozbulak/imagenet-adversarial-image-evaluation](https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation)</span>
   * <span style="font-size:12px">(<strong>SecureAI</strong>) [github.com/utkuozbulak/regional-adversarial-perturbation](https://github.com/utkuozbulak/regional-adversarial-perturbation)</span>
 
+<script>
+  async function fetchRepoStats(repo) {
+    const res = await fetch(`https://api.github.com/repos/${repo}`);
+    if (!res.ok) return null;
+    return await res.json();
+  }
+
+  async function updateGitHubStats() {
+    const elements = document.querySelectorAll('.github-stats');
+    for (const el of elements) {
+      const repo = el.dataset.repo;
+      const data = await fetchRepoStats(repo);
+      if (data) {
+        el.innerHTML = `⭐ ${data.stargazers_count} | 🍴 ${data.forks_count}`;
+      }
+    }
+  }
+
+  updateGitHubStats();
+</script>
 
 
 
