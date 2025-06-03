@@ -16,17 +16,43 @@ My interests lie in developing AI-driven solutions that enhance clinical decisio
 <br>
 Here’s a brief overview of my career, including my current and past research focus, as well as my publications:
 
+<p><a href="#education">Education</a></p>
+<p><a href="#work">Work Experience</a></p>
+<p><a href="#research">Research Expertise</a></p>
 <p><a href="#publications">Publications</a></p>
+<p><a href="#repositories">Repositories</a></p>
 
 ------
 
+<h2 id="publications">Education</h2>
+
+2016 - 2017: **PhD in Computer Science**, Ghent University, Belgium
+2016 - 2017: **MSc in Data Science**, University of Southampton, United Kingdom
+2012 - 2014: **BSc in Computer Engineering**, Yasar University, Turkey
+
+------
+
+<h2 id="publications">Work Experience</h2>
 
 2023 - Current: **Research Professor**, Ghent University Global Campus, South Korea
+2022 - 2023: **Postdoctoral Fellow**, Ghent University Global Campus, South Korea
+2017 - 2022: **AI Researcher**, Ghent University Global Campus, South Korea
+2015 - 2016: **SAP Business Intelligence Consultant**, The Coca Cola Company, Turkey
+2014 - 2015: **SAP Business Intelligence Consultant**, Turkish Airlines, Turkey
 
-  <span style="font-size:14px">*Research focus*</span>
+------
+
+<h2 id="publications">Research Expertise</h2>
+
   * <span style="font-size:12px">(<strong>Med</strong>) Medical and biomedical imaging</span>
   * <span style="font-size:12px">(<strong>XAI</strong>) Trustworthy and explainable AI</span>
+  * <span style="font-size:12px">(<strong>SecureAI</strong>) AI security and safety</span>
+  * <span style="font-size:12px">(<strong>Bio</strong>) Bioinformatics and genomics</span>
   * <span style="font-size:12px">(<strong>SSL</strong>) Image-based self-supervised learning</span>
+
+------
+
+<h2 id="publications">Publications</h2>
 
   <span style="font-size:14px">*Last and corresponding author publications*</span>
   * <span style="font-size:12px">(<strong>Med</strong>) SpurBreast: A Curated Dataset for Investigating Spurious Correlations in Real-world Breast MRI Classification <br />*2025, MICCAI - Main Track - Early Accept*</span>
@@ -46,11 +72,9 @@ Here’s a brief overview of my career, including my current and past research f
   <span style="font-size:14px">*Repositories*</span>
   * <span style="font-size:12px">(Other) [github.com/utkuozbulak/pytorch-simple-diffusion](https://github.com/utkuozbulak/pytorch-simple-diffusion)</span>
   
-2022 - 2023: **Postdoctoral Fellow**, Ghent University Global Campus, South Korea
 
 
   <span style="font-size:14px">*Research focus*</span>
-  * <span style="font-size:12px">(<strong>Bio</strong>) Bioinformatics and genomics</span>
   
   <span style="font-size:14px">*First author publications*</span>
   * <span style="font-size:12px">(<strong>Bio</strong>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data<br />*2024, BMC Bioinformatics*</span>
@@ -64,12 +88,8 @@ Here’s a brief overview of my career, including my current and past research f
  
 ------
 
-<h2 id="publications">Publications</h2>
-2017 - 2022: **PhD in Computer Science**, Ghent University, Belgium
-
   
   <span style="font-size:14px">*Research focus*</span>
-  * <span style="font-size:12px">(<strong>SecureAI</strong>) AI security and safety involving adversarial examples</span>
   
   <span style="font-size:14px">*First author publications*</span>
   * <span style="font-size:12px">(<strong>SecureAI</strong>) Prevalence of Adversarial Examples in Neural Networks: Attacks, Defenses, and Opportunities<br />*2022, Ghent University, PhD thesis*</span>
@@ -99,11 +119,7 @@ Here’s a brief overview of my career, including my current and past research f
 ------
 
 
-2015 - 2016: **SAP Business Intelligence Consultant**, The Coca Cola Company, Turkey
 
-------
-
-2014 - 2015: **SAP Business Intelligence Consultant**, Turkish Airlines, Turkey
 
 ------
 
