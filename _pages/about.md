@@ -16,7 +16,10 @@ My interests lie in developing AI-driven solutions that enhance clinical decisio
 <br>
 Here’s a brief overview of my career, including my current and past research focus, as well as my publications:
 
+<p><a href="#publications">Publications</a></p>
+
 ------
+
 
 2023 - Current: **Research Professor**, Ghent University Global Campus, South Korea
 
@@ -61,6 +64,7 @@ Here’s a brief overview of my career, including my current and past research f
  
 ------
 
+<h2 id="publications">Publications</h2>
 2017 - 2022: **PhD in Computer Science**, Ghent University, Belgium
 
   
