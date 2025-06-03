@@ -15,6 +15,16 @@ My interests lie in developing AI-driven solutions that enhance clinical decisio
 <br>
 Here’s a brief overview of my career, including my current and past research focus, as well as my publications.
 
+<h2 id="education">Summary</h2>
+
+<ul>
+  <li><span style="font-size:12px"><strong>Highest Education:</strong> PhD in Computer Science, Ghent University</span></li>
+  <li><span style="font-size:12px"><strong>Current Position:</strong> Research Professor at Ghent University Global Campus (Korea)</span></li>
+  <li><span style="font-size:12px"><strong>Primary Research Expertise:</strong> AI, Machine Learning, Computer Vision, Medical and Biomedical Imaging</span></li>
+  <li><span style="font-size:12px"><strong>Research Output:</strong> 14 First-author Papers, 5 Last-author Papers in Top-tier Venues</span></li>
+  <li><span style="font-size:12px"><strong>Repositories:</strong> 9,440 GitHub Stars and 1,684 Forks</span></li>
+</ul>
+
 <h2>Jump To:</h2>
 <ul style="list-style-type: none; padding-left: 0;">
   <li><a href="#education">Education</a></li>
@@ -26,7 +36,7 @@ Here’s a brief overview of my career, including my current and past research f
 
 <h2 id="education">Education</h2>
 
-2016 - 2017: **PhD in Computer Science**, Ghent University, Belgium
+2017 - 2022: **PhD in Computer Science**, Ghent University, Belgium
 
 2016 - 2017: **MSc in Data Science**, University of Southampton, United Kingdom
 
