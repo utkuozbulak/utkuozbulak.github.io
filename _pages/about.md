@@ -80,7 +80,7 @@ Here’s a brief overview of my career, including my current and past research f
   <p>(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br><em>2024, MICCAI - MLMI Workshop</em></p>
 </div>
 
-  <span style="font-size:14px"><strong>*First Author Publications*</strong></span>
+  <span style="font-size:14px"><strong>*First Author <u>Journal</u> Publications*</strong></span>
 
   <span style="font-size:14px"><u>Journal Publications</u></span>
 <div style="font-size:12px">
@@ -94,7 +94,8 @@ Here’s a brief overview of my career, including my current and past research f
   <p>(<strong>SecureAI</strong>-<strong>XAI</strong>) Investigating the Significance of Adversarial Attacks and Their Relation to Interpretability for Radar-based Human Activity Recognition Systems <br><em>2021, Computer Vision and Image Understanding, Elsevier, Q1 SCIE</em></p>
   
 </div>
-  <span style="font-size:14px"><u>Conference Proceedings</u></span>
+
+  <span style="font-size:14px"><strong>*First Author <u>Conference Proceedings</u>*</strong></span>
   
 <div style="font-size:12px">
 
