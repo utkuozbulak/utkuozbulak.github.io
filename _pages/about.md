@@ -18,8 +18,8 @@ Here's a brief overview of my career, including education, work history, researc
 <h2 id="education">Summary</h2>
 
 <div style="font-size:12px">
-  <p><strong>Highest Education:</strong> PhD in Computer Science, Ghent University, Belgium</p>
   <p><strong>Current Position:</strong> Research Professor at Ghent University Global Campus, South Korea</p>
+  <p><strong>Highest Education:</strong> PhD in Computer Science, Ghent University, Belgium</p>
   <p><strong>Primary Research Expertise:</strong> AI, Machine Learning, Computer Vision, Medical and Biomedical Imaging</p>
   <p><strong>Research Output:</strong> 13 First-author and 5 Last-author Papers in Top-tier Venues</p>
   <p><strong>Repositories:</strong> 9,440 GitHub Stars and 1,684 Forks</p>
@@ -36,14 +36,6 @@ Here's a brief overview of my career, including education, work history, researc
 </ul>
 -->
 
-<h2 id="education">Education</h2>
-
-<div style="font-size:12px">
-  2017 - 2022: <strong>PhD in Computer Science</strong>, Ghent University, Belgium<br><br>
-  2016 - 2017: <strong>MSc in Data Science</strong>, University of Southampton, United Kingdom<br><br>
-  2012 - 2014: <strong>BSc in Computer Engineering</strong>, Yasar University, Turkey
-</div>
-
 <h2 id="work">Work Experience</h2>
 
 <div style="font-size:12px">
@@ -52,6 +44,14 @@ Here's a brief overview of my career, including education, work history, researc
   2017 - 2022: <strong>AI Researcher</strong>, Ghent University Global Campus, South Korea<br><br>
   2015 - 2016: <strong>SAP Business Intelligence Consultant</strong>, The Coca Cola Company, Turkey<br><br>
   2014 - 2015: <strong>SAP Business Intelligence Consultant</strong>, Turkish Airlines, Turkey
+</div>
+
+<h2 id="education">Education</h2>
+
+<div style="font-size:12px">
+  2017 - 2022: <strong>PhD in Computer Science</strong>, Ghent University, Belgium<br><br>
+  2016 - 2017: <strong>MSc in Data Science</strong>, University of Southampton, United Kingdom<br><br>
+  2012 - 2014: <strong>BSc in Computer Engineering</strong>, Yasar University, Turkey
 </div>
 
 <h2 id="research">Research Expertise</h2>
