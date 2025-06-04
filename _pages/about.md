@@ -86,7 +86,7 @@ Here's a brief overview of my career, including education, work history, researc
     
   <p>(<strong>Bio</strong>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data <br><em>2024, BMC Bioinformatics, Q1 SCIE</em></p>
   
-  <p>(<strong>Bio</strong>-<strong>XAI</strong>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation <br><em>2023, Bioinformatics, Oxford Press</em></p>
+  <p>(<strong>Bio</strong>-<strong>XAI</strong>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation <br><em>2023, Bioinformatics, Oxford Press, Q1 SCIE</em></p>
   
   <p>(<strong>SSL</strong>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training <br><em>2023, Transactions on Machine Learning Research, SCOPUS</em></p>
   
