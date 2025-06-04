@@ -80,7 +80,7 @@ Here's a brief overview of my career, including education, work history, researc
   <p>(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br><em>2024, MICCAI - MLMI Workshop</em></p>
 </div>
 
-  <span style="font-size:14px"><strong>First Author <u>Journal</u> Publications</strong></span>
+  <span style="font-size:14px"><strong>First Author <u>Journal Publications</u></strong></span>
   
 <div style="font-size:12px">
     
