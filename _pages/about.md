@@ -86,6 +86,8 @@ Here's a brief overview of my career, including education, work history, researc
     
   <p>(<strong>Bio</strong>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data <br><em>2024, BMC Bioinformatics, Q1 SCIE</em></p>
   
+  <p>(<strong>Bio</strong>-<strong>XAI</strong>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation <br><em>2023, Bioinformatics, Oxford Press</em></p>
+  
   <p>(<strong>SSL</strong>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training <br><em>2023, Transactions on Machine Learning Research, SCOPUS</em></p>
   
   <p>(<strong>SecureAI</strong>) Perturbation Analysis of Gradient-based Adversarial Attacks <br><em>2020, Pattern Recognition Letters, Elsevier, Q1 SCIE</em></p>
@@ -99,8 +101,6 @@ Here's a brief overview of my career, including education, work history, researc
 <div style="font-size:12px">
 
   <p>(<strong>SSL</strong>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br><em>2024, IEEE IJCNN, oral presentation</em></p>
-
-  <p>(<strong>Bio</strong>-<strong>XAI</strong>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation <br><em>2023, Bioinformatics, Oxford Press</em></p>
   
   <p>(<strong>Bio</strong>-<strong>XAI</strong>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data <br><em>2023, NeurIPS - LMRL Workshop</em></p>
 
