@@ -150,9 +150,9 @@ Here's a brief overview of my career, including education, work history, researc
   
   <p>(Other) <a href="https://github.com/utkuozbulak/pytorch-simple-diffusion" target="_blank">pytorch-simple-diffusion</a> <span class="github-stats" data-repo="utkuozbulak/pytorch-simple-diffusion"></span></p>
 
-  <p>(<strong>Bio</strong>) <a href="https://github.com/utkuozbulak/mutate-and-observe" target="_blank">mutate-and-observe</a> <span class="github-stats" data-repo="utkuozbulak/mutate-and-observe"></span></p>
-
   <p>(<strong>SecureAI</strong>) <a href="https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation" target="_blank">imagenet-adversarial-image-evaluation</a> <span class="github-stats" data-repo="utkuozbulak/imagenet-adversarial-image-evaluation"></span></p>
+
+  <p>(<strong>Bio</strong>) <a href="https://github.com/utkuozbulak/mutate-and-observe" target="_blank">mutate-and-observe</a> <span class="github-stats" data-repo="utkuozbulak/mutate-and-observe"></span></p>
 
   <p>(<strong>SecureAI</strong>) <a href="https://github.com/utkuozbulak/regional-adversarial-perturbation" target="_blank">regional-adversarial-perturbation</a> <span class="github-stats" data-repo="utkuozbulak/regional-adversarial-perturbation"></span></p>
 </div>
