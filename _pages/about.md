@@ -19,7 +19,7 @@ Here's a brief overview of my career, including education, work history, researc
 
 <div style="font-size:12px">
   <p><strong>Highest Education:</strong> PhD in Computer Science, Ghent University, Belgium</p>
-  <p><strong>Current Position:</strong> Research Professor at Ghent University Global Campus (South Korea)</p>
+  <p><strong>Current Position:</strong> Research Professor at Ghent University Global Campus, South Korea</p>
   <p><strong>Primary Research Expertise:</strong> AI, Machine Learning, Computer Vision, Medical and Biomedical Imaging</p>
   <p><strong>Research Output:</strong> 13 First-author and 5 Last-author Papers in Top-tier Venues</p>
   <p><strong>Repositories:</strong> 9,440 GitHub Stars and 1,684 Forks</p>
