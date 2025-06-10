@@ -118,7 +118,7 @@ Here's a brief overview of my career, including education, work history, researc
 </div>
 
 
-  <span style="font-size:14px"><strong>First Author <u>OPreprints</u>< and <u>Other Publications</u></strong></span>
+  <span style="font-size:14px"><strong>First Author <u>Preprints</u> and <u>Other Publications</u></strong></span>
   
 <div style="font-size:12px">
   <p>(<strong>Med</strong>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br><em>2025, Arxiv</em></p>
