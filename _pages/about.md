@@ -69,7 +69,12 @@ Here's a brief overview of my career, including education, work history, researc
 <span style="font-size:14px"><strong>Last / Corresponding Author Publications</strong></span>
   
 <div style="font-size:12px">
+  
   <p>(<strong>Med</strong>) SpurBreast: A Curated Dataset for Investigating Spurious Correlations in Real-world Breast MRI Classification <br><em>2025, MICCAI - Main Track - Early Accept</em></p>
+  
+  <p>(<strong>Med</strong>) When Tracking Fails: Analyzing Failure Modes of SAM2 for Point-Based Tracking in Surgical Videos <br><em>2025, MICCAI - COLAS Workshop</em></p>
+  
+  <p>(<strong>Med</strong>) Towards Affordable Tumor Segmentation and Visualization for 3D Breast MRI Using SAM2 <br><em>2025, MICCAI - Deep Breath Workshop</em></p>
   
   <p>(<strong>Med</strong>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br><em>2024, MICCAI - MOVI Workshop</em></p>
   
@@ -99,14 +104,16 @@ Here's a brief overview of my career, including education, work history, researc
   <span style="font-size:14px"><strong>First Author <u>Conference Proceedings</u></strong></span>
   
 <div style="font-size:12px">
+  
+  <p>(<strong>Med</strong>) Revisiting the Evaluation Bias Introduced by Frame Sampling Strategies in\\Surgical Video Segmentation Using SAM2 <br><em>2025, MICCAI - FAMI Workshop</em></p>
 
   <p>(<strong>SSL</strong>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br><em>2024, IEEE IJCNN, oral presentation</em></p>
   
   <p>(<strong>Bio</strong>-<strong>XAI</strong>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data <br><em>2023, NeurIPS - LMRL Workshop</em></p>
 
   <p>(<strong>SecureAI</strong>-<strong>XAI</strong>) Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes <br><em>2022, NeurIPS - Workshop on ImageNet: Past, Present, and Future</em></p>
-  <p>(<strong>SecureAI</strong>) Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks <br><em>2021, BMVC, oral presentation</em></p>
   
+  <p>(<strong>SecureAI</strong>) Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks <br><em>2021, BMVC, oral presentation</em></p>
   
   <p>(<strong>SecureAI</strong>) Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability <br><em>2020, ICML - UDL Workshop</em></p>
   
