@@ -39,6 +39,7 @@ Here's a brief overview of my career, including education, work history, researc
 <h2 id="work">Work Experience</h2>
 
 <div style="font-size:12px">
+  2025 - Current: <strong>Adjunct Professor</strong>, George Mason Korea, South Korea<br><br>
   2023 - Current: <strong>Research Professor</strong>, Ghent University Global Campus, South Korea<br><br>
   2022 - 2023: <strong>Postdoctoral Fellow</strong>, Ghent University Global Campus, South Korea<br><br>
   2017 - 2022: <strong>AI Researcher</strong>, Ghent University Global Campus, South Korea<br><br>
