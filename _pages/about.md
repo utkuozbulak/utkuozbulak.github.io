@@ -18,7 +18,7 @@ Here's a brief overview of my career, including education, work history, researc
 <h2 id="education">Summary</h2>
 
 <div style="font-size:12px">
-  <p><strong>Current Positions:</strong> Research Professor (primary), Ghent University Global Campus, South Korea; Adjunct Professor (part-time), George Mason University Korea, South Korea</p>
+  <p><strong>Current Positions:</strong> Research Professor (primary), Ghent University Global Campus, South Korea; <br> Adjunct Professor (part-time), George Mason University Korea, South Korea</p>
   <p><strong>Highest Education:</strong> PhD in Computer Science, Ghent University, Belgium</p>
   <p><strong>Primary Research Expertise:</strong> AI, Machine Learning, Computer Vision, Medical and Biomedical Imaging</p>
   <p><strong>Research Output:</strong> 13 First-author and 5 Last-author Papers in Top-tier Venues</p>
