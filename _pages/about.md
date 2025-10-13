@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify"> 
-I am currently working as a Research Professor at Ghent University Global Campus, where my research spans several key areas at the intersection of artificial intelligence and medical applications. My current work focuses on medical and biomedical imaging, trustworthy and explainable AI, and self-supervised learning.
+I'm currently working as a Research Professor at Ghent University Global Campus (GUGC) and an Adjunct Professor at George Mason University Korea (GMUK), currently teaching Data Visualization at GMUK and Bioinformatics at GUGC.
 <br><br>
 My interests lie in developing AI-driven solutions that enhance clinical decision-making, improve interpretability, and ensure reliability in real-world medical and biomedical settings. These days, I'm working on surgical video understanding with video object segmentation models such as SAM2, AI-assisted characterization of sub-visible particles in biopharmaceuticals (classification, clustering, and segmentation), and other topics involving spurious correlations, robust predictions, and interpretable AI. If you're working on cool projects within my areas of interest that I can contribute to, feel free to reach out!
 </div>
