@@ -91,7 +91,7 @@ Here's a brief overview of my career, including education, work history, researc
   
 <div style="font-size:12px">
       
-  <p>(<strong>Bio</strong>) Improved sub-visible particle classification in flow imaging microscopy via generative AI-based image synthesis <br><em>2026, Journal of Pharmaceutical Sciences, Q1 SCIE</em></p>
+  <p>(<strong>Med</strong>) Improved sub-visible particle classification in flow imaging microscopy via generative AI-based image synthesis <br><em>2026, Journal of Pharmaceutical Sciences, Q1 SCIE</em></p>
   
   <p>(<strong>SecureAI</strong>) Exact Feature Collisions in Neural Networks <br><em>2026, Nature Scientific Reports, Q1 SCIE</em></p>
   
