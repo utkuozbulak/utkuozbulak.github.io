@@ -90,7 +90,11 @@ Here's a brief overview of my career, including education, work history, researc
   <span style="font-size:14px"><strong>First Author <u>Journal Publications</u></strong></span>
   
 <div style="font-size:12px">
-    
+      
+  <p>(<strong>Bio</strong>) Improved sub-visible particle classification in flow imaging microscopy via generative AI-based image synthesis <br><em>2026, Journal of Pharmaceutical Sciences, Q1 SCIE</em></p>
+  
+  <p>(<strong>SecureAI</strong>) Exact Feature Collisions in Neural Networks <br><em>2026, Nature Scientific Reports, Q1 SCIE</em></p>
+  
   <p>(<strong>Bio</strong>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data <br><em>2024, BMC Bioinformatics, Q1 SCIE</em></p>
   
   <p>(<strong>Bio</strong>-<strong>XAI</strong>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation <br><em>2023, Bioinformatics, Oxford Press, Q1 SCIE</em></p>
@@ -136,9 +140,6 @@ Here's a brief overview of my career, including education, work history, researc
   
   
   <p>(<strong>Bio</strong>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants <br><em>2023, Arxiv</em></p>
-  
-  
-  <p>(<strong>SecureAI</strong>-<strong>XAI</strong>) Exact Feature Collisions in Neural Networks <br><em>2022, Arxiv</em></p>
   
   <p>(<strong>SecureAI</strong>) Prevalence of Adversarial Examples in Neural Networks: Attacks, Defenses, and Opportunities <br><em>2022, Ghent University, PhD thesis</em></p>
 
