@@ -91,19 +91,21 @@ Here's a brief overview of my career, including education, work history, researc
   
 <div style="font-size:12px">
       
-  <p>(<strong>Med</strong>) Improved sub-visible particle classification in flow imaging microscopy via generative AI-based image synthesis <br><em>2026, Journal of Pharmaceutical Sciences, Q1 SCIE</em></p>
+  <p>(<strong>Med</strong>) Improved sub-visible particle classification in flow imaging microscopy via generative AI-based image synthesis <br><em>2026, Journal of Pharmaceutical Sciences, Elsevier, Q1 SCIE</em></p>
   
-  <p>(<strong>SecureAI</strong>) Exact Feature Collisions in Neural Networks <br><em>2026, Nature Scientific Reports, Q1 SCIE</em></p>
+  <p>(<strong>SecureAI</strong>) Exact Feature Collisions in Neural Networks <br><em>2026, Scientific Reports, Nature Publishing, Q1 SCIE</em></p>
   
   <p>(<strong>Bio</strong>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data <br><em>2024, BMC Bioinformatics, Q1 SCIE</em></p>
   
   <p>(<strong>Bio</strong>-<strong>XAI</strong>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation <br><em>2023, Bioinformatics, Oxford Press, Q1 SCIE</em></p>
   
   <p>(<strong>SSL</strong>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training <br><em>2023, Transactions on Machine Learning Research, SCOPUS</em></p>
-  
-  <p>(<strong>SecureAI</strong>) Perturbation Analysis of Gradient-based Adversarial Attacks <br><em>2020, Pattern Recognition Letters, Elsevier, Q1 SCIE</em></p>
 
   <p>(<strong>SecureAI</strong>-<strong>XAI</strong>) Investigating the Significance of Adversarial Attacks and Their Relation to Interpretability for Radar-based Human Activity Recognition Systems <br><em>2021, Computer Vision and Image Understanding, Elsevier, Q1 SCIE</em></p>
+    
+  <p>(<strong>SecureAI</strong>) Perturbation Analysis of Gradient-based Adversarial Attacks <br><em>2020, Pattern Recognition Letters, Elsevier, Q1 SCIE</em></p>
+
+
   
 </div>
 
