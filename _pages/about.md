@@ -112,46 +112,88 @@ Here's a brief overview of my career, including education, work history, researc
 </details>
 
 
-<h2 id="repositories">Repositories</h2>
-
-<div style="font-size:12px">
-  <p>(<strong>XAI</strong>) <a href="https://github.com/utkuozbulak/pytorch-cnn-visualizations" target="_blank">pytorch-cnn-visualizations</a> <span class="github-stats" data-repo="utkuozbulak/pytorch-cnn-visualizations"></span></p>
-
-  <p>(Other) <a href="https://github.com/utkuozbulak/pytorch-custom-dataset-examples" target="_blank">pytorch-custom-dataset-examples</a> <span class="github-stats" data-repo="utkuozbulak/pytorch-custom-dataset-examples"></span></p>
-
-  <p>(<strong>SecureAI</strong>) <a href="https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks" target="_blank">pytorch-cnn-adversarial-attacks</a> <span class="github-stats" data-repo="utkuozbulak/pytorch-cnn-adversarial-attacks"></span></p>
-
-  <p>(<strong>SecureAI</strong>) <a href="https://github.com/utkuozbulak/adaptive-segmentation-mask-attack" target="_blank">adaptive-segmentation-mask-attack</a> <span class="github-stats" data-repo="utkuozbulak/adaptive-segmentation-mask-attack"></span></p>
-  
-  <p>(Other) <a href="https://github.com/utkuozbulak/pytorch-simple-diffusion" target="_blank">pytorch-simple-diffusion</a> <span class="github-stats" data-repo="utkuozbulak/pytorch-simple-diffusion"></span></p>
-
-  <p>(<strong>SecureAI</strong>) <a href="https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation" target="_blank">imagenet-adversarial-image-evaluation</a> <span class="github-stats" data-repo="utkuozbulak/imagenet-adversarial-image-evaluation"></span></p>
-
-  <p>(<strong>Bio</strong>) <a href="https://github.com/utkuozbulak/mutate-and-observe" target="_blank">mutate-and-observe</a> <span class="github-stats" data-repo="utkuozbulak/mutate-and-observe"></span></p>
-
-  <p>(<strong>SecureAI</strong>) <a href="https://github.com/utkuozbulak/regional-adversarial-perturbation" target="_blank">regional-adversarial-perturbation</a> <span class="github-stats" data-repo="utkuozbulak/regional-adversarial-perturbation"></span></p>
-</div>
+<details style='margin-bottom:12px;'>
+  <summary style='font-size:18px; font-weight:bold; cursor:pointer;'>Repositories</summary>
+  <div style='font-size:12px; padding-top:10px; padding-left:8px;'>
+    <p>(<strong>XAI</strong>) 
+      <a href='https://github.com/utkuozbulak/pytorch-cnn-visualizations' target='_blank'>
+        pytorch-cnn-visualizations
+      </a> 
+      <span class='github-stats' data-repo='utkuozbulak/pytorch-cnn-visualizations'>Loading...</span>
+    </p>
+    <p>(Other) 
+      <a href='https://github.com/utkuozbulak/pytorch-custom-dataset-examples' target='_blank'>
+        pytorch-custom-dataset-examples
+      </a> 
+      <span class='github-stats' data-repo='utkuozbulak/pytorch-custom-dataset-examples'>Loading...</span>
+    </p>
+    <p>(<strong>SecureAI</strong>) 
+      <a href='https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks' target='_blank'>
+        pytorch-cnn-adversarial-attacks
+      </a> 
+      <span class='github-stats' data-repo='utkuozbulak/pytorch-cnn-adversarial-attacks'>Loading...</span>
+    </p>
+    <p>(<strong>SecureAI</strong>) 
+      <a href='https://github.com/utkuozbulak/adaptive-segmentation-mask-attack' target='_blank'>
+        adaptive-segmentation-mask-attack
+      </a> 
+      <span class='github-stats' data-repo='utkuozbulak/adaptive-segmentation-mask-attack'>Loading...</span>
+    </p>
+    <p>(Other) 
+      <a href='https://github.com/utkuozbulak/pytorch-simple-diffusion' target='_blank'>
+        pytorch-simple-diffusion
+      </a> 
+      <span class='github-stats' data-repo='utkuozbulak/pytorch-simple-diffusion'>Loading...</span>
+    </p>
+    <p>(<strong>SecureAI</strong>) 
+      <a href='https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation' target='_blank'>
+        imagenet-adversarial-image-evaluation
+      </a> 
+      <span class='github-stats' data-repo='utkuozbulak/imagenet-adversarial-image-evaluation'>Loading...</span>
+    </p>
+    <p>(<strong>Bio</strong>) 
+      <a href='https://github.com/utkuozbulak/mutate-and-observe' target='_blank'>
+        mutate-and-observe
+      </a> 
+      <span class='github-stats' data-repo='utkuozbulak/mutate-and-observe'>Loading...</span>
+    </p>
+    <p>(<strong>SecureAI</strong>) 
+      <a href='https://github.com/utkuozbulak/regional-adversarial-perturbation' target='_blank'>
+        regional-adversarial-perturbation
+      </a> 
+      <span class='github-stats' data-repo='utkuozbulak/regional-adversarial-perturbation'>Loading...</span>
+    </p>
+  </div>
+</details>
 
 <script>
   async function fetchRepoStats(repo) {
-    const res = await fetch(`https://api.github.com/repos/${repo}`);
-    if (!res.ok) return null;
-    return await res.json();
+    try {
+      const res = await fetch(`https://api.github.com/repos/${repo}`);
+      if (!res.ok) return null;
+      return await res.json();
+    } catch (e) {
+      return null;
+    }
   }
 
   async function updateGitHubStats() {
     const elements = document.querySelectorAll('.github-stats');
+
     for (const el of elements) {
       const repo = el.dataset.repo;
       const data = await fetchRepoStats(repo);
+
       if (data) {
         el.innerHTML = `Stars: ${data.stargazers_count} | Forks: ${data.forks_count}`;
+      } else {
+        el.innerHTML = '(stats unavailable)';
       }
     }
   }
 
-updateGitHubStats();
+  // ensure DOM is ready (important for GitHub Pages)
+  document.addEventListener('DOMContentLoaded', updateGitHubStats);
 </script>
-
 
 
