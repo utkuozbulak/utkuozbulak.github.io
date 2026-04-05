@@ -179,11 +179,9 @@ Here's a brief overview of my career, including education, work history, researc
 
   async function updateGitHubStats() {
     const elements = document.querySelectorAll('.github-stats');
-
     for (const el of elements) {
       const repo = el.dataset.repo;
       const data = await fetchRepoStats(repo);
-
       if (data) {
         el.innerHTML = `Stars: ${data.stargazers_count} | Forks: ${data.forks_count}`;
       } else {
@@ -192,8 +190,7 @@ Here's a brief overview of my career, including education, work history, researc
     }
   }
 
-  // ensure DOM is ready (important for GitHub Pages)
-  document.addEventListener('DOMContentLoaded', updateGitHubStats);
+  updateGitHubStats();
 </script>
 
 
