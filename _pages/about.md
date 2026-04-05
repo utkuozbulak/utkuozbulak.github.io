@@ -22,8 +22,6 @@ Here's a brief overview of my career, including education, work history, researc
     <p><strong>Part-time Position:</strong> Adjunct Professor at George Mason University Korea, South Korea</p>
   <p><strong>Highest Education:</strong> PhD in Computer Science, Ghent University, Belgium</p>
   <p><strong>Primary Research Expertise:</strong> AI, Machine Learning, Computer Vision, Medical and Biomedical Imaging</p>
-  <p><strong>Research Output:</strong> 13 First-author and 5 Last-author Papers in Top-tier Venues</p>
-  <p><strong>Repositories:</strong> 9,440 GitHub Stars and 1,684 Forks</p>
 </div>
 
 <details style='margin-bottom:12px;'>
