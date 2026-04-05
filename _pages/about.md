@@ -39,22 +39,28 @@ Here's a brief overview of my career, including education, work history, researc
 
 <h2 id="work">Work Experience</h2>
 
-<div style="font-size:12px">
-  2025 - Current: <strong>Adjunct Professor</strong>, George Mason Korea, South Korea<br><br>
-  2023 - Current: <strong>Research Professor</strong>, Ghent University Global Campus, South Korea<br><br>
-  2022 - 2023: <strong>Postdoctoral Fellow</strong>, Ghent University Global Campus, South Korea<br><br>
-  2017 - 2022: <strong>AI Researcher</strong>, Ghent University Global Campus, South Korea<br><br>
-  2015 - 2016: <strong>SAP Business Intelligence Consultant</strong>, The Coca Cola Company, Turkey<br><br>
-  2014 - 2015: <strong>SAP Business Intelligence Consultant</strong>, Turkish Airlines, Turkey
-</div>
+<details>
+  <summary><strong>Work Experience</strong></summary>
+  <div style="font-size:12px; margin-top:10px">
+    2025 - Current: <strong>Adjunct Professor</strong>, George Mason Korea, South Korea<br><br>
+    2023 - Current: <strong>Research Professor</strong>, Ghent University Global Campus, South Korea<br><br>
+    2022 - 2023: <strong>Postdoctoral Fellow</strong>, Ghent University Global Campus, South Korea<br><br>
+    2017 - 2022: <strong>AI Researcher</strong>, Ghent University Global Campus, South Korea<br><br>
+    2015 - 2016: <strong>SAP Business Intelligence Consultant</strong>, The Coca Cola Company, Turkey<br><br>
+    2014 - 2015: <strong>SAP Business Intelligence Consultant</strong>, Turkish Airlines, Turkey
+  </div>
+</details>
 
 <h2 id="education">Education</h2>
 
-<div style="font-size:12px">
-  2017 - 2022: <strong>PhD in Computer Science</strong>, Ghent University, Belgium<br><br>
-  2016 - 2017: <strong>MSc in Data Science</strong>, University of Southampton, United Kingdom<br><br>
-  2012 - 2014: <strong>BSc in Computer Engineering</strong>, Yasar University, Turkey
-</div>
+<details style="margin-bottom:12px;">
+  <summary style="font-size:18px; font-weight:bold; cursor:pointer;">Education</summary>
+  <div style="font-size:12px; padding-top:10px; padding-left:8px;">
+    2017 - 2022: <strong>PhD in Computer Science</strong>, Ghent University, Belgium<br><br>
+    2016 - 2017: <strong>MSc in Data Science</strong>, University of Southampton, United Kingdom<br><br>
+    2012 - 2014: <strong>BSc in Computer Engineering</strong>, Yasar University, Turkey
+  </div>
+</details>
 
 <h2 id="research">Research Expertise</h2>
 
