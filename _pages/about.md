@@ -161,7 +161,7 @@ Here's a brief overview of my career, including education, work history, researc
       </a> 
       <span class='github-stats' data-repo='utkuozbulak/regional-adversarial-perturbation'>Loading...</span>
     </p>
-    <p>(<strong>Bio</strong>) 
+    <p>(<strong>Med</strong>) 
   <a href='https://github.com/utkuozbulak/svp-generative-ai' target='_blank'>
     svp-generative-ai
   </a> 
