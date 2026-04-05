@@ -161,6 +161,19 @@ Here's a brief overview of my career, including education, work history, researc
       </a> 
       <span class='github-stats' data-repo='utkuozbulak/regional-adversarial-perturbation'>Loading...</span>
     </p>
+    <p>(<strong>Bio</strong>) 
+  <a href='https://github.com/utkuozbulak/svp-generative-ai' target='_blank'>
+    svp-generative-ai
+  </a> 
+  <span class='github-stats' data-repo='utkuozbulak/svp-generative-ai'>Loading...</span>
+</p>
+
+<p>(<strong>Med</strong>) 
+  <a href='https://github.com/utkuozbulak/SpurBreast' target='_blank'>
+    SpurBreast
+  </a> 
+  <span class='github-stats' data-repo='utkuozbulak/SpurBreast'>Loading...</span>
+</p>
   </div>
 </details>
 
