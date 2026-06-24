@@ -18,10 +18,19 @@ Here's a brief overview of my career, including education, work history, researc
 <h2 id="education">Summary</h2>
 
 <div style="font-size:12px">
-  <p><strong>Primary Position:</strong> Research Professor at Ghent University Global Campus, South Korea</p>
-    <p><strong>Part-time Position:</strong> Adjunct Professor at George Mason University Korea, South Korea</p>
-  <p><strong>Highest Education:</strong> PhD in Computer Science, Ghent University, Belgium</p>
-  <p><strong>Primary Research Expertise:</strong> AI, Machine Learning, Computer Vision, Medical and Biomedical Imaging</p>
+<p><strong>Current Positions:</strong></p>
+  <ul>
+  <li>Research Professor at Ghent University Global Campus, South Korea</li>
+  <li>Adjunct Professor at George Mason University Korea, South Korea</li>
+  <li>BSc in Computer Engineering, Yasar University, Turkey</li>
+</ul>
+<p><strong>Education:</strong></p>
+<ul>
+  <li>PhD in Computer Science, Ghent University, Belgium</li>
+  <li>MSc in Data Science, University of Southampton, UK</li>
+  <li>BSc in Computer Engineering, Yasar University, Turkey</li>
+</ul>
+<p><strong>Primary Research Expertise:</strong> AI, Machine Learning, Computer Vision, Medical and Biomedical Imaging</p>
 </div>
 
 <details style='margin-bottom:12px;'>
@@ -98,7 +107,7 @@ Here's a brief overview of my career, including education, work history, researc
 <p>(<strong>Med</strong>) Balancing Redundancy and Diversity: An In-Depth Analysis of Active Learning for Laparoscopic Video Segmentation <br><em>2025, MICCAI - DEMI Workshop</em></p>
 <p>(<strong>Bio</strong>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants <br><em>2023, Arxiv</em></p>
 <p>(<strong>Med</strong>) Tryp: A Dataset of Microscopy Images of Unstained Thick Blood Smears for Trypanosome Detection <br><em>2023, Scientific Data, Nature Publishing, Q1 SCIE</em></p>
-<p>(<strong>SecureAI</strong>) Prevalence of Adversarial Examples in Neural Networks: Attacks, Defenses, and Opportunities <br><em>2022, Ghent University, PhD thesis</em></p>
+  <p>(<strong>Bio</strong>-<strong>Med</strong>) Automatic Detection of Trypanosomosis in Thick Blood Smears Using Image Pre-processing and Deep Learning <br><em>2023, International Conference on Intelligent Human Computer Interaction (IHCI)</em></p>
 </div>
 </details>
 </div>
