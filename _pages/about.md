@@ -62,7 +62,7 @@ Here's a brief overview of my career, including education, work history, researc
 <div style='padding-top:10px; padding-left:8px;'>
 <p>(<strong>SSL</strong>-<strong>XAI</strong>) Token-Based Detection of Spurious Correlations in Vision Transformers <br><em>2026, Transactions on Machine Learning Research</em></p>
 <p>(<strong>Med</strong>) Token-based Fidelity Scoring for Trustworthy Vision Transformer Interpretations in Medical Imaging <br><em>2026, International Journal of Computer Assisted Radiology and Surgery, Springer</em></p>
-<p>(<strong>Med</strong>) Improved sub-visible particle classification in flow imaging microscopy via generative AI-based image synthesis <br><em>2026, Journal of Pharmaceutical Sciences, Elsevier</em></p>
+<p>(<strong>Med</strong>) Improved Sub-visible Particle Classification in Flow Imaging Microscopy via Generative AI-based Image Synthesis <br><em>2026, Journal of Pharmaceutical Sciences, Elsevier</em></p>
 <p>(<strong>SecureAI</strong>) Exact Feature Collisions in Neural Networks <br><em>2026, Scientific Reports, Nature Publishing</em></p>
 <p>(<strong>Med</strong>) Revisiting the Evaluation Bias Introduced by Frame Sampling Strategies in Surgical Video Segmentation Using SAM2 <br><em>2025, MICCAI - FAMI Workshop</em></p>
 <p>(<strong>Med</strong>) SpurBreast: A Curated Dataset for Investigating Spurious Correlations in Real-world Breast MRI Classification <br><em>2025, MICCAI - Main Track - Early Accept</em></p>
