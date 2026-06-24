@@ -45,15 +45,6 @@ Here's a brief overview of my career, including education, work history, researc
   </div>
 </details>
 
-<details style="margin-bottom:12px;">
-  <summary style="font-size:18px; font-weight:bold; cursor:pointer;">Education</summary>
-  <div style="font-size:12px; padding-top:10px; padding-left:8px;">
-    2017 - 2022: <strong>PhD in Computer Science</strong>, Ghent University, Belgium<br><br>
-    2016 - 2017: <strong>MSc in Data Science</strong>, University of Southampton, United Kingdom<br><br>
-    2012 - 2014: <strong>BSc in Computer Engineering</strong>, Yasar University, Turkey
-  </div>
-</details>
-
 <details style='margin-bottom:12px;'>
   <summary style='font-size:18px; font-weight:bold; cursor:pointer;'>Research Expertise</summary>
   <div style='font-size:12px; padding-top:10px; padding-left:8px;'>
