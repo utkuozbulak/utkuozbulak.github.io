@@ -22,15 +22,13 @@ Here's a brief overview of my career, including education, work history, researc
   <ul>
   <li>Research Professor at Ghent University Global Campus, South Korea</li>
   <li>Adjunct Professor at George Mason University Korea, South Korea</li>
-  <li>BSc in Computer Engineering, Yasar University, Turkey</li>
 </ul>
 <p><strong>Education:</strong></p>
 <ul>
-  <li>PhD in Computer Science, Ghent University, Belgium</li>
-  <li>MSc in Data Science, University of Southampton, UK</li>
+  <li>PhD in Computer Science Engineering, Ghent University, Belgium</li>
+  <li>MSc in Data Science, University of Southampton, United Kingdom</li>
   <li>BSc in Computer Engineering, Yasar University, Turkey</li>
 </ul>
-<p><strong>Primary Research Expertise:</strong> AI, Machine Learning, Computer Vision, Medical and Biomedical Imaging</p>
 </div>
 
 <details style='margin-bottom:12px;'>
