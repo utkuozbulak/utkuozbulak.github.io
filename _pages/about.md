@@ -57,7 +57,7 @@ Here's a brief overview of my career, including education, work history, researc
 <details style='margin-bottom:12px;'>
 <summary style='font-size:18px; font-weight:bold; cursor:pointer;'>Publications</summary>
 <div style='font-size:12px; padding-top:10px; padding-left:8px;'>
-<details style='margin-bottom:10px;' open>
+<details style='margin-bottom:10px;'>
 <summary style='font-size:14px; font-weight:bold; cursor:pointer;'>First or Corresponding Author Publications</summary>
 <div style='padding-top:10px; padding-left:8px;'>
 <p>(<strong>SSL</strong>-<strong>XAI</strong>) Token-Based Detection of Spurious Correlations in Vision Transformers <br><em>2026, Transactions on Machine Learning Research</em></p>
