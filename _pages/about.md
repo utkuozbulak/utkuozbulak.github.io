@@ -90,14 +90,14 @@ Here's a brief overview of my career, including education, work history, researc
 <details>
 <summary style='font-size:14px; font-weight:bold; cursor:pointer;'>Other Publications</summary>
 <div style='padding-top:10px; padding-left:8px;'>
-<p>(<strong>Med</strong>) Smiles-based bioactivity prediction through molecular encoder selection and data augmentation <br><em>2026, Journal of Cheminformatics</em></p>
-<p>(<strong>Med</strong>) Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression <br><em>2026, ECCV</em></p>
+<p>(<strong>Bio</strong>) Smiles-based bioactivity prediction through molecular encoder selection and data augmentation <br><em>2026, Journal of Cheminformatics</em></p>
+<p>(<strong>SecureAI</strong>) Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression <br><em>2026, ECCV</em></p>
 <p>(<strong>Med</strong>) Predicting Agitation Stability of Monoclonal Antibodies during Developability Assessment <br><em>2026, Molecular Pharmaceutics</em></p>
 <p>(<strong>Med</strong>) Balancing Redundancy and Diversity: An In-Depth Analysis of Active Learning for Laparoscopic Video Segmentation <br><em>2025, MICCAI - DEMI Workshop</em></p>
 <p>(<strong>Med</strong>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br><em>2025, Arxiv</em></p>
 <p>(<strong>Bio</strong>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants <br><em>2023, Arxiv</em></p>
-<p>(<strong>Med</strong>) Tryp: A Dataset of Microscopy Images of Unstained Thick Blood Smears for Trypanosome Detection <br><em>2023, Scientific Data, Nature Publishing, Q1 SCIE</em></p>
-  <p>(<strong>Bio</strong>-<strong>Med</strong>) Automatic Detection of Trypanosomosis in Thick Blood Smears Using Image Pre-processing and Deep Learning <br><em>2023, International Conference on Intelligent Human Computer Interaction (IHCI)</em></p>
+<p>(<strong>Med</strong>) Tryp: A Dataset of Microscopy Images of Unstained Thick Blood Smears for Trypanosome Detection <br><em>2023, Scientific Data, Nature Publishing</em></p>
+<p>(<strong>Bio</strong>-<strong>Med</strong>) Automatic Detection of Trypanosomosis in Thick Blood Smears Using Image Pre-processing and Deep Learning <br><em>2023, International Conference on Intelligent Human Computer Interaction (IHCI)</em></p>
 </div>
 </details>
 </div>
