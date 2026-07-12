@@ -90,6 +90,8 @@ Here's a brief overview of my career, including education, work history, researc
 <details>
 <summary style='font-size:14px; font-weight:bold; cursor:pointer;'>Other Publications</summary>
 <div style='padding-top:10px; padding-left:8px;'>
+<p>(<strong>Med</strong>) Smiles-based bioactivity prediction through molecular encoder selection and data augmentation <br><em>2026, Journal of Cheminformatics</em></p>
+<p>(<strong>Med</strong>) Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression <br><em>2026, ECCV</em></p>
 <p>(<strong>Med</strong>) Predicting Agitation Stability of Monoclonal Antibodies during Developability Assessment <br><em>2026, Molecular Pharmaceutics</em></p>
 <p>(<strong>Med</strong>) Balancing Redundancy and Diversity: An In-Depth Analysis of Active Learning for Laparoscopic Video Segmentation <br><em>2025, MICCAI - DEMI Workshop</em></p>
 <p>(<strong>Med</strong>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br><em>2025, Arxiv</em></p>
