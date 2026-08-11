@@ -10,7 +10,7 @@ redirect_from:
 <div style="text-align: justify"> 
 I'm currently working as a Research Professor at Ghent University Global Campus (GUGC) and an Adjunct Professor at George Mason University Korea (GMUK), currently teaching Data Visualization at GMUK and Bioinformatics at GUGC.
 <br><br>
-These days, I'm working on automated machine learning research for vision problems, AI-assisted characterization of sub-visible particles in biopharmaceuticals (classification, clustering, and segmentation), some topics involving spurious correlations, robust predictions, and interpretable AI. If you're working on cool projects within my areas of interest that I can contribute to, feel free to reach out!
+These days, I'm working on automated machine learning research for vision problems, AI-assisted characterization of sub-visible particles in biopharmaceuticals and general vision problems involving medical and biomedical imaging, some topics involving spurious correlations, robust predictions, and interpretable AI. If you're working on cool projects within my areas of interest that I can contribute to, feel free to reach out!
 </div>
 <br>
 Here's a brief overview of my career, including education, work history, research focus (past and present), publications, and repositories.
