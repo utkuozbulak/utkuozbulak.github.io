@@ -15,6 +15,11 @@ These days, I'm working on automated machine learning research for vision proble
 <br>
 Here's a brief overview of my career, including education, work history, research focus (past and present), publications, and repositories.
 
+<h2 id="education">News</h2>
+<p><b>09/26</b> Joined George Mason University Korea as an Assistant Professor in the Computational Data Sciences Department.</p>
+<p><b>08/26</b> Our paper introducing a curated dataset of subvisible protein particles from monoclonal antibodies was published in <i>Scientific Data</i>.</p>
+<p><b>07/26</b> Our paper on tokenizer scale in SMILES-based molecular foundation models was accepted at the International Conference on AI in Healthcare (AIiH 2026).</p>
+
 <h2 id="education">Summary</h2>
 
 <div style="font-size:12px">
