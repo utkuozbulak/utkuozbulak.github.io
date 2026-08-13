@@ -17,8 +17,8 @@ Here's a brief overview of my career, including education, work history, researc
 
 <h2 id="education">News</h2>
 <p><b>09/26</b> Joined George Mason University Korea as an Assistant Professor in the Computational Data Sciences Department.</p>
-<p><b>08/26</b> Our paper introducing a curated dataset of subvisible protein particles from monoclonal antibodies was published in <i>Scientific Data</i>.</p>
-<p><b>07/26</b> Our paper on tokenizer scale in SMILES-based molecular foundation models was accepted at the International Conference on AI in Healthcare (AIiH 2026).</p>
+<p><b>08/26</b> Our paper introducing a curated dataset of subvisible protein particles from monoclonal antibodies was published in <i>Scientific Data</i>. <a href="https://www.nature.com/articles/s41597-026-08001-9">[Link]</a></p>
+<p><b>07/26</b> Our paper on tokenizer scale in SMILES-based molecular foundation models was accepted at the International Conference on AI in Healthcare (AIiH 2026). <a href="https://link.springer.com/chapter/10.1007/978-3-032-35390-0_18">[Link]</a></p>
 
 <h2 id="education">Summary</h2>
 
