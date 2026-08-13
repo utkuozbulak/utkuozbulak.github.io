@@ -60,7 +60,7 @@ Here's a brief overview of my career, including education, work history, researc
 <details style='margin-bottom:10px;'>
 <summary style='font-size:14px; font-weight:bold; cursor:pointer;'>First or Corresponding Author Publications</summary>
 <div style='padding-top:10px; padding-left:8px;'>
-<p>(<strong>Med</strong>) A Curated Flow Imaging Microscopy Dataset of Subvisible Protein Aggregates from Stressed Monoclonal Antibodies <br><em>2026, Scientific Data, Springer Nature</em></p>
+<p>(<strong>Med</strong>) A Curated Flow Imaging Microscopy Dataset of Subvisible Protein Aggregates from Stressed Monoclonal Antibodies <br><em>2026, Scientific Data, Nature Publishing</em></p>
 <p>(<strong>SSL</strong>-<strong>XAI</strong>) Token-Based Detection of Spurious Correlations in Vision Transformers <br><em>2026, Transactions on Machine Learning Research</em></p>
 <p>(<strong>Med</strong>) Token-based Fidelity Scoring for Trustworthy Vision Transformer Interpretations in Medical Imaging <br><em>2026, International Journal of Computer Assisted Radiology and Surgery, Springer Nature</em></p>
 <p>(<strong>Med</strong>) Improved Sub-visible Particle Classification in Flow Imaging Microscopy via Generative AI-based Image Synthesis <br><em>2026, Journal of Pharmaceutical Sciences, Elsevier</em></p>
