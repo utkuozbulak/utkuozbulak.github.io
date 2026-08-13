@@ -40,7 +40,7 @@ Here's a brief overview of my career, including education, work history, researc
 </div>
 
 <details>
-  <summary style='font-weight:bold; cursor:pointer;'>Work Experience</summary>
+  <summary style='font-weight:bold; cursor:pointer; margin-bottom:13px;'>Work Experience</summary>
   <div style='padding-top:10px; padding-left:8px;'>
     2025 - Current: <strong>Adjunct Professor</strong>, George Mason Korea, South Korea<br><br>
     2023 - Current: <strong>Research Professor</strong>, Ghent University Global Campus, South Korea<br><br>
