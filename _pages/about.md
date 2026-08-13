@@ -19,9 +19,9 @@ Here's a brief overview of my career, including education, work history, researc
 <!--
 <p><b>09/26</b> Going to join George Mason University Korea as an Assistant Professor in the Computational Data Sciences Department.</p>
 -->
-<p><b>08/26</b> Our paper introducing a curated dataset of subvisible protein particles from monoclonal antibodies was published in <i>Scientific Data</i>. <a href="https://www.nature.com/articles/s41597-026-08001-9">[Link]</a></p>
-<p><b>07/26</b> Our paper on tokenizer scale in SMILES-based molecular foundation models was accepted at the International Conference on AI in Healthcare (AIiH 2026). <a href="https://link.springer.com/chapter/10.1007/978-3-032-35390-0_18">[Link]</a></p>
-<p><b>06/26</b> Our paper on SMILES-based bioactivity prediction through molecular encoder selection and data augmentation was published in <i>Journal of Cheminformatics</i>. <a href="https://link.springer.com/article/10.1186/s13321-026-01251-0">[Link]</a></p>
+<p><b>08/26</b> - Our paper introducing a curated dataset of subvisible protein particles from monoclonal antibodies was published in <i>Scientific Data</i>. <a href="https://www.nature.com/articles/s41597-026-08001-9">[Link]</a></p>
+<p><b>07/26</b> - Our paper on tokenizer scale in SMILES-based molecular foundation models was accepted at the International Conference on AI in Healthcare (AIiH 2026). <a href="https://link.springer.com/chapter/10.1007/978-3-032-35390-0_18">[Link]</a></p>
+<p><b>06/26</b> - Our paper on SMILES-based bioactivity prediction through molecular encoder selection and data augmentation was published in <i>Journal of Cheminformatics</i>. <a href="https://link.springer.com/article/10.1186/s13321-026-01251-0">[Link]</a></p>
 
 <h2 id="education">Summary</h2>
 
@@ -52,8 +52,8 @@ Here's a brief overview of my career, including education, work history, researc
 </details>
 
 <details style='margin-bottom:13px;'>
-  <summary style='font-size:18px; font-weight:bold; cursor:pointer;'>Research Expertise</summary>
-  <div style='font-size:12px; padding-top:10px; padding-left:8px;'>
+  <summary style='font-weight:bold; cursor:pointer;'>Research Expertise</summary>
+  <div style='padding-top:10px; padding-left:8px;'>
     <p>(<strong>Med</strong>) Medical and biomedical imaging</p>
     <p>(<strong>XAI</strong>) Trustworthy and explainable AI</p>
     <p>(<strong>SecureAI</strong>) AI security and safety</p>
@@ -63,10 +63,10 @@ Here's a brief overview of my career, including education, work history, researc
 </details>
 
 <details style='margin-bottom:13px;'>
-<summary style='font-size:18px; font-weight:bold; cursor:pointer;'>Publications</summary>
-<div style='font-size:12px; padding-top:10px; padding-left:8px;'>
+<summary style='font-weight:bold; cursor:pointer;'>Publications</summary>
+<div style='padding-top:10px; padding-left:8px;'>
 <details style='margin-bottom:10px;'>
-<summary style='font-size:14px; font-weight:bold; cursor:pointer;'>First or Corresponding Author Publications</summary>
+<summary style='font-weight:bold; cursor:pointer;'>First or Corresponding Author Publications</summary>
 <div style='padding-top:10px; padding-left:8px;'>
 <p>(<strong>Med</strong>) A Curated Flow Imaging Microscopy Dataset of Subvisible Protein Aggregates from Stressed Monoclonal Antibodies <br><em>2026, Scientific Data, Nature Publishing</em></p>
 <p>(<strong>SSL</strong>-<strong>XAI</strong>) Token-Based Detection of Spurious Correlations in Vision Transformers <br><em>2026, Transactions on Machine Learning Research</em></p>
@@ -97,7 +97,7 @@ Here's a brief overview of my career, including education, work history, researc
 </div>
 </details>
 <details>
-<summary style='font-size:14px; font-weight:bold; cursor:pointer;'>Other Publications</summary>
+<summary style='font-weight:bold; cursor:pointer;'>Other Publications</summary>
 <div style='padding-top:10px; padding-left:8px;'>
 <p>(<strong>Bio</strong>) Smiles-based bioactivity prediction through molecular encoder selection and data augmentation <br><em>2026, Journal of Cheminformatics</em></p>
 <p>(<strong>SecureAI</strong>) Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression <br><em>2026, ECCV</em></p>
