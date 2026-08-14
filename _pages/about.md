@@ -68,7 +68,103 @@ Here's a brief overview of my career, including education, work history, researc
 <details style='margin-bottom:10px;'>
 <summary style='font-weight:bold; cursor:pointer;'>First or Corresponding Author Publications</summary>
 <div style='padding-top:10px; padding-left:8px;'>
-<p>(<strong>Med</strong>) A Curated Flow Imaging Microscopy Dataset of Subvisible Protein Aggregates from Stressed Monoclonal Antibodies <br> <strong>Utku Ozbulak</strong>, Michaela Cohrs, Hristo L. Svilenov, Wesley De Neve <br> <em>2026, Scientific Data, Nature Publishing</em></p> <p>(<strong>SSL</strong>-<strong>XAI</strong>) Token-Based Detection of Spurious Correlations in Vision Transformers <br> Solha Kang, Esla Timothy Anzaku, Wesley De Neve, Arnout Van Messem, Joris Vankerschaver, Francois Rameau, <strong>Utku Ozbulak</strong> <br> <em>2026, Transactions on Machine Learning Research</em></p> <p>(<strong>Med</strong>) Token-based Fidelity Scoring for Trustworthy Vision Transformer Interpretations in Medical Imaging <br> <strong>Utku Ozbulak</strong>, Solha Kang, Wesley De Neve, Joris Vankerschaver <br> <em>2026, International Journal of Computer Assisted Radiology and Surgery, Springer Nature</em></p> <p>(<strong>Med</strong>) Improved Sub-visible Particle Classification in Flow Imaging Microscopy via Generative AI-based Image Synthesis <br> <strong>Utku Ozbulak</strong>, Michaela Cohrs, Hristo L. Svilenov, Joris Vankerschaver, Wesley De Neve <br> <em>2026, Journal of Pharmaceutical Sciences, Elsevier</em></p> <p>(<strong>SecureAI</strong>) Exact Feature Collisions in Neural Networks <br> <strong>Utku Ozbulak</strong>, Shodhan Rao, Wesley De Neve, Joris Vankerschaver, Arnout Van Messem, Manvel Gasparyan <br> <em>2026, Scientific Reports, Nature Publishing</em></p> <p>(<strong>Med</strong>) Revisiting the Evaluation Bias Introduced by Frame Sampling Strategies in Surgical Video Segmentation Using SAM2 <br> <strong>Utku Ozbulak</strong>, Seyed Amir Mousavi, Francesca Tozzi, Niki Rashidian, Wouter Willaert, Wesley De Neve <br> <em>2025, MICCAI - FAMI Workshop</em></p> <p>(<strong>Med</strong>) SpurBreast: A Curated Dataset for Investigating Spurious Correlations in Real-world Breast MRI Classification <br> Jong Bum Won, Wesley De Neve, Joris Vankerschaver, <strong>Utku Ozbulak</strong> <br> <em>2025, MICCAI - Main Track - Early Accept</em></p> <p>(<strong>Med</strong>) When Tracking Fails: Analyzing Failure Modes of SAM2 for Point-Based Tracking in Surgical Videos <br> Woowon Jang, Jiwon Im, Juseung Choi, Niki Rashidian, Wesley De Neve, <strong>Utku Ozbulak</strong> <br> <em>2025, MICCAI - COLAS Workshop</em></p> <p>(<strong>Med</strong>) Towards Affordable Tumor Segmentation and Visualization for 3D Breast MRI Using SAM2 <br> Solha Kang, Eugene Kim, Joris Vankerschaver, <strong>Utku Ozbulak</strong> <br> <em>2025, MICCAI - Deep Breath Workshop</em></p> <p>(<strong>Bio</strong>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data <br> Hyunjung Lee, <strong>Utku Ozbulak</strong>, Homin Park, Stephen Depuydt, Wesley De Neve, Joris Vankerschaver <br> <em>2024, BMC Bioinformatics</em></p> <p>(<strong>SSL</strong>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br> <strong>Utku Ozbulak</strong>, Esla Timothy Anzaku, Solha Kang, Wesley De Neve, Joris Vankerschaver <br> <em>2024, IEEE IJCNN, oral presentation</em></p> <p>(<strong>Med</strong>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br> Michaela Cohrs, Shiwoo Koak, Yejin Lee, Yu Jin Sung, Wesley De Neve, Hristo L. Svilenov, <strong>Utku Ozbulak</strong> <br> <em>2024, MICCAI - MOVI Workshop</em></p> <p>(<strong>Med</strong>) Exploring Patient Data Requirements in Training Effective AI Models for MRI-based Breast Cancer Classification <br> Solha Kang, Wesley De Neve, Francois Rameau, <strong>Utku Ozbulak</strong> <br> <em>2024, MICCAI - Deep Breath Workshop</em></p> <p>(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br> Minjae Chung, Jong Bum Won, Ganghyun Kim, Yujin Kim, <strong>Utku Ozbulak</strong> <br> <em>2024, MICCAI - iMIMIC Workshop</em></p> <p>(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br> Solha Kang, Joris Vankerschaver, <strong>Utku Ozbulak</strong> <br> <em>2024, MICCAI - MLMI Workshop</em></p> <p>(<strong>Bio</strong>-<strong>XAI</strong>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data <br> <strong>Utku Ozbulak</strong>, Solha Kang, Jasper Zuallaert, Stephen Depuydt, Joris Vankerschaver <br> <em>2023, NeurIPS - LMRL Workshop</em></p> <p>(<strong>Bio</strong>-<strong>XAI</strong>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation <br> <strong>Utku Ozbulak</strong>, Hyun Jung Lee, Jasper Zuallaert, Wesley De Neve, Stephen Depuydt, Joris Vankerschaver <br> <em>2023, Bioinformatics, Oxford Press</em></p> <p>(<strong>SSL</strong>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training <br> <strong>Utku Ozbulak</strong>, Hyun Jung Lee, Beril Boga, Esla Timothy Anzaku, Homin Park, Arnout Van Messem, Wesley De Neve, Joris Vankerschaver <br> <em>2023, Transactions on Machine Learning Research</em></p> <p>(<strong>SecureAI</strong>-<strong>XAI</strong>) Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes <br> <strong>Utku Ozbulak</strong>, Maura Pintor, Arnout Van Messem, Wesley De Neve <br> <em>2022, NeurIPS - Workshop on ImageNet: Past, Present, and Future</em></p> <p>(<strong>SecureAI</strong>) Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks <br> <strong>Utku Ozbulak</strong>, Esla Timothy Anzaku, Wesley De Neve, Arnout Van Messem <br> <em>2021, BMVC, oral presentation</em></p> <p>(<strong>SecureAI</strong>-<strong>XAI</strong>) Investigating the Significance of Adversarial Attacks and Their Relation to Interpretability for Radar-based Human Activity Recognition Systems <br> <strong>Utku Ozbulak</strong>, Baptist Vandersmissen, Azarakhsh Jalalvand, Ivo Couckuyt, Arnout Van Messem, Wesley De Neve <br> <em>2021, Computer Vision and Image Understanding, Elsevier</em></p> <p>(<strong>SecureAI</strong>) Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability <br> <strong>Utku Ozbulak</strong>, Jonathan Peck, Wesley De Neve, Bart Goossens, Yvan Saeys, Arnout Van Messem <br> <em>2020, ICML - UDL Workshop</em></p> <p>(<strong>SecureAI</strong>) Perturbation Analysis of Gradient-based Adversarial Attacks <br> <strong>Utku Ozbulak</strong>, Manvel Gasparyan, Wesley De Neve, Arnout Van Messem <br> <em>2020, Pattern Recognition Letters, Elsevier</em></p> <p>(<strong>SecureAI</strong>-<strong>Med</strong>) Impact of Adversarial Examples on Deep Learning Models for Biomedical Image Segmentation <br> <strong>Utku Ozbulak</strong>, Arnout Van Messem, Wesley De Neve <br> <em>2019, MICCAI, poster presentation</em></p> <p>(<strong>SecureAI</strong>) Not All Adversarial Examples Require a Complex Defense: Identifying Over-optimized Adversarial Examples with IQR-based Logit Thresholding <br> <strong>Utku Ozbulak</strong>, Arnout Van Messem, Wesley De Neve <br> <em>2019, IEEE IJCNN, oral presentation</em></p> <p>(<strong>SecureAI</strong>) How the Softmax Output is Misleading for Evaluating the Strength of Adversarial Examples <br> <strong>Utku Ozbulak</strong>, Wesley De Neve, Arnout Van Messem <br> <em>2018, NeurIPS - SecML Workshop</em></p>
+(Med) A Curated Flow Imaging Microscopy Dataset of Subvisible Protein
+Aggregates from Stressed Monoclonal Antibodies Utku Ozbulak, Michaela
+Cohrs, Hristo L. Svilenov, Wesley De Neve 2026, Scientific Data, Nature
+Publishing
+(SSL-XAI) Token-Based Detection of Spurious Correlations in Vision
+Transformers Solha Kang, Esla Timothy Anzaku, Wesley De Neve, Arnout Van
+Messem, Joris Vankerschaver, Francois Rameau, Utku Ozbulak 2026,
+Transactions on Machine Learning Research
+(Med) Token-based Fidelity Scoring for Trustworthy Vision Transformer
+Interpretations in Medical Imaging Utku Ozbulak, Solha Kang, Wesley De
+Neve, Joris Vankerschaver 2026, International Journal of Computer
+Assisted Radiology and Surgery, Springer Nature
+(Med) Improved Sub-visible Particle Classification in Flow Imaging
+Microscopy via Generative AI-based Image Synthesis Utku Ozbulak,
+Michaela Cohrs, Hristo L. Svilenov, Joris Vankerschaver, Wesley De Neve
+2026, Journal of Pharmaceutical Sciences, Elsevier
+(SecureAI) Exact Feature Collisions in Neural Networks Utku Ozbulak,
+Shodhan Rao, Wesley De Neve, Joris Vankerschaver, Arnout Van Messem,
+Manvel Gasparyan 2026, Scientific Reports, Nature Publishing
+(Med) Revisiting the Evaluation Bias Introduced by Frame Sampling
+Strategies in Surgical Video Segmentation Using SAM2 Utku Ozbulak, Seyed
+Amir Mousavi, Francesca Tozzi, Niki Rashidian, Wouter Willaert, Wesley
+De Neve 2025, MICCAI - FAMI Workshop
+(Med) SpurBreast: A Curated Dataset for Investigating Spurious
+Correlations in Real-world Breast MRI Classification Jong Bum Won,
+Wesley De Neve, Joris Vankerschaver, Utku Ozbulak 2025, MICCAI - Main
+Track - Early Accept
+(Med) When Tracking Fails: Analyzing Failure Modes of SAM2 for
+Point-Based Tracking in Surgical Videos Woowon Jang, Jiwon Im, Juseung
+Choi, Niki Rashidian, Wesley De Neve, Utku Ozbulak 2025, MICCAI - COLAS
+Workshop
+(Med) Towards Affordable Tumor Segmentation and Visualization for 3D
+Breast MRI Using SAM2 Solha Kang, Eugene Kim, Joris Vankerschaver, Utku
+Ozbulak 2025, MICCAI - Deep Breath Workshop
+(Bio) Assessing the Reliability of Point Mutation as Data Augmentation
+for Deep Learning with Genomic Data Hyunjung Lee, Utku Ozbulak, Homin
+Park, Stephen Depuydt, Wesley De Neve, Joris Vankerschaver 2024, BMC
+Bioinformatics
+(SSL) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal
+Improvements Translate to Improvements on Similar Datasets? Utku
+Ozbulak, Esla Timothy Anzaku, Solha Kang, Wesley De Neve, Joris
+Vankerschaver 2024, IEEE IJCNN, oral presentation
+(Med) Color Flow Imaging Microscopy Improves Identification of Stress
+Sources of Protein Aggregates in Biopharmaceuticals Michaela Cohrs,
+Shiwoo Koak, Yejin Lee, Yu Jin Sung, Wesley De Neve, Hristo L. Svilenov,
+Utku Ozbulak 2024, MICCAI - MOVI Workshop
+(Med) Exploring Patient Data Requirements in Training Effective AI
+Models for MRI-based Breast Cancer Classification Solha Kang, Wesley De
+Neve, Francois Rameau, Utku Ozbulak 2024, MICCAI - Deep Breath Workshop
+(Med-XAI-SSL) Evaluating Visual Explanations of Attention Maps for
+Transformer-Based Medical Imaging Minjae Chung, Jong Bum Won, Ganghyun
+Kim, Yujin Kim, Utku Ozbulak 2024, MICCAI - iMIMIC Workshop
+(Med-XAI-SSL) Identifying Critical Tokens for Accurate Predictions in
+Transformer-based Medical Imaging Models Solha Kang, Joris
+Vankerschaver, Utku Ozbulak 2024, MICCAI - MLMI Workshop
+(Bio-XAI) Utilizing Mutations to Evaluate Interpretability of Neural
+Networks on Genomic Data Utku Ozbulak, Solha Kang, Jasper Zuallaert,
+Stephen Depuydt, Joris Vankerschaver 2023, NeurIPS - LMRL Workshop
+(Bio-XAI) Mutate and Observe: Utilizing Deep Neural Networks to
+Investigate the Impact of Mutations on Translation Initiation Utku
+Ozbulak, Hyun Jung Lee, Jasper Zuallaert, Wesley De Neve, Stephen
+Depuydt, Joris Vankerschaver 2023, Bioinformatics, Oxford Press
+(SSL) Know Your Self-supervised Learning: A Survey on Image-based
+Generative and Discriminative Training Utku Ozbulak, Hyun Jung Lee,
+Beril Boga, Esla Timothy Anzaku, Homin Park, Arnout Van Messem, Wesley
+De Neve, Joris Vankerschaver 2023, Transactions on Machine Learning
+Research
+(SecureAI-XAI) Evaluating Adversarial Attacks on ImageNet: A Reality
+Check on Misclassification Classes Utku Ozbulak, Maura Pintor, Arnout
+Van Messem, Wesley De Neve 2022, NeurIPS - Workshop on ImageNet: Past,
+Present, and Future
+(SecureAI) Selection of Source Images Heavily Influences the
+Effectiveness of Adversarial Attacks Utku Ozbulak, Esla Timothy Anzaku,
+Wesley De Neve, Arnout Van Messem 2021, BMVC, oral presentation
+(SecureAI-XAI) Investigating the Significance of Adversarial Attacks and
+Their Relation to Interpretability for Radar-based Human Activity
+Recognition Systems Utku Ozbulak, Baptist Vandersmissen, Azarakhsh
+Jalalvand, Ivo Couckuyt, Arnout Van Messem, Wesley De Neve 2021,
+Computer Vision and Image Understanding, Elsevier
+(SecureAI) Regional Image Perturbation Reduces Lp Norms of Adversarial
+Examples While Maintaining Model-to-model Transferability Utku Ozbulak,
+Jonathan Peck, Wesley De Neve, Bart Goossens, Yvan Saeys, Arnout Van
+Messem 2020, ICML - UDL Workshop
+(SecureAI) Perturbation Analysis of Gradient-based Adversarial Attacks
+Utku Ozbulak, Manvel Gasparyan, Wesley De Neve, Arnout Van Messem 2020,
+Pattern Recognition Letters, Elsevier
+(SecureAI-Med) Impact of Adversarial Examples on Deep Learning Models
+for Biomedical Image Segmentation Utku Ozbulak, Arnout Van Messem,
+Wesley De Neve 2019, MICCAI, poster presentation
+(SecureAI) Not All Adversarial Examples Require a Complex Defense:
+Identifying Over-optimized Adversarial Examples with IQR-based Logit
+Thresholding Utku Ozbulak, Arnout Van Messem, Wesley De Neve 2019, IEEE
+IJCNN, oral presentation
+(SecureAI) How the Softmax Output is Misleading for Evaluating the
+Strength of Adversarial Examples Utku Ozbulak, Wesley De Neve, Arnout
+Van Messem 2018, NeurIPS - SecML Workshop
+
 </div>
 </details>
 <details>
