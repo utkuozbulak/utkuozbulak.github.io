@@ -54,10 +54,10 @@ Here's a brief overview of my career, including education, work history, researc
 <details style='margin-bottom:13px;'>
 <summary style='font-weight:bold; cursor:pointer;'>Research Expertise</summary>
 <div style='padding-top:10px; padding-left:8px;'>
-<p>(<strong>Med</strong>) Medical and biomedical imaging</p>
+<p>(<strong>Biomed</strong>) Medical and biomedical imaging</p>
 <p>(<strong>XAI</strong>) Trustworthy and explainable AI</p>
 <p>(<strong>SecureAI</strong>) AI security and safety</p>
-<p>(<strong>Bio</strong>) Bioinformatics and genomics</p>
+<p>(<strong>Bioinf</strong>) Bioinformatics and genomics</p>
 <p>(<strong>SSL</strong>) Image-based self-supervised learning</p>
 </div>
 </details>
@@ -68,35 +68,35 @@ Here's a brief overview of my career, including education, work history, researc
 <details style='margin-bottom:10px;'>
 <summary style='font-weight:bold; cursor:pointer;'>First or Corresponding Author Publications</summary>
 <div style='padding-top:10px; padding-left:8px;'>
-<p>(<strong>Med</strong>) A Curated Flow Imaging Microscopy Dataset of Subvisible Protein Aggregates from Stressed Monoclonal Antibodies <br> <strong>Utku Ozbulak</strong>, Michaela Cohrs, Hristo L. Svilenov, Wesley De Neve <br> <em>2026, Scientific Data, Nature Publishing</em></p> 
+<p>(<strong>Biomed</strong>) A Curated Flow Imaging Microscopy Dataset of Subvisible Protein Aggregates from Stressed Monoclonal Antibodies <br> <strong>Utku Ozbulak</strong>, Michaela Cohrs, Hristo L. Svilenov, Wesley De Neve <br> <em>2026, Scientific Data, Nature Publishing</em></p> 
 
 <p>(<strong>SSL</strong>-<strong>XAI</strong>) Token-Based Detection of Spurious Correlations in Vision Transformers <br> Solha Kang, Esla Timothy Anzaku, Wesley De Neve, Arnout Van Messem, Joris Vankerschaver, Francois Rameau, <strong>Utku Ozbulak</strong> <br> <em>2026, Transactions on Machine Learning Research</em></p>
 
-<p>(<strong>Med</strong>) Token-based Fidelity Scoring for Trustworthy Vision Transformer Interpretations in Medical Imaging <br> <strong>Utku Ozbulak</strong>, Solha Kang, Wesley De Neve, Joris Vankerschaver <br> <em>2026, International Journal of Computer Assisted Radiology and Surgery, Springer Nature</em></p>
+<p>(<strong>Biomed</strong>) Token-based Fidelity Scoring for Trustworthy Vision Transformer Interpretations in Medical Imaging <br> <strong>Utku Ozbulak</strong>, Solha Kang, Wesley De Neve, Joris Vankerschaver <br> <em>2026, International Journal of Computer Assisted Radiology and Surgery, Springer Nature</em></p>
 
-<p>(<strong>Med</strong>) Improved Sub-visible Particle Classification in Flow Imaging Microscopy via Generative AI-based Image Synthesis <br> <strong>Utku Ozbulak</strong>, Michaela Cohrs, Hristo L. Svilenov, Joris Vankerschaver, Wesley De Neve <br> <em>2026, Journal of Pharmaceutical Sciences, Elsevier</em></p>
+<p>(<strong>Biomed</strong>) Improved Sub-visible Particle Classification in Flow Imaging Microscopy via Generative AI-based Image Synthesis <br> <strong>Utku Ozbulak</strong>, Michaela Cohrs, Hristo L. Svilenov, Joris Vankerschaver, Wesley De Neve <br> <em>2026, Journal of Pharmaceutical Sciences, Elsevier</em></p>
 
 <p>(<strong>SecureAI</strong>) Exact Feature Collisions in Neural Networks <br> <strong>Utku Ozbulak</strong>, Shodhan Rao, Wesley De Neve, Joris Vankerschaver, Arnout Van Messem, Manvel Gasparyan <br> <em>2026, Scientific Reports, Nature Publishing</em></p> <p>(<strong>Med</strong>) Revisiting the Evaluation Bias Introduced by Frame Sampling Strategies in Surgical Video Segmentation Using SAM2 <br> <strong>Utku Ozbulak</strong>, Seyed Amir Mousavi, Francesca Tozzi, Niki Rashidian, Wouter Willaert, Wesley De Neve <br> <em>2025, MICCAI - FAMI Workshop</em></p>
 
-<p>(<strong>Med</strong>) SpurBreast: A Curated Dataset for Investigating Spurious Correlations in Real-world Breast MRI Classification <br> Jong Bum Won, Wesley De Neve, Joris Vankerschaver, <strong>Utku Ozbulak</strong> <br> <em>2025, MICCAI - Main Track - Early Accept</em></p> 
+<p>(<strong>Biomed</strong>) SpurBreast: A Curated Dataset for Investigating Spurious Correlations in Real-world Breast MRI Classification <br> Jong Bum Won, Wesley De Neve, Joris Vankerschaver, <strong>Utku Ozbulak</strong> <br> <em>2025, MICCAI - Main Track - Early Accept</em></p> 
 
-<p>(<strong>Med</strong>) When Tracking Fails: Analyzing Failure Modes of SAM2 for Point-Based Tracking in Surgical Videos <br> Woowon Jang, Jiwon Im, Juseung Choi, Niki Rashidian, Wesley De Neve, <strong>Utku Ozbulak</strong> <br> <em>2025, MICCAI - COLAS Workshop</em></p> <p>(<strong>Med</strong>) Towards Affordable Tumor Segmentation and Visualization for 3D Breast MRI Using SAM2 <br> Solha Kang, Eugene Kim, Joris Vankerschaver, <strong>Utku Ozbulak</strong> <br> <em>2025, MICCAI - Deep Breath Workshop</em></p>
+<p>(<strong>Biomed</strong>) When Tracking Fails: Analyzing Failure Modes of SAM2 for Point-Based Tracking in Surgical Videos <br> Woowon Jang, Jiwon Im, Juseung Choi, Niki Rashidian, Wesley De Neve, <strong>Utku Ozbulak</strong> <br> <em>2025, MICCAI - COLAS Workshop</em></p> <p>(<strong>Med</strong>) Towards Affordable Tumor Segmentation and Visualization for 3D Breast MRI Using SAM2 <br> Solha Kang, Eugene Kim, Joris Vankerschaver, <strong>Utku Ozbulak</strong> <br> <em>2025, MICCAI - Deep Breath Workshop</em></p>
 
-<p>(<strong>Bio</strong>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data <br> Hyunjung Lee, <strong>Utku Ozbulak</strong>, Homin Park, Stephen Depuydt, Wesley De Neve, Joris Vankerschaver <br> <em>2024, BMC Bioinformatics</em></p> 
+<p>(<strong>Bioinf</strong>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data <br> Hyunjung Lee, <strong>Utku Ozbulak</strong>, Homin Park, Stephen Depuydt, Wesley De Neve, Joris Vankerschaver <br> <em>2024, BMC Bioinformatics</em></p> 
 
 <p>(<strong>SSL</strong>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br> <strong>Utku Ozbulak</strong>, Esla Timothy Anzaku, Solha Kang, Wesley De Neve, Joris Vankerschaver <br> <em>2024, IEEE IJCNN, oral presentation</em></p>
 
-<p>(<strong>Med</strong>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br> Michaela Cohrs, Shiwoo Koak, Yejin Lee, Yu Jin Sung, Wesley De Neve, Hristo L. Svilenov, <strong>Utku Ozbulak</strong> <br> <em>2024, MICCAI - MOVI Workshop</em></p>
+<p>(<strong>Biomed</strong>) Color Flow Imaging Microscopy Improves Identification of Stress Sources of Protein Aggregates in Biopharmaceuticals <br> Michaela Cohrs, Shiwoo Koak, Yejin Lee, Yu Jin Sung, Wesley De Neve, Hristo L. Svilenov, <strong>Utku Ozbulak</strong> <br> <em>2024, MICCAI - MOVI Workshop</em></p>
 
-<p>(<strong>Med</strong>) Exploring Patient Data Requirements in Training Effective AI Models for MRI-based Breast Cancer Classification <br> Solha Kang, Wesley De Neve, Francois Rameau, <strong>Utku Ozbulak</strong> <br> <em>2024, MICCAI - Deep Breath Workshop</em></p>
+<p>(<strong>Biomed</strong>) Exploring Patient Data Requirements in Training Effective AI Models for MRI-based Breast Cancer Classification <br> Solha Kang, Wesley De Neve, Francois Rameau, <strong>Utku Ozbulak</strong> <br> <em>2024, MICCAI - Deep Breath Workshop</em></p>
 
-<p>(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br> Minjae Chung, Jong Bum Won, Ganghyun Kim, Yujin Kim, <strong>Utku Ozbulak</strong> <br> <em>2024, MICCAI - iMIMIC Workshop</em></p> 
+<p>(<strong>Biomed</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Evaluating Visual Explanations of Attention Maps for Transformer-Based Medical Imaging <br> Minjae Chung, Jong Bum Won, Ganghyun Kim, Yujin Kim, <strong>Utku Ozbulak</strong> <br> <em>2024, MICCAI - iMIMIC Workshop</em></p> 
 
-<p>(<strong>Med</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br> Solha Kang, Joris Vankerschaver, <strong>Utku Ozbulak</strong> <br> <em>2024, MICCAI - MLMI Workshop</em></p> 
+<p>(<strong>Biomed</strong>-<strong>XAI</strong>-<strong>SSL</strong>) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models <br> Solha Kang, Joris Vankerschaver, <strong>Utku Ozbulak</strong> <br> <em>2024, MICCAI - MLMI Workshop</em></p> 
 
-<p>(<strong>Bio</strong>-<strong>XAI</strong>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data <br> <strong>Utku Ozbulak</strong>, Solha Kang, Jasper Zuallaert, Stephen Depuydt, Joris Vankerschaver <br> <em>2023, NeurIPS - LMRL Workshop</em></p> 
+<p>(<strong>Bioinf</strong>-<strong>XAI</strong>) Utilizing Mutations to Evaluate Interpretability of Neural Networks on Genomic Data <br> <strong>Utku Ozbulak</strong>, Solha Kang, Jasper Zuallaert, Stephen Depuydt, Joris Vankerschaver <br> <em>2023, NeurIPS - LMRL Workshop</em></p> 
 
-<p>(<strong>Bio</strong>-<strong>XAI</strong>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation <br> <strong>Utku Ozbulak</strong>, Hyun Jung Lee, Jasper Zuallaert, Wesley De Neve, Stephen Depuydt, Joris Vankerschaver <br> <em>2023, Bioinformatics, Oxford Press</em></p>
+<p>(<strong>Bioinf</strong>-<strong>XAI</strong>) Mutate and Observe: Utilizing Deep Neural Networks to Investigate the Impact of Mutations on Translation Initiation <br> <strong>Utku Ozbulak</strong>, Hyun Jung Lee, Jasper Zuallaert, Wesley De Neve, Stephen Depuydt, Joris Vankerschaver <br> <em>2023, Bioinformatics, Oxford Press</em></p>
 
 <p>(<strong>SSL</strong>) Know Your Self-supervised Learning: A Survey on Image-based Generative and Discriminative Training <br> <strong>Utku Ozbulak</strong>, Hyun Jung Lee, Beril Boga, Esla Timothy Anzaku, Homin Park, Arnout Van Messem, Wesley De Neve, Joris Vankerschaver <br> <em>2023, Transactions on Machine Learning Research</em></p>
 
@@ -118,23 +118,23 @@ Here's a brief overview of my career, including education, work history, researc
 <summary style='font-weight:bold; cursor:pointer;'>Other Publications</summary>
 <div style='padding-top:10px; padding-left:8px;'>
 
-  <p>(<strong>Bio</strong>) A Controlled Study of Tokenizer Scale in SMILES-Based Foundation Models <br> Seongik Choi, Ju Hyung Lee, <strong>Utku Ozbulak</strong>, Joris Vankerschaver, Wesley De Neve <br> <em>2026, International Conference on AI in Healthcare (AIiH), Springer Nature</em></p>
+<p>(<strong>Bioinf</strong>) A Controlled Study of Tokenizer Scale in SMILES-Based Foundation Models <br> Seongik Choi, Ju Hyung Lee, <strong>Utku Ozbulak</strong>, Joris Vankerschaver, Wesley De Neve <br> <em>2026, International Conference on AI in Healthcare (AIiH), Springer Nature</em></p>
   
-<p>(<strong>Bio</strong>) Smiles-based bioactivity prediction through molecular encoder selection and data augmentation <br> Ju Hyung Lee, Seongik Choi, <strong>Utku Ozbulak</strong>, Joris Vankerschaver, Wesley De Neve <br> <em>2026, Journal of Cheminformatics</em></p>
+<p>(<strong>Bioinf</strong>) Smiles-based bioactivity prediction through molecular encoder selection and data augmentation <br> Ju Hyung Lee, Seongik Choi, <strong>Utku Ozbulak</strong>, Joris Vankerschaver, Wesley De Neve <br> <em>2026, Journal of Cheminformatics</em></p>
 
 <p>(<strong>SecureAI</strong>) Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression <br> Oleksii Nasypanyi, Jaemin Cho, <strong>Utku Ozbulak</strong>, Byungkon Kang, Francois Rameau <br> <em>2026, ECCV</em></p>
 
-<p>(<strong>Med</strong>) Predicting Agitation Stability of Monoclonal Antibodies during Developability Assessment <br> Michaela Cohrs, Nevena Pagureva, <strong>Utku Ozbulak</strong>, Wesley De Neve, Kevin Braeckmans, Stefaan De Smedt, Slavka Tcholakova, Zahari Vinarov, Hristo L. Svilenov <br> <em>2026, Molecular Pharmaceutics</em></p>
+<p>(<strong>Biomed</strong>) Predicting Agitation Stability of Monoclonal Antibodies during Developability Assessment <br> Michaela Cohrs, Nevena Pagureva, <strong>Utku Ozbulak</strong>, Wesley De Neve, Kevin Braeckmans, Stefaan De Smedt, Slavka Tcholakova, Zahari Vinarov, Hristo L. Svilenov <br> <em>2026, Molecular Pharmaceutics</em></p>
 
-<p>(<strong>Med</strong>) Balancing Redundancy and Diversity: An In-Depth Analysis of Active Learning for Laparoscopic Video Segmentation <br> Seyed Amir Mousavi, Esla Timothy Anzaku, <strong>Utku Ozbulak</strong>, Robbe De Muynck, Francesca Tozzi, Nikdokht Rashidian, Wouter Willaert, Wesley De Neve <br> <em>2025, MICCAI - DEMI Workshop</em></p>
+<p>(<strong>Biomed</strong>) Balancing Redundancy and Diversity: An In-Depth Analysis of Active Learning for Laparoscopic Video Segmentation <br> Seyed Amir Mousavi, Esla Timothy Anzaku, <strong>Utku Ozbulak</strong>, Robbe De Muynck, Francesca Tozzi, Nikdokht Rashidian, Wouter Willaert, Wesley De Neve <br> <em>2025, MICCAI - DEMI Workshop</em></p>
 
 <p>(<strong>Med</strong>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br> Seyed Amir Mousavi, <strong>Utku Ozbulak</strong>, Francesca Tozzi, Nikdokht Rashidian, Wouter Willaert, Joris Vankerschaver, Wesley De Neve <br> <em>2025, Arxiv</em></p>
 
-<p>(<strong>Bio</strong>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants <br> Woowon Jang, Shiwoo Koak, Jiwon Im, <strong>Utku Ozbulak</strong>, Joris Vankerschaver <br> <em>2023, Arxiv</em></p>
+<p>(<strong>Bioinf</strong>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants <br> Woowon Jang, Shiwoo Koak, Jiwon Im, <strong>Utku Ozbulak</strong>, Joris Vankerschaver <br> <em>2023, Arxiv</em></p>
 
-<p>(<strong>Med</strong>) Tryp: A Dataset of Microscopy Images of Unstained Thick Blood Smears for Trypanosome Detection <br> Esla Timothy Anzaku, Mohammed Aliy Mohammed, <strong>Utku Ozbulak</strong>, Jongbum Won, Hyesoo Hong, Janarthanan Krishnamoorthy, Sofie Van Hoecke, Stefan Magez, Arnout Van Messem, Wesley De Neve <br> <em>2023, Scientific Data, Nature Publishing</em></p>
+<p>(<strong>Biomed</strong>) Tryp: A Dataset of Microscopy Images of Unstained Thick Blood Smears for Trypanosome Detection <br> Esla Timothy Anzaku, Mohammed Aliy Mohammed, <strong>Utku Ozbulak</strong>, Jongbum Won, Hyesoo Hong, Janarthanan Krishnamoorthy, Sofie Van Hoecke, Stefan Magez, Arnout Van Messem, Wesley De Neve <br> <em>2023, Scientific Data, Nature Publishing</em></p>
 
-<p>(<strong>Bio</strong>-<strong>Med</strong>) Automatic Detection of Trypanosomosis in Thick Blood Smears Using Image Pre-processing and Deep Learning <br> Taewoo Jung, Esla Timothy Anzaku, <strong>Utku Ozbulak</strong>, Stefan Magez, Arnout Van Messem, Wesley De Neve <br> <em>2023, International Conference on Intelligent Human Computer Interaction (IHCI)</em></p>
+<p>(<strong>Bioinf</strong>-<strong>Med</strong>) Automatic Detection of Trypanosomosis in Thick Blood Smears Using Image Pre-processing and Deep Learning <br> Taewoo Jung, Esla Timothy Anzaku, <strong>Utku Ozbulak</strong>, Stefan Magez, Arnout Van Messem, Wesley De Neve <br> <em>2023, International Conference on Intelligent Human Computer Interaction (IHCI)</em></p>
 
 </div>
 </details>
