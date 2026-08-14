@@ -4,8 +4,8 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+- /about/
+- /about.html
 ---
 <div style="text-align: justify"> 
 I'm currently working as a Research Professor at Ghent University Global Campus (GUGC) and an Adjunct Professor at George Mason University Korea (GMUK), currently teaching Data Visualization at GMUK and Bioinformatics at GUGC.
@@ -27,40 +27,39 @@ Here's a brief overview of my career, including education, work history, researc
 
 <div>
 <p><strong>Current Positions:</strong></p>
-  <ul>
-  <li>Research Professor at Ghent University Global Campus, South Korea</li>
-  <li>Adjunct Professor at George Mason University Korea, South Korea</li>
+<ul>
+<li>Research Professor at Ghent University Global Campus, South Korea</li>
+<li>Adjunct Professor at George Mason University Korea, South Korea</li>
 </ul>
 <p><strong>Education:</strong></p>
 <ul>
-  <li>PhD in Computer Science Engineering, Ghent University, Belgium</li>
-  <li>MSc in Data Science, University of Southampton, United Kingdom</li>
-  <li>BSc in Computer Engineering, Yasar University, Turkey</li>
+<li>PhD in Computer Science Engineering, Ghent University, Belgium</li>
+<li>MSc in Data Science, University of Southampton, United Kingdom</li>
+<li>BSc in Computer Engineering, Yasar University, Turkey</li>
 </ul>
 </div>
 
 <details>
-  <summary style='font-weight:bold; cursor:pointer; margin-bottom:13px;'>Work Experience</summary>
-  <div style='padding-top:10px; padding-left:8px;'>
-    2025 - Current: <strong>Adjunct Professor</strong>, George Mason Korea, South Korea<br><br>
-    2023 - Current: <strong>Research Professor</strong>, Ghent University Global Campus, South Korea<br><br>
-    2022 - 2023: <strong>Postdoctoral Fellow</strong>, Ghent University Global Campus, South Korea<br><br>
-    2017 - 2022: <strong>AI Researcher</strong>, Ghent University Global Campus, South Korea<br><br>
-    2015 - 2016: <strong>SAP Business Intelligence Consultant</strong>, The Coca Cola Company, Turkey<br><br>
-    2014 - 2015: <strong>SAP Business Intelligence Consultant</strong>, Turkish Airlines, Turkey<br><br>
-    
-  </div>
+<summary style='font-weight:bold; cursor:pointer; margin-bottom:13px;'>Work Experience</summary>
+<div style='padding-top:10px; padding-left:8px;'>
+<p>2025 - Current: <strong>Adjunct Professor</strong>, George Mason Korea, South Korea</p>
+<p>2023 - Current: <strong>Research Professor</strong>, Ghent University Global Campus, South Korea</p>
+<p>2022 - 2023: <strong>Postdoctoral Fellow</strong>, Ghent University Global Campus, South Korea</p>
+<p>2017 - 2022: <strong>AI Researcher</strong>, Ghent University Global Campus, South Korea</p>
+<p>2015 - 2016: <strong>SAP Business Intelligence Consultant</strong>, The Coca Cola Company, Turkey</p>
+<p>2014 - 2015: <strong>SAP Business Intelligence Consultant</strong>, Turkish Airlines, Turkey</p>
+</div>
 </details>
 
 <details style='margin-bottom:13px;'>
-  <summary style='font-weight:bold; cursor:pointer;'>Research Expertise</summary>
-  <div style='padding-top:10px; padding-left:8px;'>
-    <p>(<strong>Med</strong>) Medical and biomedical imaging</p>
-    <p>(<strong>XAI</strong>) Trustworthy and explainable AI</p>
-    <p>(<strong>SecureAI</strong>) AI security and safety</p>
-    <p>(<strong>Bio</strong>) Bioinformatics and genomics</p>
-    <p>(<strong>SSL</strong>) Image-based self-supervised learning</p><br><br>
-  </div>
+<summary style='font-weight:bold; cursor:pointer;'>Research Expertise</summary>
+<div style='padding-top:10px; padding-left:8px;'>
+<p>(<strong>Med</strong>) Medical and biomedical imaging</p>
+<p>(<strong>XAI</strong>) Trustworthy and explainable AI</p>
+<p>(<strong>SecureAI</strong>) AI security and safety</p>
+<p>(<strong>Bio</strong>) Bioinformatics and genomics</p>
+<p>(<strong>SSL</strong>) Image-based self-supervised learning</p>
+</div>
 </details>
 
 <details style='margin-bottom:13px;'>
@@ -120,97 +119,97 @@ Here's a brief overview of my career, including education, work history, researc
 
 
 <details style='margin-bottom:12px;'>
-  <summary style='font-size:18px; font-weight:bold; cursor:pointer;'>Repositories</summary>
-  <div style='font-size:12px; padding-top:10px; padding-left:8px;'>
-    <p>(<strong>XAI</strong>) 
-      <a href='https://github.com/utkuozbulak/pytorch-cnn-visualizations' target='_blank'>
-        pytorch-cnn-visualizations
-      </a> 
-      <span class='github-stats' data-repo='utkuozbulak/pytorch-cnn-visualizations'>Loading...</span>
-    </p>
-    <p>(Other) 
-      <a href='https://github.com/utkuozbulak/pytorch-custom-dataset-examples' target='_blank'>
-        pytorch-custom-dataset-examples
-      </a> 
-      <span class='github-stats' data-repo='utkuozbulak/pytorch-custom-dataset-examples'>Loading...</span>
-    </p>
-    <p>(<strong>SecureAI</strong>) 
-      <a href='https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks' target='_blank'>
-        pytorch-cnn-adversarial-attacks
-      </a> 
-      <span class='github-stats' data-repo='utkuozbulak/pytorch-cnn-adversarial-attacks'>Loading...</span>
-    </p>
-    <p>(<strong>SecureAI</strong>) 
-      <a href='https://github.com/utkuozbulak/adaptive-segmentation-mask-attack' target='_blank'>
-        adaptive-segmentation-mask-attack
-      </a> 
-      <span class='github-stats' data-repo='utkuozbulak/adaptive-segmentation-mask-attack'>Loading...</span>
-    </p>
-    <p>(Other) 
-      <a href='https://github.com/utkuozbulak/pytorch-simple-diffusion' target='_blank'>
-        pytorch-simple-diffusion
-      </a> 
-      <span class='github-stats' data-repo='utkuozbulak/pytorch-simple-diffusion'>Loading...</span>
-    </p>
-    <p>(<strong>SecureAI</strong>) 
-      <a href='https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation' target='_blank'>
-        imagenet-adversarial-image-evaluation
-      </a> 
-      <span class='github-stats' data-repo='utkuozbulak/imagenet-adversarial-image-evaluation'>Loading...</span>
-    </p>
-    <p>(<strong>Bio</strong>) 
-      <a href='https://github.com/utkuozbulak/mutate-and-observe' target='_blank'>
-        mutate-and-observe
-      </a> 
-      <span class='github-stats' data-repo='utkuozbulak/mutate-and-observe'>Loading...</span>
-    </p>
-    <p>(<strong>SecureAI</strong>) 
-      <a href='https://github.com/utkuozbulak/regional-adversarial-perturbation' target='_blank'>
-        regional-adversarial-perturbation
-      </a> 
-      <span class='github-stats' data-repo='utkuozbulak/regional-adversarial-perturbation'>Loading...</span>
-    </p>
-    <p>(<strong>Med</strong>) 
-  <a href='https://github.com/utkuozbulak/svp-generative-ai' target='_blank'>
-    svp-generative-ai
-  </a> 
-  <span class='github-stats' data-repo='utkuozbulak/svp-generative-ai'>Loading...</span>
+<summary style='font-size:18px; font-weight:bold; cursor:pointer;'>Repositories</summary>
+<div style='font-size:12px; padding-top:10px; padding-left:8px;'>
+<p>(<strong>XAI</strong>) 
+<a href='https://github.com/utkuozbulak/pytorch-cnn-visualizations' target='_blank'>
+pytorch-cnn-visualizations
+</a> 
+<span class='github-stats' data-repo='utkuozbulak/pytorch-cnn-visualizations'>Loading...</span>
+</p>
+<p>(Other) 
+<a href='https://github.com/utkuozbulak/pytorch-custom-dataset-examples' target='_blank'>
+pytorch-custom-dataset-examples
+</a> 
+<span class='github-stats' data-repo='utkuozbulak/pytorch-custom-dataset-examples'>Loading...</span>
+</p>
+<p>(<strong>SecureAI</strong>) 
+<a href='https://github.com/utkuozbulak/pytorch-cnn-adversarial-attacks' target='_blank'>
+pytorch-cnn-adversarial-attacks
+</a> 
+<span class='github-stats' data-repo='utkuozbulak/pytorch-cnn-adversarial-attacks'>Loading...</span>
+</p>
+<p>(<strong>SecureAI</strong>) 
+<a href='https://github.com/utkuozbulak/adaptive-segmentation-mask-attack' target='_blank'>
+adaptive-segmentation-mask-attack
+</a> 
+<span class='github-stats' data-repo='utkuozbulak/adaptive-segmentation-mask-attack'>Loading...</span>
+</p>
+<p>(Other) 
+<a href='https://github.com/utkuozbulak/pytorch-simple-diffusion' target='_blank'>
+pytorch-simple-diffusion
+</a> 
+<span class='github-stats' data-repo='utkuozbulak/pytorch-simple-diffusion'>Loading...</span>
+</p>
+<p>(<strong>SecureAI</strong>) 
+<a href='https://github.com/utkuozbulak/imagenet-adversarial-image-evaluation' target='_blank'>
+imagenet-adversarial-image-evaluation
+</a> 
+<span class='github-stats' data-repo='utkuozbulak/imagenet-adversarial-image-evaluation'>Loading...</span>
+</p>
+<p>(<strong>Bio</strong>) 
+<a href='https://github.com/utkuozbulak/mutate-and-observe' target='_blank'>
+mutate-and-observe
+</a> 
+<span class='github-stats' data-repo='utkuozbulak/mutate-and-observe'>Loading...</span>
+</p>
+<p>(<strong>SecureAI</strong>) 
+<a href='https://github.com/utkuozbulak/regional-adversarial-perturbation' target='_blank'>
+regional-adversarial-perturbation
+</a> 
+<span class='github-stats' data-repo='utkuozbulak/regional-adversarial-perturbation'>Loading...</span>
+</p>
+<p>(<strong>Med</strong>) 
+<a href='https://github.com/utkuozbulak/svp-generative-ai' target='_blank'>
+svp-generative-ai
+</a> 
+<span class='github-stats' data-repo='utkuozbulak/svp-generative-ai'>Loading...</span>
 </p>
 
 <p>(<strong>Med</strong>) 
-  <a href='https://github.com/utkuozbulak/SpurBreast' target='_blank'>
-    SpurBreast
-  </a> 
-  <span class='github-stats' data-repo='utkuozbulak/SpurBreast'>Loading...</span>
+<a href='https://github.com/utkuozbulak/SpurBreast' target='_blank'>
+SpurBreast
+</a> 
+<span class='github-stats' data-repo='utkuozbulak/SpurBreast'>Loading...</span>
 </p>
-  </div>
+</div>
 </details>
 
 <script>
-  async function fetchRepoStats(repo) {
-    try {
-      const res = await fetch(`https://api.github.com/repos/${repo}`);
-      if (!res.ok) return null;
-      return await res.json();
-    } catch (e) {
-      return null;
-    }
-  }
+async function fetchRepoStats(repo) {
+try {
+const res = await fetch(`https://api.github.com/repos/${repo}`);
+if (!res.ok) return null;
+return await res.json();
+} catch (e) {
+return null;
+}
+}
 
-  async function updateGitHubStats() {
-    const elements = document.querySelectorAll('.github-stats');
-    for (const el of elements) {
-      const repo = el.dataset.repo;
-      const data = await fetchRepoStats(repo);
-      if (data) {
-        el.innerHTML = `Stars: ${data.stargazers_count} | Forks: ${data.forks_count}`;
-      } else {
-        el.innerHTML = '(stats unavailable)';
-      }
-    }
-  }
+async function updateGitHubStats() {
+const elements = document.querySelectorAll('.github-stats');
+for (const el of elements) {
+const repo = el.dataset.repo;
+const data = await fetchRepoStats(repo);
+if (data) {
+el.innerHTML = `Stars: ${data.stargazers_count} | Forks: ${data.forks_count}`;
+} else {
+el.innerHTML = '(stats unavailable)';
+}
+}
+}
 
-  updateGitHubStats();
+updateGitHubStats();
 </script>
 
 
