@@ -86,7 +86,7 @@ Here's a brief overview of my career, including education, work history, researc
 
 <p>(<strong>Med</strong>) Towards Affordable Tumor Segmentation and Visualization for 3D Breast MRI Using SAM2 <br> Solha Kang, Eugene Kim, Joris Vankerschaver, <strong>Utku Ozbulak</strong> <br> <em>2025, MICCAI - Deep Breath Workshop</em> <a href="https://doi.org/10.1007/978-3-032-05559-0_9">[Link]</a></p>
 
-<p>(<strong>Bioinf</strong>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data <br> Hyunjung Lee, <strong>Utku Ozbulak</strong>, Homin Park, Stephen Depuydt, Wesley De Neve, Joris Vankerschaver <br> <em>2024, BMC Bioinformatics</em> <a href="https://link.springer.com/article/10.1186/s12859-024-05787-6">[Link]</a></p> 
+<p>(<strong>Bioinf</strong>) Assessing the Reliability of Point Mutation as Data Augmentation for Deep Learning with Genomic Data <br> Hyunjung Lee, <strong>Utku Ozbulak*</strong>, Homin Park, Stephen Depuydt, Wesley De Neve, Joris Vankerschaver <br> <em>2024, BMC Bioinformatics</em> <a href="https://link.springer.com/article/10.1186/s12859-024-05787-6">[Link]</a></p> 
 
 <p>(<strong>SSL</strong>) Self-Supervised Benchmark Lottery on ImageNet: Do Marginal Improvements Translate to Improvements on Similar Datasets? <br> <strong>Utku Ozbulak</strong>, Esla Timothy Anzaku, Solha Kang, Wesley De Neve, Joris Vankerschaver <br> <em>2024, IEEE IJCNN, oral presentation</em> <a href="https://doi.org/10.1109/IJCNN60899.2024.10650017">[Link]</a></p>
 
