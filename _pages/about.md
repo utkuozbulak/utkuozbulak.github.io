@@ -106,7 +106,7 @@ Here's a brief overview of my career, including education, work history, researc
 
 <p>(<strong>SecureAI</strong>-<strong>XAI</strong>) Evaluating Adversarial Attacks on ImageNet: A Reality Check on Misclassification Classes <br> <strong>Utku Ozbulak</strong>, Maura Pintor, Arnout Van Messem, Wesley De Neve <br> <em>2022, NeurIPS - Workshop on ImageNet: Past, Present, and Future</em> <a href="https://openreview.net/forum?id=oWk2dULs1x">[Link]</a></p>
 
-<p>(<strong>SecureAI</strong>) Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks <br> <strong>Utku Ozbulak</strong>, Esla Timothy Anzaku, Wesley De Neve, Arnout Van Messem <br> <em>2021, BMVC, oral presentation</em> <a href="https://www.bmvc2021-virtualconference.com/assets/papers/0783.pdf">[Link]</a></p>
+<p>(<strong>SecureAI</strong>) Selection of Source Images Heavily Influences the Effectiveness of Adversarial Attacks <br> <strong>Utku Ozbulak</strong>, Esla Timothy Anzaku, Wesley De Neve, Arnout Van Messem <br> <em>2021, BMVC, oral presentation</em> <a href="https://www.bmva-archive.org.uk/bmvc/2021/assets/papers/0783.pdf">[Link]</a></p>
 
 <p>(<strong>SecureAI</strong>-<strong>XAI</strong>) Investigating the Significance of Adversarial Attacks and Their Relation to Interpretability for Radar-based Human Activity Recognition Systems <br> <strong>Utku Ozbulak</strong>, Baptist Vandersmissen, Azarakhsh Jalalvand, Ivo Couckuyt, Arnout Van Messem, Wesley De Neve <br> <em>2021, Computer Vision and Image Understanding, Elsevier</em> <a href="https://www.sciencedirect.com/science/article/pii/S1077314220301338">[Link]</a></p>
 
@@ -126,23 +126,23 @@ Here's a brief overview of my career, including education, work history, researc
 <summary style='font-weight:bold; cursor:pointer;'>Other Publications</summary>
 <div style='padding-top:10px; padding-left:8px;'>
 
-<p>(<strong>Bioinf</strong>) A Controlled Study of Tokenizer Scale in SMILES-Based Foundation Models <br> Seongik Choi, Ju Hyung Lee, <strong>Utku Ozbulak</strong>, Joris Vankerschaver, Wesley De Neve <br> <em>2026, International Conference on AI in Healthcare (AIiH), Springer Nature</em></p>
+<p>(<strong>Bioinf</strong>) A Controlled Study of Tokenizer Scale in SMILES-Based Foundation Models <br> Seongik Choi, Ju Hyung Lee, <strong>Utku Ozbulak</strong>, Joris Vankerschaver, Wesley De Neve <br> <em>2026, International Conference on AI in Healthcare (AIiH), Springer Nature</em> <a href="https://link.springer.com/chapter/10.1007/978-3-032-35390-0_18">[Link]</a></p>
   
-<p>(<strong>Bioinf</strong>) Smiles-based bioactivity prediction through molecular encoder selection and data augmentation <br> Ju Hyung Lee, Seongik Choi, <strong>Utku Ozbulak</strong>, Joris Vankerschaver, Wesley De Neve <br> <em>2026, Journal of Cheminformatics</em></p>
+<p>(<strong>Bioinf</strong>) Smiles-based bioactivity prediction through molecular encoder selection and data augmentation <br> Ju Hyung Lee, Seongik Choi, <strong>Utku Ozbulak</strong>, Joris Vankerschaver, Wesley De Neve <br> <em>2026, Journal of Cheminformatics</em> <a href="https://link.springer.com/article/10.1186/s13321-026-01251-0">[Link]</a></p>
 
-<p>(<strong>SecureAI</strong>) Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression <br> Oleksii Nasypanyi, Jaemin Cho, <strong>Utku Ozbulak</strong>, Byungkon Kang, Francois Rameau <br> <em>2026, ECCV</em></p>
+<p>(<strong>SecureAI</strong>) Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression <br> Oleksii Nasypanyi, Jaemin Cho, <strong>Utku Ozbulak</strong>, Byungkon Kang, Francois Rameau <br> <em>2026, ECCV</em> <a href="https://arxiv.org/abs/2606.31164">[Link]</a></p>
 
-<p>(<strong>Biomed</strong>) Predicting Agitation Stability of Monoclonal Antibodies during Developability Assessment <br> Michaela Cohrs, Nevena Pagureva, <strong>Utku Ozbulak</strong>, Wesley De Neve, Kevin Braeckmans, Stefaan De Smedt, Slavka Tcholakova, Zahari Vinarov, Hristo L. Svilenov <br> <em>2026, Molecular Pharmaceutics</em></p>
+<p>(<strong>Biomed</strong>) Predicting Agitation Stability of Monoclonal Antibodies during Developability Assessment <br> Michaela Cohrs, Nevena Pagureva, <strong>Utku Ozbulak</strong>, Wesley De Neve, Kevin Braeckmans, Stefaan De Smedt, Slavka Tcholakova, Zahari Vinarov, Hristo L. Svilenov <br> <em>2026, Molecular Pharmaceutics</em> <a href="https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.6c00092">[Link]</a></p>
 
-<p>(<strong>Biomed</strong>) Balancing Redundancy and Diversity: An In-Depth Analysis of Active Learning for Laparoscopic Video Segmentation <br> Seyed Amir Mousavi, Esla Timothy Anzaku, <strong>Utku Ozbulak</strong>, Robbe De Muynck, Francesca Tozzi, Nikdokht Rashidian, Wouter Willaert, Wesley De Neve <br> <em>2025, MICCAI - DEMI Workshop</em></p>
+<p>(<strong>Biomed</strong>) Balancing Redundancy and Diversity: An In-Depth Analysis of Active Learning for Laparoscopic Video Segmentation <br> Seyed Amir Mousavi, Esla Timothy Anzaku, <strong>Utku Ozbulak</strong>, Robbe De Muynck, Francesca Tozzi, Nikdokht Rashidian, Wouter Willaert, Wesley De Neve <br> <em>2025, MICCAI - DEMI Workshop</em> <a href="https://link.springer.com/chapter/10.1007/978-3-032-08009-7_24">[Link]</a></p>
 
-<p>(<strong>Med</strong>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br> Seyed Amir Mousavi, <strong>Utku Ozbulak</strong>, Francesca Tozzi, Nikdokht Rashidian, Wouter Willaert, Joris Vankerschaver, Wesley De Neve <br> <em>2025, Arxiv</em></p>
+<p>(<strong>Med</strong>) One Patient's Annotation is Another One's Initialization: Towards Zero-Shot Surgical Video Segmentation with Cross-Patient Initialization <br> Seyed Amir Mousavi, <strong>Utku Ozbulak</strong>, Francesca Tozzi, Nikdokht Rashidian, Wouter Willaert, Joris Vankerschaver, Wesley De Neve <br> <em>2025, Arxiv</em> <a href="https://arxiv.org/abs/2503.02228">[Link]</a></p>
 
-<p>(<strong>Bioinf</strong>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants <br> Woowon Jang, Shiwoo Koak, Jiwon Im, <strong>Utku Ozbulak</strong>, Joris Vankerschaver <br> <em>2023, Arxiv</em></p>
+<p>(<strong>Bioinf</strong>) BRCA Gene Mutations in dbSNP: A Visual Exploration of Genetic Variants <br> Woowon Jang, Shiwoo Koak, Jiwon Im, <strong>Utku Ozbulak</strong>, Joris Vankerschaver <br> <em>2023, Arxiv</em> <a href="https://arxiv.org/abs/2309.00311">[Link]</a></p>
 
-<p>(<strong>Biomed</strong>) Tryp: A Dataset of Microscopy Images of Unstained Thick Blood Smears for Trypanosome Detection <br> Esla Timothy Anzaku, Mohammed Aliy Mohammed, <strong>Utku Ozbulak</strong>, Jongbum Won, Hyesoo Hong, Janarthanan Krishnamoorthy, Sofie Van Hoecke, Stefan Magez, Arnout Van Messem, Wesley De Neve <br> <em>2023, Scientific Data, Nature Publishing</em></p>
+<p>(<strong>Biomed</strong>) Tryp: A Dataset of Microscopy Images of Unstained Thick Blood Smears for Trypanosome Detection <br> Esla Timothy Anzaku, Mohammed Aliy Mohammed, <strong>Utku Ozbulak</strong>, Jongbum Won, Hyesoo Hong, Janarthanan Krishnamoorthy, Sofie Van Hoecke, Stefan Magez, Arnout Van Messem, Wesley De Neve <br> <em>2023, Scientific Data, Nature Publishing</em> <a href="https://www.nature.com/articles/s41597-023-02608-y">[Link]</a></p>
 
-<p>(<strong>Bioinf</strong>-<strong>Med</strong>) Automatic Detection of Trypanosomosis in Thick Blood Smears Using Image Pre-processing and Deep Learning <br> Taewoo Jung, Esla Timothy Anzaku, <strong>Utku Ozbulak</strong>, Stefan Magez, Arnout Van Messem, Wesley De Neve <br> <em>2023, International Conference on Intelligent Human Computer Interaction (IHCI)</em></p>
+<p>(<strong>Bioinf</strong>-<strong>Med</strong>) Automatic Detection of Trypanosomosis in Thick Blood Smears Using Image Pre-processing and Deep Learning <br> Taewoo Jung, Esla Timothy Anzaku, <strong>Utku Ozbulak</strong>, Stefan Magez, Arnout Van Messem, Wesley De Neve <br> <em>2023, International Conference on Intelligent Human Computer Interaction (IHCI)</em> <a href="https://link.springer.com/chapter/10.1007/978-3-030-68452-5_27">[Link]</a></p>
 
 </div>
 </details>
