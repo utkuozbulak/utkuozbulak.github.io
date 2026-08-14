@@ -15,7 +15,7 @@ These days, I'm working on automated machine learning research for vision proble
 <br>
 Here's a brief overview of my career, including education, work history, research focus (past and present), publications, and repositories.
 
-<h2 id="education">News</h2>
+<h2 id="News">News</h2>
 <!--
 <p><b>09/26</b> Going to join George Mason University Korea as an Assistant Professor in the Computational Data Sciences Department.</p>
 -->
@@ -47,7 +47,8 @@ Here's a brief overview of my career, including education, work history, researc
     2022 - 2023: <strong>Postdoctoral Fellow</strong>, Ghent University Global Campus, South Korea<br><br>
     2017 - 2022: <strong>AI Researcher</strong>, Ghent University Global Campus, South Korea<br><br>
     2015 - 2016: <strong>SAP Business Intelligence Consultant</strong>, The Coca Cola Company, Turkey<br><br>
-    2014 - 2015: <strong>SAP Business Intelligence Consultant</strong>, Turkish Airlines, Turkey
+    2014 - 2015: <strong>SAP Business Intelligence Consultant</strong>, Turkish Airlines, Turkey<br><br>
+    
   </div>
 </details>
 
@@ -58,7 +59,7 @@ Here's a brief overview of my career, including education, work history, researc
     <p>(<strong>XAI</strong>) Trustworthy and explainable AI</p>
     <p>(<strong>SecureAI</strong>) AI security and safety</p>
     <p>(<strong>Bio</strong>) Bioinformatics and genomics</p>
-    <p>(<strong>SSL</strong>) Image-based self-supervised learning</p>
+    <p>(<strong>SSL</strong>) Image-based self-supervised learning</p><br><br>
   </div>
 </details>
 
