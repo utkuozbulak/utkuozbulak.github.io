@@ -56,8 +56,8 @@ Here's a brief overview of my career, including education, work history, researc
 <div style='padding-top:10px; padding-left:8px;'>
 <p>(<strong>Biomed</strong>) Medical and biomedical imaging</p>
 <p>(<strong>XAI</strong>) Trustworthy and explainable AI</p>
+<p>(<strong>Bioinf</strong>) Bioinformatics, genomics, and drug discovery</p>
 <p>(<strong>SecureAI</strong>) AI security and safety</p>
-<p>(<strong>Bioinf</strong>) Bioinformatics and genomics</p>
 <p>(<strong>SSL</strong>) Image-based self-supervised learning</p>
 </div>
 </details>
@@ -142,7 +142,7 @@ Here's a brief overview of my career, including education, work history, researc
 
 <p>(<strong>Biomed</strong>) Tryp: A Dataset of Microscopy Images of Unstained Thick Blood Smears for Trypanosome Detection <br> Esla Timothy Anzaku, Mohammed Aliy Mohammed, <strong>Utku Ozbulak</strong>, Jongbum Won, Hyesoo Hong, Janarthanan Krishnamoorthy, Sofie Van Hoecke, Stefan Magez, Arnout Van Messem, Wesley De Neve <br> <em>2023, Scientific Data, Nature Publishing</em> <a href="https://www.nature.com/articles/s41597-023-02608-y">[Link]</a></p>
 
-<p>(<strong>Bioinf</strong>-<strong>Med</strong>) Automatic Detection of Trypanosomosis in Thick Blood Smears Using Image Pre-processing and Deep Learning <br> Taewoo Jung, Esla Timothy Anzaku, <strong>Utku Ozbulak</strong>, Stefan Magez, Arnout Van Messem, Wesley De Neve <br> <em>2023, International Conference on Intelligent Human Computer Interaction (IHCI)</em> <a href="https://link.springer.com/chapter/10.1007/978-3-030-68452-5_27">[Link]</a></p>
+<p>(<strong>Bioinf</strong>-<strong>Med</strong>) Automatic Detection of Trypanosomosis in Thick Blood Smears Using Image Pre-processing and Deep Learning <br> Taewoo Jung, Esla Timothy Anzaku, <strong>Utku Ozbulak</strong>, Stefan Magez, Arnout Van Messem, Wesley De Neve <br> <em>2021, International Conference on Intelligent Human Computer Interaction (IHCI)</em> <a href="https://link.springer.com/chapter/10.1007/978-3-030-68452-5_27">[Link]</a></p>
 
 </div>
 </details>
