@@ -45,7 +45,7 @@ Here's a brief overview of my career, including education, work history, researc
 <p>2025 - Current: <strong>Adjunct Professor</strong>, George Mason Korea, South Korea</p>
 <p>2023 - Current: <strong>Research Professor</strong>, Ghent University Global Campus, South Korea</p>
 <p>2022 - 2023: <strong>Postdoctoral Fellow</strong>, Ghent University Global Campus, South Korea</p>
-<p>2017 - 2022: <strong>AI Researcher</strong>, Ghent University Global Campus, South Korea</p>
+<p>2017 - 2022: <strong>Doctoral Researcher</strong>, Ghent University Global Campus, South Korea</p>
 <p>2015 - 2016: <strong>SAP Business Intelligence Consultant</strong>, The Coca Cola Company, Turkey</p>
 <p>2014 - 2015: <strong>SAP Business Intelligence Consultant</strong>, Turkish Airlines, Turkey</p>
 </div>
