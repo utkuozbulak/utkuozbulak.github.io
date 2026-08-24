@@ -8,9 +8,11 @@ redirect_from:
 - /about.html
 ---
 <div style="text-align: justify"> 
-I'm currently working as a Research Professor at Ghent University Global Campus (GUGC) and an Adjunct Professor at George Mason University Korea (GMUK), currently teaching Data Visualization at GMUK and Bioinformatics at GUGC.
+I'm currently working as an Assistant Professor in the Computational Data Sciences Department at George Mason University Korea, where I teach several courses related to data science and conduct research on applied AI for a variety of medical and biomedical problems.
 <br><br>
-These days, I'm working on automated machine learning research for vision problems, AI-assisted characterization of sub-visible particles in biopharmaceuticals and general vision problems involving medical and biomedical imaging, some topics involving spurious correlations, robust predictions, and interpretable AI. If you're working on cool projects within my areas of interest that I can contribute to, feel free to reach out!
+These days, I'm tinkering with automated machine learning experiments (e.g., Autoresearch) for computer vision and working on several applied AI projects in biopharmaceuticals and medical and biomedical imaging. I'm also interested in fundamental machine learning problems related to spurious correlations, robust predictions, and interpretable AI.
+<br><br>
+If you are working on related topics -- especially pharmaceutical applications (quality control, sub-visible particles, vial inspection, and similar topics) -- and are looking for someone with strong **coding**, **visualization**, and **AI** experience, feel free to reach out.
 </div>
 <br>
 Here's a brief overview of my career, including education, work history, research focus (past and present), publications, and repositories.
