@@ -12,7 +12,7 @@ I'm currently working as an Assistant Professor in the Computational Data Scienc
 <br><br>
 These days, I'm tinkering with automated machine learning experiments (e.g., Autoresearch) for computer vision and working on several applied AI projects in biopharmaceuticals and medical and biomedical imaging. I'm also interested in fundamental machine learning problems related to spurious correlations, robust predictions, and interpretable AI.
 <br><br>
-If you are working on related topics -- especially pharmaceutical applications (quality control, sub-visible particles, vial inspection, and similar topics) -- and are looking for someone with strong **coding**, **visualization**, and **AI** experience, feel free to reach out.
+If you are working on related topics -- especially pharmaceutical applications (quality control, sub-visible particles, vial inspection, and similar topics) -- and are looking for someone with strong coding, visualization, and AI experience, feel free to reach out.
 </div>
 <br>
 Here's a brief overview of my career, including education, work history, research focus (past and present), publications, and repositories.
